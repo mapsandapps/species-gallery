@@ -8,7 +8,14 @@ var butterflies = [
     "id": "sispsk",
     "commonName": "Silver-spotted Skipper",
     "sciName": "Epargyreus clarus",
-    "file": "/butterfly-photos/silver-spotted skipper.jpg"
+    "file": "/butterfly-photos/silver-spotted skipper.jpg",
+    "monthly": [
+      {
+        "source": "BugGuide",
+        "collected": "20190222",
+        "data": [0, 0, 1, 3, 0, 3, 1, 0, 0, 0, 0, 0]
+      }
+    ]
   },
   {
     "sortOrder": 1,

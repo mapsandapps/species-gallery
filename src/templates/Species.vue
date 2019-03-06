@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <h1>{{ $page.species.fields.commonName }}</h1>
-    <img :src='$page.species.fields.file'>
+    <g-image :src='$page.species.fields.file' />
   </Layout>
 </template>
 
@@ -27,3 +27,9 @@ export default {
     }
   }
 </page-query>
+
+<style scoped>
+img {
+  max-width: 100%;
+}
+</style>
