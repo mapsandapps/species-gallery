@@ -21,14 +21,16 @@ export default {
       title
       id
       fields {
-        file
+        files {
+          url
+        }
         commonName
       }
     }
   }
 </page-query>
 
-<style scoped>
+<style lang="scss" scoped>
 img {
   max-width: 100%;
 }

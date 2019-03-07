@@ -2,29 +2,8 @@
 // on server-side and add custom data to the GraphQL data layer.
 // Learn more: https://gridsome.org/docs/server-api
 
-var butterflies = [
-  {
-    "sortOrder": 0,
-    "id": "sispsk",
-    "commonName": "Silver-spotted Skipper",
-    "sciName": "Epargyreus clarus",
-    "file": "/butterfly-photos/silver-spotted skipper.jpg",
-    "monthly": [
-      {
-        "source": "BugGuide",
-        "collected": "20190222",
-        "data": [0, 0, 1, 3, 0, 3, 1, 0, 0, 0, 0, 0]
-      }
-    ]
-  },
-  {
-    "sortOrder": 1,
-    "id": "cochsk",
-    "commonName": "Common Checkered-skipper",
-    "sciName": "Pyrgus communis",
-    "file": "/butterfly-photos/common checkered-skipper.jpg"
-  }
-]
+var galleries = require('./src/data/galleries.json');
+var butterflies = require('./src/data/butterflies.json');
 
 // Changes here requires a server restart.
 // To restart press CTRL + C in terminal and run `gridsome develop`
@@ -34,15 +13,31 @@ module.exports = function (api) {
     // Use the Data store API here: https://gridsome.org/docs/data-store-api
     console.log(butterflies)
 
-    const contentType = store.addContentType({
-      typeName: 'Species',
-      route: '/species/:slug'
+    const galleryContentType = store.addContentType({
+      typeName: 'Gallery',
+      route: '/:slug'
+    })
+
+    for (const item of galleries) {
+      galleryContentType.addNode({
+        id: item.id,
+        fields: {
+          ...item
+        }
+      })
+    }
+
+    const butterflyContentType = store.addContentType({
+      typeName: 'Butterfly',
+      route: '/butterflies/:slug'
     })
 
     for (const item of butterflies) {
-      contentType.addNode({
+      butterflyContentType.addNode({
         id: item.id,
-        fields: item
+        fields: {
+          ...item
+        }
       })
     }
   })
