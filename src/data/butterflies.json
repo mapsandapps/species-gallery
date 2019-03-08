@@ -4,6 +4,12 @@
     "id": "epargyreus-clarus",
     "commonName": "Silver-spotted Skipper",
     "sciName": "Epargyreus clarus",
+    "taxonomy": {
+      "family": "Skippers",
+      "sciFamily": "Hesperiidae",
+      "subfamily": "Spread-wing Skippers",
+      "sciSubfamily": "Pyrginae"
+    },
     "files": [
       {
         "url": "/butterfly-photos/silver-spotted skipper.jpg"
@@ -22,6 +28,12 @@
     "id": "pyrgus-communis",
     "commonName": "Common Checkered-skipper",
     "sciName": "Pyrgus communis",
+    "taxonomy": {
+      "family": "Skippers",
+      "sciFamily": "Hesperiidae",
+      "subfamily": "Spread-wing Skippers",
+      "sciSubfamily": "Pyrginae"
+    },
     "files": [
       {
         "url": "/butterfly-photos/common checkered-skipper.jpg"

@@ -2,6 +2,34 @@
   {
     "id": "butterflies",
     "name": "Butterflies",
-    "type": "Butterfly"
+    "type": "Butterfly",
+    "children": [
+      {
+        "level": "family",
+        "id": "swallowtails",
+        "name": "Swallowtails",
+        "sciName": "Papillonidae"
+      },
+      {
+        "level": "family",
+        "id": "skippers",
+        "name": "Skippers",
+        "sciName": "Hesperiidae",
+        "children": [
+          {
+            "level": "subfamily",
+            "id": "spread-wing-skippers",
+            "name": "Spread-wing Skippers",
+            "sciName": "Pyrginae"
+          },
+          {
+            "level": "subfamily",
+            "id": "grass-skippers",
+            "name": "Grass Skippers",
+            "sciName": "Hesperiinae"
+          }
+        ]
+      }
+    ]
   }
 ]
