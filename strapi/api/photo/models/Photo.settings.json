@@ -1,0 +1,74 @@
+{
+  "connection": "default",
+  "collectionName": "photos",
+  "info": {
+    "name": "photo",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "smallUrl": {
+      "default": "",
+      "type": "string"
+    },
+    "mediumUrl": {
+      "default": "",
+      "type": "string"
+    },
+    "largeUrl": {
+      "default": "",
+      "type": "string"
+    },
+    "species": {
+      "model": "species",
+      "via": "photos"
+    },
+    "photographer": {
+      "default": "",
+      "type": "string"
+    },
+    "copyright": {
+      "default": "",
+      "type": "text"
+    },
+    "stage": {
+      "default": "none",
+      "type": "enumeration",
+      "enum": [
+        "none",
+        "juvenile",
+        "immature",
+        "adult",
+        "first winter",
+        "first year",
+        " second year",
+        " third year",
+        " egg",
+        " pupa",
+        " larva"
+      ]
+    },
+    "plumage": {
+      "default": "none",
+      "type": "enumeration",
+      "enum": [
+        "none",
+        "breeding",
+        "nonbreeding"
+      ]
+    },
+    "sex": {
+      "default": "",
+      "type": "enumeration",
+      "enum": [
+        "none",
+        "male",
+        "female"
+      ]
+    }
+  }
+}
