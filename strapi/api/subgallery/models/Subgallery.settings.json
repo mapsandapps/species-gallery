@@ -22,6 +22,10 @@
     "species": {
       "collection": "species",
       "via": "subgallery"
+    },
+    "featuredPhoto": {
+      "model": "photo",
+      "via": "featuredInSubgallery"
     }
   }
 }

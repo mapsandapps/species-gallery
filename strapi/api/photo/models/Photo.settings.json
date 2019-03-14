@@ -27,10 +27,6 @@
       "model": "species",
       "via": "photos"
     },
-    "photographer": {
-      "default": "",
-      "type": "string"
-    },
     "copyright": {
       "default": "",
       "type": "text"
@@ -69,6 +65,22 @@
         "male",
         "female"
       ]
+    },
+    "photographer": {
+      "default": "",
+      "type": "enumeration",
+      "enum": [
+        "none",
+        "Shawn Taylor"
+      ]
+    },
+    "featuredInSubgallery": {
+      "model": "subgallery",
+      "via": "featuredPhoto"
+    },
+    "featuredInGallery": {
+      "model": "gallery",
+      "via": "featuredPhoto"
     }
   }
 }

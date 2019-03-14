@@ -22,6 +22,10 @@
     "subgalleries": {
       "collection": "subgallery",
       "via": "gallery"
+    },
+    "featuredPhoto": {
+      "model": "photo",
+      "via": "featuredInGallery"
     }
   }
 }
