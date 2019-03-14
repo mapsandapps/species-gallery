@@ -1,19 +1,13 @@
 <template>
   <Layout>
     <h1>{{ $page.gallery.name }}</h1>
-    <ul>
-      <li v-for="subgallery in $page.gallery.belongsTo.edges" :key="subgallery.node.id">
-        {{ subgallery.node.name }}
-        <ul>
-          <li v-for="species in subgallery.node.belongsTo.edges" :key="species.node.id">
-            {{ species.node.commonName }} - {{ species.node.scientificName}}
-          </li>
-        </ul>
-        <!-- TODO: figure out where Subgallery.vue should live so it won't need a route -->
-        <!-- keep going along the Tags example -->
-        <!-- TODO: display species here (add a belongsTo on subgalleries in the query below) -->
-      </li>
-    </ul>
+    <div v-for="subgallery in $page.gallery.belongsTo.edges" :key="subgallery.node.id">
+      <h2>{{ subgallery.node.name }}</h2>
+      <figure v-for="species in subgallery.node.species" :key="species.id">
+        <span v-if="species.featuredPhoto"><img :src="species.featuredPhoto.url"></span>
+        <figcaption>{{ species.commonName }} - {{ species.scientificName}}</figcaption>
+      </figure>
+    </div>
   </Layout>
 </template>
 
@@ -28,15 +22,12 @@ query Gallery ($id: String!) {
           ...on Subgallery {
             id
             name
-            belongsTo {
-              edges {
-                node {
-                  ...on Species {
-                    id
-                    commonName
-                    scientificName
-                  }
-                }
+            species {
+              id
+              commonName
+              scientificName
+              featuredPhoto {
+                url
               }
             }
           }
@@ -103,4 +94,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+img {
+  max-width: 200px;
+}
 </style>

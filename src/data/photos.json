@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "url": "/butterfly-photos/silver-spotted skipper.jpg",
+    "species": "epargyreus-clarus",
+    "createdAt": "2019-03-07T00:31:28.432Z",
+    "updatedAt": "2019-03-09T00:50:39.227Z",
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-07-24"
+    }
+  },
+  {
+    "id": 2,
+    "url": "/butterfly-photos/common checkered-skipper.jpg",
+    "species": "pyrgus-communis",
+    "createdAt": "2019-03-07T00:31:38.962Z",
+    "updatedAt": "2019-03-09T00:50:43.446Z",
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-09-09"
+    }
+  }
+]

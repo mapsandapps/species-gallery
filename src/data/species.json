@@ -1,167 +1,49 @@
 [
   {
     "id": "epargyreus-clarus",
-    "created_at": "2019-03-07T00:30:34.631Z",
-    "updated_at": "2019-03-08T13:54:07.459Z",
-    "common_name": "Silver-spotted Skipper",
-    "scientific_name": "Epargyreus clarus",
+    "createdAt": "2019-03-07T00:30:34.631Z",
+    "updatedAt": "2019-03-08T13:54:07.459Z",
+    "commonName": "Silver-spotted Skipper",
+    "scientificName": "Epargyreus clarus",
     "subgalleries": ["1"],
-    "next-species": {
-      "id": 3,
-      "slug": "urbanus-proteus",
-      "created_at": "2019-03-08T13:54:07.412Z",
-      "updated_at": "2019-03-09T00:26:42.742Z",
-      "common_name": "Long-tailed Skipper",
-      "scientific_name": "Urbanus proteus",
-      "subgallery": 1,
-      "next-species": 4,
-      "previous-species": 1
-    },
-    "previous-species": null,
-    "photos": [
-      {
-        "id": 1,
-        "smallUrl": null,
-        "mediumUrl": null,
-        "largeUrl": "/butterfly-photos/silver-spotted skipper.jpg",
-        "species": 1,
-        "created_at": "2019-03-07T00:31:28.432Z",
-        "updated_at": "2019-03-09T00:50:39.227Z",
-        "copyright": null,
-        "stage": "adult",
-        "plumage": null,
-        "sex": null,
-        "photographer": "Shawn Taylor"
-      }
-    ]
+    "featured_photo": 1,
+    "photos": [1]
   },
   {
     "id": "urbanus-proteus",
-    "created_at": "2019-03-08T13:54:07.412Z",
-    "updated_at": "2019-03-09T00:26:42.742Z",
-    "common_name": "Long-tailed Skipper",
-    "scientific_name": "Urbanus proteus",
+    "createdAt": "2019-03-08T13:54:07.412Z",
+    "updatedAt": "2019-03-09T00:26:42.742Z",
+    "commonName": "Long-tailed Skipper",
+    "scientificName": "Urbanus proteus",
     "subgalleries": ["1"],
-    "next-species": {
-      "id": 4,
-      "slug": "erynnis-horatius",
-      "created_at": "2019-03-08T13:55:00.682Z",
-      "updated_at": "2019-03-09T00:26:46.549Z",
-      "common_name": "Horace's Duskywing",
-      "scientific_name": "Erynnis horatius",
-      "subgallery": 1,
-      "next-species": 5,
-      "previous-species": 3
-    },
-    "previous-species": {
-      "id": 1,
-      "slug": "epargyreus-clarus",
-      "created_at": "2019-03-07T00:30:34.631Z",
-      "updated_at": "2019-03-08T13:54:07.459Z",
-      "common_name": "Silver-spotted Skipper",
-      "scientific_name": "Epargyreus clarus",
-      "subgallery": 1,
-      "next-species": 3,
-      "previous-species": null
-    },
     "photos": []
   },
   {
     "id": "lerema-accius",
-    "created_at": "2019-03-08T13:55:25.500Z",
-    "updated_at": "2019-03-09T00:26:46.506Z",
-    "common_name": "Clouded Skipper",
-    "scientific_name": "Lerema accius",
+    "createdAt": "2019-03-08T13:55:25.500Z",
+    "updatedAt": "2019-03-09T00:26:46.506Z",
+    "commonName": "Clouded Skipper",
+    "scientificName": "Lerema accius",
     "subgalleries": ["1"],
-    "next-species": {
-      "id": 2,
-      "slug": "pyrgus-communis",
-      "created_at": "2019-03-07T00:31:08.036Z",
-      "updated_at": "2019-03-09T00:26:46.547Z",
-      "common_name": "Common Checkered-skipper",
-      "scientific_name": "Pyrgus communis",
-      "subgallery": 1,
-      "next-species": null,
-      "previous-species": 5
-    },
-    "previous-species": {
-      "id": 4,
-      "slug": "erynnis-horatius",
-      "created_at": "2019-03-08T13:55:00.682Z",
-      "updated_at": "2019-03-09T00:26:46.549Z",
-      "common_name": "Horace's Duskywing",
-      "scientific_name": "Erynnis horatius",
-      "subgallery": 1,
-      "next-species": 5,
-      "previous-species": 3
-    },
     "photos": []
   },
   {
     "id": "pyrgus-communis",
-    "created_at": "2019-03-07T00:31:08.036Z",
-    "updated_at": "2019-03-09T00:26:46.547Z",
-    "common_name": "Common Checkered-skipper",
-    "scientific_name": "Pyrgus communis",
+    "createdAt": "2019-03-07T00:31:08.036Z",
+    "updatedAt": "2019-03-09T00:26:46.547Z",
+    "commonName": "Common Checkered-skipper",
+    "scientificName": "Pyrgus communis",
     "subgalleries": ["1"],
-    "next-species": null,
-    "previous-species": {
-      "id": 5,
-      "slug": "lerema-accius",
-      "created_at": "2019-03-08T13:55:25.500Z",
-      "updated_at": "2019-03-09T00:26:46.506Z",
-      "common_name": "Clouded Skipper",
-      "scientific_name": "Lerema accius",
-      "subgallery": 1,
-      "next-species": 2,
-      "previous-species": 4
-    },
-    "photos": [
-      {
-        "id": 2,
-        "smallUrl": null,
-        "mediumUrl": null,
-        "largeUrl": "/butterfly-photos/common checkered-skipper.jpg",
-        "species": 2,
-        "created_at": "2019-03-07T00:31:38.962Z",
-        "updated_at": "2019-03-09T00:50:43.446Z",
-        "copyright": null,
-        "stage": "adult",
-        "plumage": null,
-        "sex": null,
-        "photographer": "Shawn Taylor"
-      }
-    ]
+    "featured_photo": 2,
+    "photos": [2]
   },
   {
     "id": "erynnis-horatius",
-    "created_at": "2019-03-08T13:55:00.682Z",
-    "updated_at": "2019-03-09T00:26:46.549Z",
-    "common_name": "Horace's Duskywing",
-    "scientific_name": "Erynnis horatius",
+    "createdAt": "2019-03-08T13:55:00.682Z",
+    "updatedAt": "2019-03-09T00:26:46.549Z",
+    "commonName": "Horace's Duskywing",
+    "scientificName": "Erynnis horatius",
     "subgalleries": ["1"],
-    "next-species": {
-      "id": 5,
-      "slug": "lerema-accius",
-      "created_at": "2019-03-08T13:55:25.500Z",
-      "updated_at": "2019-03-09T00:26:46.506Z",
-      "common_name": "Clouded Skipper",
-      "scientific_name": "Lerema accius",
-      "subgallery": 1,
-      "next-species": 2,
-      "previous-species": 4
-    },
-    "previous-species": {
-      "id": 3,
-      "slug": "urbanus-proteus",
-      "created_at": "2019-03-08T13:54:07.412Z",
-      "updated_at": "2019-03-09T00:26:42.742Z",
-      "common_name": "Long-tailed Skipper",
-      "scientific_name": "Urbanus proteus",
-      "subgallery": 1,
-      "next-species": 4,
-      "previous-species": 1
-    },
     "photos": []
   }
 ]

@@ -2,19 +2,19 @@
   {
     "id": "butterflies",
     "name": "Butterflies",
-    "created_at": "2019-03-07T00:29:38.702Z",
-    "updated_at": "2019-03-07T00:29:38.714Z"
+    "createdAt": "2019-03-07T00:29:38.702Z",
+    "updatedAt": "2019-03-07T00:29:38.714Z"
   },
   {
     "id": "moths",
     "name": "Moths",
-    "created_at": "2019-03-07T00:29:46.777Z",
-    "updated_at": "2019-03-07T00:29:46.785Z"
+    "createdAt": "2019-03-07T00:29:46.777Z",
+    "updatedAt": "2019-03-07T00:29:46.785Z"
   },
   {
     "id": "birds",
     "name": "Birds",
-    "created_at": "2019-03-07T00:29:52.362Z",
-    "updated_at": "2019-03-07T00:29:52.371Z"
+    "createdAt": "2019-03-07T00:29:52.362Z",
+    "updatedAt": "2019-03-07T00:29:52.371Z"
   }
 ]
