@@ -38,5 +38,239 @@
       "county": "Fulton",
       "date": "2018-09-09"
     }
+  },
+  {
+    "id": 3,
+    "url": "/bird-photos/Melanerpes-erythrocephalus.jpg",
+    "species": "melanerpes-erythrocephalus",
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-16"
+    }
+  },
+  {
+    "id": 4,
+    "url": "/bird-photos/Melanerpes-carolinus.jpg",
+    "species": "melanerpes-carolinus",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Heritage Park",
+      "city": null,
+      "county": "Cobb",
+      "date": "2019-01-21"
+    }
+  },
+  {
+    "id": 5,
+    "url": "/bird-photos/Melanerpes-carolinus.jpg",
+    "species": "melanerpes-carolinus",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-02"
+    }
+  },
+  {
+    "id": 6,
+    "url": "/bird-photos/Sphyrapicus-varius.jpg",
+    "species": "sphyrapicus-varius",
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Shorty Howell Park",
+      "city": null,
+      "county": "Gwinnett",
+      "date": "2018-12-15"
+    }
+  },
+  {
+    "id": 7,
+    "url": "/bird-photos/Sphyrapicus-varius.jpg",
+    "species": "sphyrapicus-varius",
+    "annotations": {
+      "stage": "immature",
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-12-31"
+    }
+  },
+  {
+    "id": 8,
+    "url": "/bird-photos/Sphyrapicus-varius.jpg",
+    "species": "sphyrapicus-varius",
+    "annotations": {
+      "stage": "immature",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-12-26"
+    }
+  },
+  {
+    "id": 9,
+    "url": "/bird-photos/Picoides-pubescens.jpg",
+    "species": "picoides-pubescens",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Clyde Shepherd",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-01-27"
+    }
+  },
+  {
+    "id": 10,
+    "url": "/bird-photos/Picoides-pubescens.jpg",
+    "species": "picoides-pubescens",
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2017-03-30"
+    }
+  },
+  {
+    "id": 11,
+    "url": "/bird-photos/Picoides-villosus.jpg",
+    "species": "picoides-villosus",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Heritage Park",
+      "city": null,
+      "county": "Cobb",
+      "date": "2019-01-21"
+    }
+  },
+  {
+    "id": 12,
+    "url": "/bird-photos/Picoides-villosus.jpg",
+    "species": "picoides-villosus",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Blue Heron Nature Preserve",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2017-01-13"
+    }
+  },
+  {
+    "id": 13,
+    "url": "/bird-photos/Colaptes-auratus.jpg",
+    "species": "colaptes-auratus",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Clyde Shepherd",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2018-11-17"
+    }
+  },
+  {
+    "id": 14,
+    "url": "/bird-photos/Drycopus-pileatus.jpg",
+    "species": "drycopus-pileatus",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Constitution Lakes",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2018-04-14"
+    }
+  },
+  {
+    "id": 15,
+    "url": "/bird-photos/Drycopus-pileatus.jpg",
+    "species": "drycopus-pileatus",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2017-04-22"
+    }
   }
 ]

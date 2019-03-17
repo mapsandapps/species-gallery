@@ -12,5 +12,20 @@
       "urbanus-proteus",
       "epargyreus-clarus"
     ]
+  },
+  {
+    "id": 2,
+    "name": "Woodpeckers",
+    "featuredPhoto": 6,
+    "galleries": ["birds"],
+    "species": [
+      "melanerpes-erythrocephalus",
+      "melanerpes-carolinus",
+      "sphyrapicus-varius",
+      "picoides-pubescens",
+      "picoides-villosus",
+      "colaptes-auratus",
+      "drycopus-pileatus"
+    ]
   }
 ]

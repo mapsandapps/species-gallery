@@ -3,10 +3,7 @@
     <h1>{{ $page.gallery.name }}</h1>
     <div v-for="subgallery in $page.gallery.belongsTo.edges" :key="subgallery.node.id">
       <h2>{{ subgallery.node.name }}</h2>
-      <figure v-for="species in subgallery.node.species" :key="species.id">
-        <span v-if="species.featuredPhoto"><img :src="species.featuredPhoto.url"></span>
-        <figcaption>{{ species.commonName }} - {{ species.scientificName}}</figcaption>
-      </figure>
+      <SpeciesGalleryEntry v-for="species in subgallery.node.species" :key="species.id" :species="species" />
     </div>
   </Layout>
 </template>
@@ -46,6 +43,16 @@ export default {
     SpeciesGalleryEntry
   },
   metaInfo() {
+    this.$route.meta.breadcrumbs = [
+      {
+        name: 'All',
+        link: '/'
+      },
+      {
+        name: this.$page.gallery.name,
+        link: this.$route.path
+      }
+    ]
     return {
       title: this.$page.gallery.name
     }
@@ -94,7 +101,4 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-img {
-  max-width: 200px;
-}
 </style>

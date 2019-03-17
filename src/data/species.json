@@ -6,7 +6,7 @@
     "commonName": "Silver-spotted Skipper",
     "scientificName": "Epargyreus clarus",
     "subgalleries": ["1"],
-    "featured_photo": 1,
+    "featuredPhoto": 1,
     "photos": [1]
   },
   {
@@ -34,7 +34,7 @@
     "commonName": "Common Checkered-skipper",
     "scientificName": "Pyrgus communis",
     "subgalleries": ["1"],
-    "featured_photo": 2,
+    "featuredPhoto": 2,
     "photos": [2]
   },
   {
@@ -45,5 +45,61 @@
     "scientificName": "Erynnis horatius",
     "subgalleries": ["1"],
     "photos": []
+  },
+  {
+    "id": "melanerpes-erythrocephalus",
+    "commonName": "Red-headed Woodpecker",
+    "scientificName": "Melanerpes erythrocephalus",
+    "commonality": "Common in spring, summer, and fall; uncommon in winter",
+    "featuredPhoto": 3,
+    "photos": [3]
+  },
+  {
+    "id": "melanerpes-carolinus",
+    "commonName": "Red-bellied Woodpecker",
+    "scientificName": "Melanerpes carolinus",
+    "commonality": "Abundant year-round",
+    "featuredPhoto": 4,
+    "photos": [4, 5]
+  },
+  {
+    "id": "sphyrapicus-varius",
+    "commonName": "Yellow-bellied Sapsucker",
+    "scientificName": "Sphyrapicus varius",
+    "commonality": "Common in fall and winter; uncommon in spring",
+    "featuredPhoto": 6,
+    "photos": [6, 7, 8]
+  },
+  {
+    "id": "picoides-pubescens",
+    "commonName": "Downy Woodpecker",
+    "scientificName": "Picoides pubescens",
+    "commonality": "Abundant year-round",
+    "featuredPhoto": 9,
+    "photos": [9, 10]
+  },
+  {
+    "id": "picoides-villosus",
+    "commonName": "Hairy Woodpecker",
+    "scientificName": "Picoides villosus",
+    "commonality": "Uncommon year-round",
+    "featuredPhoto": 12,
+    "photos": [11, 12]
+  },
+  {
+    "id": "colaptes-auratus",
+    "commonName": "Northern Flicker",
+    "scientificName": "Colaptes auratus",
+    "commonality": "Abundant in fall; common in winter, spring, and summer",
+    "featuredPhoto": 13,
+    "photos": [13]
+  },
+  {
+    "id": "drycopus-pileatus",
+    "commonName": "Pileated Woodpecker",
+    "scientificName": "Drycopus pileatus",
+    "commonality": "Common year-round",
+    "featuredPhoto": 14,
+    "photos": [14, 15]
   }
 ]

@@ -8,6 +8,11 @@
         <g-link class="nav__link" to="/">Home</g-link>
         <g-link class="nav__link" to="/about">About</g-link>
       </nav>
+      <ul v-if="this.breadcrumbs">
+        <li v-for="breadcrumb in this.breadcrumbs" :key="breadcrumb.name">
+          <a :href="breadcrumb.link">{{ breadcrumb.name }}</a>
+        </li>
+      </ul>
     </header>
     <slot/>
   </div>
@@ -20,6 +25,19 @@ query {
   }
 }
 </static-query>
+
+<script>
+export default {
+  data() {
+    return {
+      breadcrumbs: []
+    }
+  },
+  mounted() {
+    this.breadcrumbs = this.$route.meta.breadcrumbs
+  }
+}
+</script>
 
 <style>
 body {

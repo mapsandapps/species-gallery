@@ -21,8 +21,14 @@ query {
 
 <script>
 export default {
-  metaInfo: {
-    title: ''
+  metaInfo() {
+    title: '',
+    this.$route.meta.breadcrumbs = [
+      {
+        name: 'All',
+        link: '/'
+      }
+    ]
   },
 
   methods: {

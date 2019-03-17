@@ -1,6 +1,12 @@
 <template>
-<div>
-</div>
+  <figure>
+    <img v-if="species.featuredPhoto"
+      :src="species.featuredPhoto.url">
+    <figcaption>
+      {{ species.commonName }}<br>
+      {{ species.scientificName}}
+    </figcaption>
+  </figure>
 </template>
 
 <script>
@@ -9,6 +15,10 @@ export default {
   components: {
   },
   props: {
+    species: {
+      required: true,
+      type: Object
+    }
   },
   data() {
     return {
@@ -24,4 +34,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+img {
+  max-width: 200px;
+}
 </style>
