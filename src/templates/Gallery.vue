@@ -1,8 +1,10 @@
 <template>
   <Layout>
     <h1>{{ $page.gallery.name }}</h1>
-    <div v-for="subgallery in $page.gallery.belongsTo.edges" :key="subgallery.node.id">
-      <h2>{{ subgallery.node.name }}</h2>
+    <div
+      v-for="subgallery in $page.gallery.belongsTo.edges"
+      :key="subgallery.node.id">
+      <h2><Breadcrumbs :breadcrumbs="subgallery.node.names" /></h2>
       <SpeciesGalleryEntry v-for="species in subgallery.node.species" :key="species.id" :species="species" />
     </div>
   </Layout>
@@ -18,7 +20,7 @@ query Gallery ($id: String!) {
         node {
           ...on Subgallery {
             id
-            name
+            names
             species {
               id
               commonName
@@ -36,16 +38,18 @@ query Gallery ($id: String!) {
 </page-query>
 
 <script>
+import Breadcrumbs from '~/components/Breadcrumbs'
 import SpeciesGalleryEntry from '~/components/SpeciesGalleryEntry'
 
 export default {
   components: {
+    Breadcrumbs,
     SpeciesGalleryEntry
   },
   metaInfo() {
     this.$route.meta.breadcrumbs = [
       {
-        name: 'All',
+        name: 'Home',
         link: '/'
       },
       {

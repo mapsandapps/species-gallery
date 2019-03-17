@@ -8,12 +8,20 @@
         <g-link class="nav__link" to="/">Home</g-link>
         <g-link class="nav__link" to="/about">About</g-link>
       </nav>
-      <ul v-if="this.breadcrumbs">
-        <li v-for="breadcrumb in this.breadcrumbs" :key="breadcrumb.name">
-          <a :href="breadcrumb.link">{{ breadcrumb.name }}</a>
-        </li>
-      </ul>
     </header>
+    <div v-if="this.breadcrumbs">
+      <span
+        v-for="(crumb, index) in this.allButLast"
+        :key="index">
+        <span v-if="crumb.link">
+          <a :href="crumb.link">{{ crumb.name }}</a> &raquo;
+        </span>
+        <span v-else>
+          {{ crumb.name }} &raquo;
+        </span>
+      </span>
+      {{ this.last.name }}
+    </div>
     <slot/>
   </div>
 </template>
@@ -27,10 +35,22 @@ query {
 </static-query>
 
 <script>
+import _ from 'lodash'
+
 export default {
+  components: {
+  },
   data() {
     return {
-      breadcrumbs: []
+      breadcrumbs: null
+    }
+  },
+  computed: {
+    allButLast() {
+      return _.slice(this.breadcrumbs, 0, this.breadcrumbs.length - 1)
+    },
+    last() {
+      return _.last(this.breadcrumbs)
     }
   },
   mounted() {

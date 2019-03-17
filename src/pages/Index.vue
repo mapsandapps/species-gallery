@@ -25,7 +25,7 @@ export default {
     title: '',
     this.$route.meta.breadcrumbs = [
       {
-        name: 'All',
+        name: 'Home',
         link: '/'
       }
     ]
