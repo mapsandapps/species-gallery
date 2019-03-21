@@ -2,19 +2,51 @@
   {
     "id": "butterflies",
     "name": "Butterflies",
-    "createdAt": "2019-03-07T00:29:38.702Z",
-    "updatedAt": "2019-03-07T00:29:38.714Z"
+    "subgalleries": [
+      {
+        "id": 3,
+        "names": [
+          "Swallowtails"
+        ],
+        "featuredPhoto": 16,
+        "galleries": ["butterflies"]
+      },
+      {
+        "id": 4,
+        "names": [
+          "Whites and Sulphurs",
+          "Whites"
+        ],
+        "featuredPhoto": 17,
+        "galleries": ["butterflies"]
+      },
+      {
+        "id": 1,
+        "names": [
+          "Skippers",
+          "Spread-wing Skippers"
+        ],
+        "featuredPhoto": null,
+        "galleries": ["butterflies"]
+      }
+    ]
   },
   {
     "id": "moths",
-    "name": "Moths",
-    "createdAt": "2019-03-07T00:29:46.777Z",
-    "updatedAt": "2019-03-07T00:29:46.785Z"
+    "name": "Moths"
   },
   {
     "id": "birds",
     "name": "Birds",
-    "createdAt": "2019-03-07T00:29:52.362Z",
-    "updatedAt": "2019-03-07T00:29:52.371Z"
+    "subgalleries": [
+      {
+        "id": 2,
+        "names": [
+          "Woodpeckers"
+        ],
+        "featuredPhoto": 6,
+        "galleries": ["birds"]
+      }
+    ]
   }
 ]

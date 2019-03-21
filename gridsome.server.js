@@ -5,7 +5,9 @@
 var galleriesData = require('./src/data/galleries.json')
 var photosData = require('./src/data/photos.json')
 var subgalleriesData = require('./src/data/subgalleries.json')
-var speciesData = require('./src/data/species.json')
+
+var birdsData = require('./src/data/birds.json')
+var butterfliesData = require('./src/data/butterflies.json')
 
 // Changes here requires a server restart.
 // To restart press CTRL + C in terminal and run `gridsome develop`
@@ -26,7 +28,7 @@ module.exports = function (api) {
     species.addReference('featuredPhoto', 'Photo')
     species.addReference('photos', 'Photo')
     subgalleries.addReference('galleries', 'Gallery')
-    subgalleries.addReference('species', 'Species')
+    species.addReference('subgallery', 'Subgallery')
 
     for (const item of photosData) {
       photos.addNode({
@@ -37,7 +39,16 @@ module.exports = function (api) {
       })
     }
 
-    for (const item of speciesData) {
+    for (const item of birdsData) {
+      species.addNode({
+        id: item.id,
+        fields: {
+          ...item
+        }
+      })
+    }
+
+    for (const item of butterfliesData) {
       species.addNode({
         id: item.id,
         fields: {

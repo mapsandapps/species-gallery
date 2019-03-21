@@ -5,7 +5,7 @@
       v-for="subgallery in $page.gallery.belongsTo.edges"
       :key="subgallery.node.id">
       <h2><Breadcrumbs :breadcrumbs="subgallery.node.names" /></h2>
-      <SpeciesGalleryEntry v-for="species in subgallery.node.species" :key="species.id" :species="species" />
+      <SpeciesGalleryEntry v-for="species in subgallery.node.belongsTo.edges" :key="species.node.id" :species="species.node" />
     </div>
   </Layout>
 </template>
@@ -15,18 +15,25 @@ query Gallery ($id: String!) {
   gallery (id: $id) {
     id
     name
-    belongsTo {
+    belongsTo(sortBy: "ASC") {
       edges {
         node {
           ...on Subgallery {
             id
             names
-            species {
-              id
-              commonName
-              scientificName
-              featuredPhoto {
-                url
+            belongsTo(sortBy: "ASC") {
+              edges {
+                node {
+                  ...on Species {
+                    id
+                    commonName
+                    scientificName
+                    featuredPhoto {
+                      url
+                      flickrSlug
+                    }
+                  }
+                }
               }
             }
           }

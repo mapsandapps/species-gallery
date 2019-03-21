@@ -1,0 +1,55 @@
+[
+  {
+    "id": "epargyreus-clarus",
+    "commonName": "Silver-spotted Skipper",
+    "scientificName": "Epargyreus clarus",
+    "subgallery": "1",
+    "featuredPhoto": 1,
+    "photos": [1]
+  },
+  {
+    "id": "urbanus-proteus",
+    "commonName": "Long-tailed Skipper",
+    "scientificName": "Urbanus proteus",
+    "subgallery": "1",
+    "photos": []
+  },
+  {
+    "id": "lerema-accius",
+    "commonName": "Clouded Skipper",
+    "scientificName": "Lerema accius",
+    "subgallery": "1",
+    "photos": []
+  },
+  {
+    "id": "pyrgus-communis",
+    "commonName": "Common Checkered-skipper",
+    "scientificName": "Pyrgus communis",
+    "subgallery": "1",
+    "featuredPhoto": 2,
+    "photos": [2]
+  },
+  {
+    "id": "erynnis-horatius",
+    "commonName": "Horace's Duskywing",
+    "scientificName": "Erynnis horatius",
+    "subgallery": "1",
+    "photos": []
+  },
+  {
+    "id": "papilio-glaucus",
+    "commonName": "Eastern Tiger Swallowtail",
+    "scientificName": "Papilio glaucus",
+    "subgallery": 3,
+    "featuredPhoto": 16,
+    "photos": [16]
+  },
+  {
+    "id": "pontia-protodice",
+    "commonName": "Checkered White",
+    "scientificName": "Pontia protodice",
+    "subgallery": 4,
+    "featuredPhoto": 17,
+    "photos": [17]
+  }
+]

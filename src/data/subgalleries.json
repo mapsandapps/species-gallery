@@ -8,13 +8,7 @@
     "createdAt": "2019-03-07T00:43:12.969Z",
     "updatedAt": "2019-03-07T00:50:26.122Z",
     "featuredPhoto": null,
-    "galleries": ["butterflies"],
-    "species": [
-      "pyrgus-communis",
-      "lerema-accius",
-      "urbanus-proteus",
-      "epargyreus-clarus"
-    ]
+    "galleries": ["butterflies"]
   },
   {
     "id": 2,
@@ -22,15 +16,6 @@
       "Woodpeckers"
     ],
     "featuredPhoto": 6,
-    "galleries": ["birds"],
-    "species": [
-      "melanerpes-erythrocephalus",
-      "melanerpes-carolinus",
-      "sphyrapicus-varius",
-      "picoides-pubescens",
-      "picoides-villosus",
-      "colaptes-auratus",
-      "drycopus-pileatus"
-    ]
+    "galleries": ["birds"]
   }
 ]

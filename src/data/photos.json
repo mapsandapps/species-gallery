@@ -272,5 +272,43 @@
       "county": "Fulton",
       "date": "2017-04-22"
     }
+  },
+  {
+    "id": 16,
+    "url": null,
+    "flickrSlug": "/1827/42612821364_d676d579cb",
+    "species": "papilio-glaucus",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Roswell Riverwalk",
+      "city": "Roswell",
+      "county": "Fulton",
+      "date": "2018-07-08"
+    }
+  },
+  {
+    "id": 17,
+    "url": null,
+    "flickrSlug": "/1751/41644854045_86e94c8f8c",
+    "species": "pontia-protodice",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "South River PATH Trail",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2018-06-03"
+    }
   }
 ]
