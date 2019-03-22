@@ -67,46 +67,6 @@ export default {
     return {
       title: this.$page.gallery.name
     }
-  },
-
-  // computed: {
-  //   sortedButterflies() {
-  //     var unsorted = _.cloneDeep(this.$page.allButterfly.edges)
-  //     var sorted = []
-  //     var nextID
-
-  //     // get the first item
-  //     var firstItem = _.find(unsorted, item => {
-  //       return !item.node.previousSpecies
-  //     })
-  //     sorted.push(firstItem.node)
-  //     nextID = firstItem.node.nextSpecies.id
-  //     _.pull(unsorted, firstItem);
-
-  //     // get the rest of the items
-  //     while (unsorted.length > 0) {
-  //       console.log(unsorted)
-  //       console.log(nextID)
-  //       var nextItem = _.find(unsorted, item => {
-  //         return item.node.id == nextID
-  //       })
-  //       sorted.push(nextItem.node)
-  //       _.pull(unsorted, nextItem)
-  //       if (nextItem) {
-  //         if (nextItem.node.nextSpecies) {
-  //           nextID = nextItem.node.nextSpecies.id
-  //         }
-  //       } else {
-  //         console.warn('NO NEXT ITEM FOUND')
-  //       }
-  //     }
-
-  //     console.log(sorted);
-  //     return sorted
-  //   }
-  // },
-
-  methods: {
   }
 }
 </script>

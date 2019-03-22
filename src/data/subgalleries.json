@@ -11,6 +11,23 @@
     "galleries": ["butterflies"]
   },
   {
+    "id": 3,
+    "names": [
+      "Swallowtails"
+    ],
+    "featuredPhoto": 16,
+    "galleries": ["butterflies"]
+  },
+  {
+    "id": 4,
+    "names": [
+      "Whites and Sulphurs",
+      "Whites"
+    ],
+    "featuredPhoto": 17,
+    "galleries": ["butterflies"]
+  },
+  {
     "id": 2,
     "names": [
       "Woodpeckers"

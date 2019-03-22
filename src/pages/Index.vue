@@ -1,18 +1,33 @@
 <template>
   <Layout>
-    <div v-for="gallery in $page.allGallery.edges" :key="gallery.node.id">
-      <g-link :to="`${gallery.node.id}`">{{ gallery.node.name }}</g-link>
+    <div
+      v-for="gallery in $page.allGallery.edges"
+      :key="gallery.node.id">
+      <g-link
+        v-if="gallery.node.public || displayPrivateGalleries"
+        :to="`${gallery.node.id}`">{{ gallery.node.name }}</g-link>
     </div>
   </Layout>
 </template>
 
 <page-query>
 query {
-  allGallery {
+  allGallery(order: ASC) {
     edges {
       node {
         id
         name
+        public
+        belongsTo {
+          edges {
+            node {
+              ... on Subgallery {
+                id
+                names
+              }
+            }
+          }
+        }
       }
     }
   }
@@ -30,8 +45,10 @@ export default {
       }
     ]
   },
-
-  methods: {
+  data() {
+    return {
+      displayPrivateGalleries: (process.env.GRIDSOME_DISPLAY_PRIVATE_GALLERIES === 'true')
+    }
   }
 }
 </script>

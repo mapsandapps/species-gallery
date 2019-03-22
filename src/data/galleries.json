@@ -2,51 +2,21 @@
   {
     "id": "butterflies",
     "name": "Butterflies",
-    "subgalleries": [
-      {
-        "id": 3,
-        "names": [
-          "Swallowtails"
-        ],
-        "featuredPhoto": 16,
-        "galleries": ["butterflies"]
-      },
-      {
-        "id": 4,
-        "names": [
-          "Whites and Sulphurs",
-          "Whites"
-        ],
-        "featuredPhoto": 17,
-        "galleries": ["butterflies"]
-      },
-      {
-        "id": 1,
-        "names": [
-          "Skippers",
-          "Spread-wing Skippers"
-        ],
-        "featuredPhoto": null,
-        "galleries": ["butterflies"]
-      }
-    ]
+    "public": true
   },
   {
     "id": "moths",
-    "name": "Moths"
+    "name": "Moths",
+    "public": true
   },
   {
     "id": "birds",
     "name": "Birds",
-    "subgalleries": [
-      {
-        "id": 2,
-        "names": [
-          "Woodpeckers"
-        ],
-        "featuredPhoto": 6,
-        "galleries": ["birds"]
-      }
-    ]
+    "public": true
+  },
+  {
+    "id": "other-insects",
+    "name": "Other Insects",
+    "public": false
   }
 ]
