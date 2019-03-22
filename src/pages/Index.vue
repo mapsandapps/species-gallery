@@ -5,7 +5,16 @@
       :key="gallery.node.id">
       <g-link
         v-if="gallery.node.public || displayPrivateGalleries"
-        :to="`${gallery.node.id}`">{{ gallery.node.name }}</g-link>
+        :to="`${gallery.node.id}`">
+        <figure>
+          <Photo
+            v-if="gallery.node.featuredPhoto"
+            :photo="gallery.node.featuredPhoto" />
+          <figcaption>
+            {{ gallery.node.name }}
+          </figcaption>
+        </figure>
+      </g-link>
     </div>
   </Layout>
 </template>
@@ -17,6 +26,11 @@ query {
       node {
         id
         name
+        featuredPhoto {
+          id
+          url
+          flickrSlug
+        }
         public
         belongsTo {
           edges {
@@ -35,7 +49,12 @@ query {
 </page-query>
 
 <script>
+import Photo from '~/components/Photo'
+
 export default {
+  components: {
+    Photo
+  },
   metaInfo() {
     title: '',
     this.$route.meta.breadcrumbs = [

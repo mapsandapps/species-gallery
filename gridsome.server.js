@@ -26,6 +26,7 @@ module.exports = function (api) {
 
     photos.addReference('species', 'Species')
     species.addReference('featuredPhoto', 'Photo')
+    galleries.addReference('featuredPhoto', 'Photo')
     species.addReference('photos', 'Photo')
     subgalleries.addReference('galleries', 'Gallery')
     species.addReference('subgallery', 'Subgallery')

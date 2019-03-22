@@ -1,11 +1,8 @@
 <template>
   <figure>
-    <img v-if="species.featuredPhoto && species.featuredPhoto.url"
-      class="local"
-      :src="species.featuredPhoto.url">
-    <img v-if="species.featuredPhoto && species.featuredPhoto.flickrSlug"
-      class="flickr"
-      :src="`https://farm2.staticflickr.com/${species.featuredPhoto.flickrSlug}_m_d.jpg`">
+    <Photo
+      v-if="species.featuredPhoto"
+      :photo="species.featuredPhoto" />
     <figcaption>
       {{ species.commonName }}<br>
       {{ species.scientificName}}
@@ -14,9 +11,12 @@
 </template>
 
 <script>
+import Photo from './Photo'
+
 export default {
   name: 'SpeciesGalleryEntry',
   components: {
+    Photo
   },
   props: {
     species: {
@@ -38,10 +38,4 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-img.local {
-  max-width: 200px;
-}
-img.flickr {
-  max-width: 240px;
-}
 </style>

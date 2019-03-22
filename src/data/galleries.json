@@ -2,21 +2,25 @@
   {
     "id": "butterflies",
     "name": "Butterflies",
+    "featuredPhoto": 1,
     "public": true
   },
   {
     "id": "moths",
     "name": "Moths",
+    "featuredPhoto": null,
     "public": true
   },
   {
     "id": "birds",
     "name": "Birds",
+    "featuredPhoto": 6,
     "public": true
   },
   {
     "id": "other-insects",
     "name": "Other Insects",
+    "featuredPhoto": null,
     "public": false
   }
 ]
