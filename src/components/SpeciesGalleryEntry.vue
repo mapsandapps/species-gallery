@@ -1,38 +1,23 @@
 <template>
-  <figure>
-    <Photo
-      v-if="species.featuredPhoto"
-      :photo="species.featuredPhoto" />
-    <figcaption>
-      {{ species.commonName }}<br>
-      {{ species.scientificName}}
-    </figcaption>
-  </figure>
+  <PhotoWithCaption :photo="species.featuredPhoto">
+    {{ species.commonName }}<br>
+    {{ species.scientificName}}
+  </PhotoWithCaption>
 </template>
 
 <script>
-import Photo from './Photo'
+import PhotoWithCaption from './PhotoWithCaption'
 
 export default {
   name: 'SpeciesGalleryEntry',
   components: {
-    Photo
+    PhotoWithCaption
   },
   props: {
     species: {
       required: true,
       type: Object
     }
-  },
-  data() {
-    return {
-    };
-  },
-  computed: {
-  },
-  methods: {
-  },
-  mounted() {
   }
 };
 </script>

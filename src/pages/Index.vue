@@ -6,14 +6,9 @@
       <g-link
         v-if="gallery.node.public || displayPrivateGalleries"
         :to="`${gallery.node.id}`">
-        <figure>
-          <Photo
-            v-if="gallery.node.featuredPhoto"
-            :photo="gallery.node.featuredPhoto" />
-          <figcaption>
-            {{ gallery.node.name }}
-          </figcaption>
-        </figure>
+        <PhotoWithCaption :photo="gallery.node.featuredPhoto">
+          {{ gallery.node.name }}
+        </PhotoWithCaption>
       </g-link>
     </div>
   </Layout>
@@ -49,11 +44,11 @@ query {
 </page-query>
 
 <script>
-import Photo from '~/components/Photo'
+import PhotoWithCaption from '~/components/PhotoWithCaption'
 
 export default {
   components: {
-    Photo
+    PhotoWithCaption
   },
   metaInfo() {
     title: '',

@@ -1,11 +1,6 @@
 <template>
 <div>
-  <img v-if="photo && photo.url"
-    class="local"
-    :src="photo.url">
-  <img v-if="photo && photo.flickrSlug"
-    class="flickr"
-    :src="`https://farm2.staticflickr.com/${photo.flickrSlug}_m_d.jpg`">
+  <img :src="photoURL">
 </div>
 </template>
 
@@ -16,16 +11,37 @@ export default {
     photo: {
       required: true,
       type: Object
+    },
+    size: {
+      default: 'small',
+      required: false,
+      type: String
+    }
+  },
+  data() {
+    return {
+      flickrSizes: {
+        square: 'q',
+        small: 'm',
+        medium: 'z'
+      }
+    }
+  },
+  computed: {
+    photoURL() {
+      if (this.photo.url) {
+        return this.photo.url
+      } else if (this.photo.flickrSlug) {
+        var size = 'm'
+        return `https://farm2.staticflickr.com/${this.photo.flickrSlug}_${this.flickrSizes[this.size]}_d.jpg`
+      }
     }
   }
 };
 </script>
 
 <style lang="scss" scoped>
-img.local {
-  max-width: 200px;
-}
-img.flickr {
+img {
   max-width: 240px;
 }
 </style>
