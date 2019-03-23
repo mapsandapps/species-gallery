@@ -4,7 +4,7 @@
     "commonName": "Red-headed Woodpecker",
     "scientificName": "Melanerpes erythrocephalus",
     "commonality": "Common in spring, summer, and fall; uncommon in winter",
-    "subgallery": 2,
+    "subgallery": "150ec397-5856-4720-995b-77b4d3cbfd23",
     "featuredPhoto": 3,
     "photos": [3]
   },
@@ -13,7 +13,7 @@
     "commonName": "Red-bellied Woodpecker",
     "scientificName": "Melanerpes carolinus",
     "commonality": "Abundant year-round",
-    "subgallery": 2,
+    "subgallery": "150ec397-5856-4720-995b-77b4d3cbfd23",
     "featuredPhoto": 4,
     "photos": [4, 5]
   },
@@ -22,7 +22,7 @@
     "commonName": "Yellow-bellied Sapsucker",
     "scientificName": "Sphyrapicus varius",
     "commonality": "Common in fall and winter; uncommon in spring",
-    "subgallery": 2,
+    "subgallery": "150ec397-5856-4720-995b-77b4d3cbfd23",
     "featuredPhoto": 6,
     "photos": [6, 7, 8]
   },
@@ -31,7 +31,7 @@
     "commonName": "Downy Woodpecker",
     "scientificName": "Picoides pubescens",
     "commonality": "Abundant year-round",
-    "subgallery": 2,
+    "subgallery": "150ec397-5856-4720-995b-77b4d3cbfd23",
     "featuredPhoto": 9,
     "photos": [9, 10]
   },
@@ -40,7 +40,7 @@
     "commonName": "Hairy Woodpecker",
     "scientificName": "Picoides villosus",
     "commonality": "Uncommon year-round",
-    "subgallery": 2,
+    "subgallery": "150ec397-5856-4720-995b-77b4d3cbfd23",
     "featuredPhoto": 12,
     "photos": [11, 12]
   },
@@ -49,7 +49,7 @@
     "commonName": "Northern Flicker",
     "scientificName": "Colaptes auratus",
     "commonality": "Abundant in fall; common in winter, spring, and summer",
-    "subgallery": 2,
+    "subgallery": "150ec397-5856-4720-995b-77b4d3cbfd23",
     "featuredPhoto": 13,
     "photos": [13]
   },
@@ -58,7 +58,7 @@
     "commonName": "Pileated Woodpecker",
     "scientificName": "Drycopus pileatus",
     "commonality": "Common year-round",
-    "subgallery": 2,
+    "subgallery": "150ec397-5856-4720-995b-77b4d3cbfd23",
     "featuredPhoto": 14,
     "photos": [14, 15]
   }

@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "efe08484-e368-4dc4-be09-543121547afc",
     "names": [
       "Skippers",
       "Spread-wing Skippers"
@@ -11,7 +11,7 @@
     "galleries": ["butterflies"]
   },
   {
-    "id": 3,
+    "id": "5ae3717f-3673-4ac5-920f-9e39639c4869",
     "names": [
       "Swallowtails"
     ],
@@ -19,7 +19,7 @@
     "galleries": ["butterflies"]
   },
   {
-    "id": 4,
+    "id": "188544d9-bc4c-46c5-b2ad-bf2be49b93ff",
     "names": [
       "Whites and Sulphurs",
       "Whites"
@@ -28,7 +28,7 @@
     "galleries": ["butterflies"]
   },
   {
-    "id": 2,
+    "id": "150ec397-5856-4720-995b-77b4d3cbfd23",
     "names": [
       "Woodpeckers"
     ],
