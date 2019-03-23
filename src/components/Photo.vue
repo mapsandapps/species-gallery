@@ -1,6 +1,6 @@
 <template>
 <div>
-  <img :src="photoURL">
+  <img :src="photoURL" :class="size">
 </div>
 </template>
 
@@ -32,7 +32,6 @@ export default {
       if (this.photo.url) {
         return this.photo.url
       } else if (this.photo.flickrSlug) {
-        var size = 'm'
         return `https://farm2.staticflickr.com/${this.photo.flickrSlug}_${this.flickrSizes[this.size]}_d.jpg`
       }
     }
@@ -43,5 +42,8 @@ export default {
 <style lang="scss" scoped>
 img {
   max-width: 240px;
+  &.medium {
+    max-width: 640px;
+  }
 }
 </style>

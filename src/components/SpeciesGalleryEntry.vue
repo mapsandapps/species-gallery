@@ -1,8 +1,11 @@
 <template>
+<g-link
+  :to="`/species/${species.id}`">
   <PhotoWithCaption :photo="species.featuredPhoto">
     {{ species.commonName }}<br>
     {{ species.scientificName}}
   </PhotoWithCaption>
+</g-link>
 </template>
 
 <script>

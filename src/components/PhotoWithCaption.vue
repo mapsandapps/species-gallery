@@ -2,7 +2,8 @@
 <figure>
   <Photo
     v-if="photo"
-    :photo="photo" />
+    :photo="photo"
+    :size="size" />
   <figcaption>
     <slot />
   </figcaption>
@@ -21,6 +22,10 @@ export default {
     photo: {
       required: false,
       type: Object
+    },
+    size: {
+      required: false,
+      type: String
     }
   }
 };

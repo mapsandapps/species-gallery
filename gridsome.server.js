@@ -22,7 +22,10 @@ module.exports = function (api) {
     })
     const photos = store.addContentType('Photo')
     const subgalleries = store.addContentType('Subgallery')
-    const species = store.addContentType('Species')
+    const species = store.addContentType({
+      typeName: 'Species',
+      route: '/species/:id'
+    })
 
     photos.addReference('species', 'Species')
     species.addReference('featuredPhoto', 'Photo')
@@ -44,6 +47,7 @@ module.exports = function (api) {
       species.addNode({
         id: item.id,
         fields: {
+          gallery: 'birds',
           ...item
         }
       })
@@ -53,6 +57,7 @@ module.exports = function (api) {
       species.addNode({
         id: item.id,
         fields: {
+          gallery: 'butterflies',
           ...item
         }
       })

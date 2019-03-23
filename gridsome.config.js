@@ -5,6 +5,6 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Metro Atlanta Biodiversity Project',
+  siteName: 'ITP and Beyond',
   plugins: []
 }
