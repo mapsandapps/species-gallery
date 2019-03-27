@@ -4,7 +4,9 @@
     <div
       v-for="subgallery in $page.gallery.belongsTo.edges"
       :key="subgallery.node.id">
-      <h2><Breadcrumbs :breadcrumbs="subgallery.node.names" /></h2>
+      <h2 v-if="subgallery.node.belongsTo.edges.length > 0">
+        <Breadcrumbs :breadcrumbs="subgallery.node.names" />
+      </h2>
       <SpeciesGalleryEntry v-for="species in subgallery.node.belongsTo.edges" :key="species.node.id" :species="species.node" />
     </div>
   </Layout>
@@ -15,7 +17,7 @@ query Gallery ($id: String!) {
   gallery (id: $id) {
     id
     name
-    belongsTo(sortBy: "ASC") {
+    belongsTo(sortBy: "ASC", perPage: 120) {
       edges {
         node {
           ...on Subgallery {
@@ -29,8 +31,8 @@ query Gallery ($id: String!) {
                     commonName
                     scientificName
                     featuredPhoto {
-                      url
-                      flickrSlug
+                      id
+                      cloudinarySlug
                     }
                   }
                 }

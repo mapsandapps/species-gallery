@@ -1,0 +1,290 @@
+[
+  {
+    "id": "plutella-xylostella",
+    "commonName": "The Diamondback",
+    "scientificName": "Plutella xylostella",
+    "subgallery": "eb6de9c6-334e-4393-8d41-f4733cc132c4",
+    "featuredPhoto": 17,
+    "photos": [17]
+  },
+  {
+    "id": "atteva-aurea",
+    "commonName": "Ailanthus Webworm Moth",
+    "scientificName": "Atteva aurea",
+    "subgallery": "f337e8bc-71ac-4e37-8c39-f60780c81e16",
+    "featuredPhoto": null,
+    "photos": []
+  },
+  {
+    "id": "argyrotaenia-velutinana",
+    "commonName": "Red-banded Leafroller Moth",
+    "scientificName": "Argyrotaenia velutinana",
+    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
+    "featuredPhoto": 19,
+    "photos": [18, 19]
+  },
+  {
+    "id": "rhyacionia-rigidana",
+    "commonName": "Pitch Pine Tip Moth",
+    "scientificName": "Rhyacionia rigidana",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 20,
+    "photos": [20]
+  },
+  {
+    "id": "pseudexentera",
+    "commonName": null,
+    "scientificName": "Pseudexentera sp.",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 21,
+    "photos": [21]
+  },
+  {
+    "id": "proteoteras-aesculana",
+    "commonName": "Maple Twig Borer",
+    "scientificName": "Proteoteras aesculana",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 22,
+    "photos": [22]
+  },
+  {
+    "id": "gretchena-bolliana",
+    "commonName": "Pecan Bud Moth",
+    "scientificName": "Gretchena bolliana",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 24,
+    "photos": [23, 24]
+  },
+  {
+    "id": "chimoptesis-gerulae",
+    "commonName": null,
+    "scientificName": "Chimoptesis gerulae",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 25,
+    "photos": [25]
+  },
+  {
+    "id": "hypsopygia-olinalis",
+    "commonName": "Yellow-fringed Dolichomia",
+    "scientificName": "Hypsopygia olinalis",
+    "subgallery": "b5c8e656-7fd0-458d-8b07-df50add83aed",
+    "featuredPhoto": null,
+    "photos": []
+  },
+  {
+    "id": "palpita-arsaltealis",
+    "commonName": null,
+    "scientificName": "Palpita arsaltealis",
+    "subgallery": "0dbcab98-d302-4a4c-a4a8-b77fdfaf56ca",
+    "featuredPhoto": 26,
+    "photos": [26]
+  },
+  {
+    "id": "palpita-freemanalis",
+    "commonName": "Freeman's Palpita",
+    "scientificName": "Palpita freemanalis",
+    "subgallery": "0dbcab98-d302-4a4c-a4a8-b77fdfaf56ca",
+    "featuredPhoto": null,
+    "photos": []
+  },
+  {
+    "id": "malacosoma-americanum",
+    "commonName": "Eastern Tent Caterpillar Moth",
+    "scientificName": "Malacosoma americanum",
+    "subgallery": "52b1c8f7-ca3b-4a25-aca8-be3266d0e8d0",
+    "featuredPhoto": null,
+    "photos": []
+  },
+  {
+    "id": "anisota-peigleri",
+    "commonName": "Yellow-striped Oakworm Moth",
+    "scientificName": "Anisota peigleri",
+    "subgallery": "a77b8125-4ddb-4724-a5c9-d2918c56c3a7",
+    "featuredPhoto": 27,
+    "photos": [27]
+  },
+  {
+    "id": "xylophanes-tersa",
+    "commonName": "Tersa Sphinx",
+    "scientificName": "Xylophanes tersa",
+    "subgallery": "dcf4ebd6-b173-45a1-8048-70543c7c5e17",
+    "featuredPhoto": null,
+    "photos": []
+  },
+  {
+    "id": "orthonama-obstipata",
+    "commonName": "The Gem",
+    "scientificName": "Orthonama obstipata",
+    "subgallery": "27f653f7-2a34-4024-a617-2a5d555c74f0",
+    "featuredPhoto": 28,
+    "photos": [28, 29, 30]
+  },
+  {
+    "id": "costaconvexa-centrostrigaria",
+    "commonName": "Bent-line Carpet",
+    "scientificName": "Costaconvexa centrostrigaria",
+    "subgallery": "27f653f7-2a34-4024-a617-2a5d555c74f0",
+    "featuredPhoto": 31,
+    "photos": [31]
+  },
+  {
+    "id": "eupithecia-miserulata",
+    "commonName": "Common Pug",
+    "scientificName": "Eupithecia miserulata",
+    "subgallery": "27f653f7-2a34-4024-a617-2a5d555c74f0",
+    "featuredPhoto": 32,
+    "photos": [32, 33, 34, 35]
+  },
+  {
+    "id": "pleuroprucha-insulsaria",
+    "commonName": "Common Tan Wave",
+    "scientificName": "Pleuroprucha insulsaria",
+    "subgallery": "179453b6-cb92-4bc5-a57b-83e590b5350b",
+    "featuredPhoto": null,
+    "photos": []
+  },
+  {
+    "id": "alsophila-pometaria",
+    "commonName": "Fall Cankerworm Moth",
+    "scientificName": "Alsophila pometaria",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 36,
+    "photos": [36]
+  },
+  {
+    "id": "macaria-aemulataria",
+    "commonName": "Common Angle",
+    "scientificName": "Macaria aemulataria",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 37,
+    "photos": [37, 38]
+  },
+  {
+    "id": "macaria-transitaria",
+    "commonName": "Blurry Chocolate Angle",
+    "scientificName": "Macaria transitaria",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 40,
+    "photos": [39, 40, 41]
+  },
+  {
+    "id": "iridopsis-defectaria",
+    "commonName": "Brown-shaded Gray",
+    "scientificName": "Iridopsis defectaria",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 43,
+    "photos": [42, 43, 44]
+  },
+  {
+    "id": "ilexia-intractata",
+    "commonName": "Black-dotted Ruddy",
+    "scientificName": "Ilexia intractata",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 46,
+    "photos": [45, 46, 47, 48, 49]
+  },
+  {
+    "id": "phigalia-denticulata",
+    "commonName": "Toothed Phigalia",
+    "scientificName": "Phigalia denticulata",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 50,
+    "photos": [50, 51]
+  },
+  {
+    "id": "phigalia-strigataria",
+    "commonName": "Small Phigalia",
+    "scientificName": "Phigalia strigataria",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 52,
+    "photos": [52]
+  },
+  {
+    "id": "nadata-gibbosa",
+    "commonName": "White-dotted Prominent",
+    "scientificName": "Nadata gibbosa",
+    "subgallery": "ff28ff05-edf6-44de-9928-45fd4b6ac765",
+    "featuredPhoto": null,
+    "photos": []
+  },
+  {
+    "id": "schizura-ipomaeae",
+    "commonName": "Morning-glory Prominent",
+    "scientificName": "Schizura ipomaeae",
+    "subgallery": "ff28ff05-edf6-44de-9928-45fd4b6ac765",
+    "featuredPhoto": null,
+    "photos": []
+  },
+  {
+    "id": "halysidota-tessellaris",
+    "commonName": "Banded Tussock Moth",
+    "scientificName": "Halysidota tessellaris",
+    "subgallery": "f7e21bb9-991c-4685-8da7-88a1f5b68c5b",
+    "featuredPhoto": null,
+    "photos": []
+  },
+  {
+    "id": "hypena-baltimoralis",
+    "commonName": "Baltimore Snout",
+    "scientificName": "Hypena baltimoralis",
+    "subgallery": "5def0e08-61d3-448b-9012-28758b825af0",
+    "featuredPhoto": 53,
+    "photos": [53, 54]
+  },
+  {
+    "id": "hypena-scabra",
+    "commonName": "Green Cloverworm Moth",
+    "scientificName": "Hypena scabra",
+    "subgallery": "5def0e08-61d3-448b-9012-28758b825af0",
+    "featuredPhoto": 55,
+    "photos": [55]
+  },
+  {
+    "id": "phoberia-atomaris",
+    "commonName": "Common Oak Moth",
+    "scientificName": "Phoberia atomaris",
+    "subgallery": "136552e3-0b00-4003-b88b-29cad85ab1e8",
+    "featuredPhoto": 57,
+    "photos": [56, 57, 58]
+  },
+  {
+    "id": "nycteola-metaspilella",
+    "commonName": "Forgotten Frigid Owlet",
+    "scientificName": "Nycteola metaspilella",
+    "subgallery": "a1b0d895-02fe-4f17-936d-fbb6070606c1",
+    "featuredPhoto": 59,
+    "photos": [59, 60, 61, 62]
+  },
+  {
+    "id": "lithophane-signosa",
+    "commonName": "Sycamore Pinion Moth",
+    "scientificName": "Lithophane signosa",
+    "subgallery": "9b6b26e1-8ebf-431c-9069-d37614201a31",
+    "featuredPhoto": 62,
+    "photos": [62, 63]
+  },
+  {
+    "id": "mythimna-unipuncta",
+    "commonName": "The White-speck",
+    "scientificName": "Mythimna unipuncta",
+    "subgallery": "d394a8b7-0f35-4438-9fe4-d27d249d8d2c",
+    "featuredPhoto": 65,
+    "photos": [64, 65, 66]
+  },
+  {
+    "id": "lacinipolia-laudabilis",
+    "commonName": "Laudable Arches",
+    "scientificName": "Lacinipolia laudabilis",
+    "subgallery": "72e77a42-0dc9-4bdf-b88d-cca96d1e9751",
+    "featuredPhoto": null,
+    "photos": []
+  },
+  {
+    "id": "choephora-fungorum",
+    "commonName": "Bent-line Dart",
+    "scientificName": "Choephora fungorum",
+    "subgallery": "0892c2b9-36dc-464f-9669-6da9dd7f03a8",
+    "featuredPhoto": null,
+    "photos": []
+  }
+]

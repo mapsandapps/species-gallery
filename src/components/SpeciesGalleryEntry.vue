@@ -1,7 +1,7 @@
 <template>
 <g-link
   :to="`/species/${species.id}`">
-  <PhotoWithCaption :photo="species.featuredPhoto">
+  <PhotoWithCaption :photo="species.featuredPhoto" size="t_400">
     {{ species.commonName }}<br>
     {{ species.scientificName}}
   </PhotoWithCaption>

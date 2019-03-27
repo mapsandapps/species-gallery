@@ -1,6 +1,6 @@
 <template>
 <div>
-  <img :src="photoURL" :class="size">
+  <img :src="src" :srcset="srcset" :class="size">
 </div>
 </template>
 
@@ -13,27 +13,17 @@ export default {
       type: Object
     },
     size: {
-      default: 'small',
+      default: 't400',
       required: false,
       type: String
     }
   },
-  data() {
-    return {
-      flickrSizes: {
-        square: 'q',
-        small: 'm',
-        medium: 'z'
-      }
-    }
-  },
   computed: {
-    photoURL() {
-      if (this.photo.url) {
-        return this.photo.url
-      } else if (this.photo.flickrSlug) {
-        return `https://farm2.staticflickr.com/${this.photo.flickrSlug}_${this.flickrSizes[this.size]}_d.jpg`
-      }
+    src() {
+      return `http://res.cloudinary.com/atlnature/image/upload/${this.size}/${this.photo.cloudinarySlug}.jpg`
+    },
+    srcset() {
+      return `http://res.cloudinary.com/atlnature/image/upload/${this.size}/${this.photo.cloudinarySlug}.jpg 1x, http://res.cloudinary.com/atlnature/image/upload/${this.size}@2x/${this.photo.cloudinarySlug}.jpg 2x`
     }
   }
 };
@@ -41,9 +31,6 @@ export default {
 
 <style lang="scss" scoped>
 img {
-  max-width: 240px;
-  &.medium {
-    max-width: 640px;
-  }
+  max-width: 400px;
 }
 </style>

@@ -6,7 +6,7 @@
       <g-link
         v-if="gallery.node.public || displayPrivateGalleries"
         :to="`${gallery.node.id}`">
-        <PhotoWithCaption :photo="gallery.node.featuredPhoto">
+        <PhotoWithCaption :photo="gallery.node.featuredPhoto" size="t_400">
           {{ gallery.node.name }}
         </PhotoWithCaption>
       </g-link>
@@ -23,8 +23,7 @@ query {
         name
         featuredPhoto {
           id
-          url
-          flickrSlug
+          cloudinarySlug
         }
         public
         belongsTo {

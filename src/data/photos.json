@@ -275,8 +275,8 @@
   },
   {
     "id": 16,
-    "url": null,
-    "flickrSlug": "/1827/42612821364_d676d579cb",
+    "cloudinarySlug": "42612821364_5daec24246_o",
+    "flickrID": "42612821364",
     "species": "papilio-glaucus",
     "annotations": {
       "stage": null,
@@ -295,20 +295,996 @@
   {
     "id": 17,
     "url": null,
-    "flickrSlug": "/1751/41644854045_86e94c8f8c",
-    "species": "pontia-protodice",
+    "flickr": "32412688937",
+    "species": "plutella-xylostella",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-11"
+    }
+  },
+  {
+    "id": 18,
+    "url": null,
+    "flickr": "46328484155",
+    "species": "argyrotaenia-velutinana",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted with UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-27"
+    }
+  },
+  {
+    "id": 19,
+    "url": null,
+    "flickr": "32300933897",
+    "species": "argyrotaenia-velutinana",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted with UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-27"
+    }
+  },
+  {
+    "id": 20,
+    "url": null,
+    "flickr": "46519474544",
+    "species": "ryacionia-rigidana",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted via UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-28"
+    }
+  },
+  {
+    "id": 21,
+    "url": null,
+    "flickr": "32300944307",
+    "species": "pseudexentera",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Higland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-28"
+    }
+  },
+  {
+    "id": 22,
+    "url": null,
+    "flickr": "32402381737",
+    "species": "proteoteras-aesculana",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted via UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-10"
+    }
+  },
+  {
+    "id": 23,
+    "url": null,
+    "flickr": "32300958487",
+    "species": "gretchena-bolliana",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted with UV lighting, captured, photographed, and relased",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-28"
+    }
+  },
+  {
+    "id": 24,
+    "url": null,
+    "flickr": "46328504075",
+    "species": "gretchena-bolliana",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted with UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-28"
+    }
+  },
+  {
+    "id": 25,
+    "url": null,
+    "flickr": "33124699578",
+    "species": "chimoptesis-gerulae",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted with UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-05"
+    }
+  },
+  {
+    "id": 26,
+    "url": null,
+    "flickr": "47243070201",
+    "species": "palpita-arsaltealis",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted by UV light, captured, photographed, and released",
+      "location": "Virginia Higland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-27"
+    }
+  },
+  {
+    "id": 27,
+    "url": null,
+    "flickr": "43237555365",
+    "species": "anisota-peigleri",
+    "annotations": {
+      "stage": "larva",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": null,
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-08-13"
+    }
+  },
+  {
+    "id": 28,
+    "url": null,
+    "flickr": "46537863334",
+    "species": "Orthonama obstipata",
+    "annotations": {
+      "stage": "adult",
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted with UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-02"
+    }
+  },
+  {
+    "id": 29,
+    "url": null,
+    "flickr": "47209554882",
+    "species": "Orthonama obstipata",
+    "annotations": {
+      "stage": "adult",
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted with UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-02"
+    }
+  },
+  {
+    "id": 30,
+    "url": null,
+    "flickr": "46537852714",
+    "species": "Orthonama obstipata",
+    "annotations": {
+      "stage": "adult",
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted with UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-01"
+    }
+  },
+  {
+    "id": 31,
+    "url": null,
+    "flickr": "46096848835",
+    "species": "costaconvexa-centrostrigaria",
     "annotations": {
       "stage": null,
       "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-06"
+    }
+  },
+  {
+    "id": 32,
+    "url": null,
+    "flickr": "32319584177",
+    "species": "eupithecia-miserulata",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-01"
+    }
+  },
+  {
+    "id": 33,
+    "url": null,
+    "flickr": "32300953917",
+    "species": "eupithecia-miserulata",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted by UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-01"
+    }
+  },
+  {
+    "id": 34,
+    "url": null,
+    "flickr": "40278091873",
+    "species": "eupithecia-miserulata",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted by UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-28"
+    }
+  },
+  {
+    "id": 35,
+    "url": null,
+    "flickr": "33367331128",
+    "species": "eupithecia-miserulata",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted by UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-28"
+    }
+  },
+  {
+    "id": 36,
+    "url": null,
+    "flickr": "33068109848",
+    "species": "alsophila-pometaria",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-01-29"
+    }
+  },
+  {
+    "id": 37,
+    "url": null,
+    "flickr": "46537869204",
+    "species": "macaria-aemulataria",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted by UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-02"
+    }
+  },
+  {
+    "id": 38,
+    "url": null,
+    "flickr": "33385676018",
+    "species": "macaria-aemulataria",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted by UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-02"
+    }
+  },
+  {
+    "id": 39,
+    "url": null,
+    "flickr": "47381395361",
+    "species": "macaria-transitaria",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-14"
+    }
+  },
+  {
+    "id": 40,
+    "url": null,
+    "flickr": "46439653675",
+    "species": "macaria-transitaria",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted via UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-11"
+    }
+  },
+  {
+    "id": 41,
+    "url": null,
+    "flickr": "46439652565",
+    "species": "macaria-transitaria",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted via UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-11"
+    }
+  },
+  {
+    "id": 42,
+    "url": null,
+    "flickr": "39836886153",
+    "species": "iridopsis-defectaria",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-01-19"
+    }
+  },
+  {
+    "id": 43,
+    "url": null,
+    "flickr": "46077277294",
+    "species": "iridopsis-defectaria",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-01-18"
+    }
+  },
+  {
+    "id": 44,
+    "url": null,
+    "flickr": "46802355961",
+    "species": "iridopsis-defectaria",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-01-18"
+    }
+  },
+  {
+    "id": 45,
+    "url": null,
+    "flickr": "33124694668",
+    "species": "ilexia-intractata",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-05"
+    }
+  },
+  {
+    "id": 46,
+    "url": null,
+    "flickr": "46276008544",
+    "species": "ilexia-intractata",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-05"
+    }
+  },
+  {
+    "id": 47,
+    "url": null,
+    "flickr": "40035494623",
+    "species": "ilexia-intractata",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-05"
+    }
+  },
+  {
+    "id": 48,
+    "url": null,
+    "flickr": "46086335285",
+    "species": "ilexia-intractata",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-05"
+    }
+  },
+  {
+    "id": 49,
+    "url": null,
+    "flickr": "46008860055",
+    "species": "ilexia-intractata",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-01-29"
+    }
+  },
+  {
+    "id": 50,
+    "url": null,
+    "flickr": "31925505017",
+    "species": "phigalia-denticulata",
+    "annotations": {
+      "stage": "adult",
       "sex": "male"
     },
     "captureInfo": {
       "photographer": "Shawn Taylor",
       "copyright": null,
-      "location": "South River PATH Trail",
-      "city": null,
-      "county": "DeKalb",
-      "date": "2018-06-03"
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-01-24"
+    }
+  },
+  {
+    "id": 51,
+    "url": null,
+    "flickr": "46866792651",
+    "species": "phigalia-denticulata",
+    "annotations": {
+      "stage": "adult",
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-01-24"
+    }
+  },
+  {
+    "id": 52,
+    "url": null,
+    "flickr": "46519458474",
+    "species": "phigalia-strigataria",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted by UV light, captured, photographed, and released",
+      "location": "Virginia Higland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-27"
+    }
+  },
+  {
+    "id": 53,
+    "url": null,
+    "flickr": "40389707963",
+    "species": "hypena-baltimoralis",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted via UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-10"
+    }
+  },
+  {
+    "id": 54,
+    "url": null,
+    "flickr": "46631801004",
+    "species": "hypena-baltimoralis",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted via UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-10"
+    }
+  },
+  {
+    "id": 55,
+    "url": null,
+    "flickr": "47000148781",
+    "species": "hypena-scabra",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-05"
+    }
+  },
+  {
+    "id": 56,
+    "url": null,
+    "flickr": "47355008251",
+    "species": "phoberia-atomaris",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted via UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-10"
+    }
+  },
+  {
+    "id": 57,
+    "url": null,
+    "flickr": "46440088355",
+    "species": "phoberia-atomaris",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted via UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-10"
+    }
+  },
+  {
+    "id": 58,
+    "url": null,
+    "flickr": "40389704803",
+    "species": "phoberia-atomaris",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted via UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-10"
+    }
+  },
+  {
+    "id": 59,
+    "url": null,
+    "flickr": "33468255188",
+    "species": "nycteola-metaspilella",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted by UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-10"
+    }
+  },
+  {
+    "id": 60,
+    "url": null,
+    "flickr": "46429393465",
+    "species": "nycteola-metaspilella",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted by UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-10"
+    }
+  },
+  {
+    "id": 61,
+    "url": null,
+    "flickr": "46621033934",
+    "species": "nycteola-metaspilella",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted by UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-10"
+    }
+  },
+  {
+    "id": 62,
+    "url": null,
+    "flickr": "32319610667",
+    "species": "nycteola-metaspilella",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted by UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-02"
+    }
+  },
+  {
+    "id": 62,
+    "url": null,
+    "flickr": "47331426062",
+    "species": "lithophane-signosa",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-15"
+    }
+  },
+  {
+    "id": 63,
+    "url": null,
+    "flickr": "47384279111",
+    "species": "lithophane-signosa",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-15"
+    }
+  },
+  {
+    "id": 64,
+    "url": null,
+    "flickr": "32319590327",
+    "species": "mythimna-unipuncta",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted by UV light, captured, photogrraphed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-01"
+    }
+  },
+  {
+    "id": 65,
+    "url": null,
+    "flickr": "46537843544",
+    "species": "mythimna-unipuncta",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted by UV light, captured, photogrraphed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-01"
+    }
+  },
+  {
+    "id": 66,
+    "url": null,
+    "flickr": "40296727993",
+    "species": "mythimna-unipuncta",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted by UV light, captured, photogrraphed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-01"
+    }
+  },
+  {
+    "id": 67,
+    "url": null,
+    "flickr": "47451569881",
+    "species": "amphion-foridensis",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-23"
     }
   }
 ]

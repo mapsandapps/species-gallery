@@ -8,6 +8,7 @@ var subgalleriesData = require('./src/data/subgalleries.json')
 
 var birdsData = require('./src/data/birds.json')
 var butterfliesData = require('./src/data/butterflies.json')
+var mothsData = require('./src/data/moths.json')
 
 // Changes here requires a server restart.
 // To restart press CTRL + C in terminal and run `gridsome develop`
@@ -58,6 +59,16 @@ module.exports = function (api) {
         id: item.id,
         fields: {
           gallery: 'butterflies',
+          ...item
+        }
+      })
+    }
+
+    for (const item of mothsData) {
+      species.addNode({
+        id: item.id,
+        fields: {
+          gallery: 'moths',
           ...item
         }
       })
