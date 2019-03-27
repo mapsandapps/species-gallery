@@ -6,7 +6,7 @@
     v-for="photo in $page.species.photos"
     v-bind:key="photo.id"
     :photo="photo"
-    size="medium">
+    size="t_400">
     {{ photo.annotations.sex }} {{ photo.annotations.stage }} {{ $page.species.commonName }} at {{ photo.captureInfo.location }}, {{ photo.captureInfo.date }}
   </PhotoWithCaption>
 </Layout>
@@ -22,7 +22,7 @@ query Species($id: String!) {
     photos {
       id
       url
-      flickrSlug
+      cloudinarySlug
       caption
       annotations {
         stage
@@ -65,7 +65,7 @@ export default {
       }
     ]
     return {
-      title: this.$page.gallery.name
+      title: this.$page.species.commonName
     }
   }
 };

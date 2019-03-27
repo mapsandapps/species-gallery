@@ -294,7 +294,7 @@
   },
   {
     "id": 17,
-    "url": null,
+    "cloudinarySlug": "32412688937_8c369be179_o",
     "flickr": "32412688937",
     "species": "plutella-xylostella",
     "annotations": {
@@ -312,7 +312,7 @@
   },
   {
     "id": 18,
-    "url": null,
+    "cloudinarySlug": "46328484155_e2e363d761_o_1",
     "flickr": "46328484155",
     "species": "argyrotaenia-velutinana",
     "annotations": {
@@ -331,7 +331,7 @@
   },
   {
     "id": 19,
-    "url": null,
+    "cloudinarySlug": "32300933897_e928d186fa_o",
     "flickr": "32300933897",
     "species": "argyrotaenia-velutinana",
     "annotations": {
@@ -350,7 +350,7 @@
   },
   {
     "id": 20,
-    "url": null,
+    "cloudinarySlug": "46519474544_94be4464d4_o_1",
     "flickr": "46519474544",
     "species": "ryacionia-rigidana",
     "annotations": {
@@ -369,7 +369,7 @@
   },
   {
     "id": 21,
-    "url": null,
+    "cloudinarySlug": "32300944307_cebf0d73fb_o_1",
     "flickr": "32300944307",
     "species": "pseudexentera",
     "annotations": {
@@ -388,7 +388,7 @@
   },
   {
     "id": 22,
-    "url": null,
+    "cloudinarySlug": "32402381737_3cdab361d4_o_1",
     "flickr": "32402381737",
     "species": "proteoteras-aesculana",
     "annotations": {
@@ -407,7 +407,7 @@
   },
   {
     "id": 23,
-    "url": null,
+    "cloudinarySlug": "32300958487_b05a901daf_o_1",
     "flickr": "32300958487",
     "species": "gretchena-bolliana",
     "annotations": {
@@ -426,7 +426,7 @@
   },
   {
     "id": 24,
-    "url": null,
+    "cloudinarySlug": "46328504075_5f8cc0a537_o",
     "flickr": "46328504075",
     "species": "gretchena-bolliana",
     "annotations": {
@@ -445,7 +445,7 @@
   },
   {
     "id": 25,
-    "url": null,
+    "cloudinarySlug": "33124699578_ffa86a8809_o",
     "flickr": "33124699578",
     "species": "chimoptesis-gerulae",
     "annotations": {
@@ -464,7 +464,7 @@
   },
   {
     "id": 26,
-    "url": null,
+    "cloudinarySlug": "47243070201_23735c18f6_o_2",
     "flickr": "47243070201",
     "species": "palpita-arsaltealis",
     "annotations": {
@@ -483,7 +483,7 @@
   },
   {
     "id": 27,
-    "url": null,
+    "cloudinarySlug": "43237555365_6e7d8829ba_o",
     "flickr": "43237555365",
     "species": "anisota-peigleri",
     "annotations": {
@@ -502,7 +502,7 @@
   },
   {
     "id": 28,
-    "url": null,
+    "cloudinarySlug": "46537863334_1b240044eb_o",
     "flickr": "46537863334",
     "species": "Orthonama obstipata",
     "annotations": {
@@ -521,7 +521,7 @@
   },
   {
     "id": 29,
-    "url": null,
+    "cloudinarySlug": "47209554882_021c2e60a3_o",
     "flickr": "47209554882",
     "species": "Orthonama obstipata",
     "annotations": {
@@ -540,7 +540,7 @@
   },
   {
     "id": 30,
-    "url": null,
+    "cloudinarySlug": "46537852714_f81cf16787_o",
     "flickr": "46537852714",
     "species": "Orthonama obstipata",
     "annotations": {
@@ -559,7 +559,7 @@
   },
   {
     "id": 31,
-    "url": null,
+    "cloudinarySlug": "46096848835_94cefdfc58_o",
     "flickr": "46096848835",
     "species": "costaconvexa-centrostrigaria",
     "annotations": {
@@ -579,7 +579,7 @@
   },
   {
     "id": 32,
-    "url": null,
+    "cloudinarySlug": "32319584177_457fe29a61_o",
     "flickr": "32319584177",
     "species": "eupithecia-miserulata",
     "annotations": {
@@ -598,7 +598,7 @@
   },
   {
     "id": 33,
-    "url": null,
+    "cloudinarySlug": "32300953917_76ecaef18c_o",
     "flickr": "32300953917",
     "species": "eupithecia-miserulata",
     "annotations": {
@@ -617,7 +617,7 @@
   },
   {
     "id": 34,
-    "url": null,
+    "cloudinarySlug": "40278091873_198213d334_o_1",
     "flickr": "40278091873",
     "species": "eupithecia-miserulata",
     "annotations": {
@@ -636,7 +636,7 @@
   },
   {
     "id": 35,
-    "url": null,
+    "cloudinarySlug": "33367331128_d05eccf343_o_1",
     "flickr": "33367331128",
     "species": "eupithecia-miserulata",
     "annotations": {
@@ -655,7 +655,7 @@
   },
   {
     "id": 36,
-    "url": null,
+    "cloudinarySlug": "33068109848_d6d212a7da_o",
     "flickr": "33068109848",
     "species": "alsophila-pometaria",
     "annotations": {
@@ -674,7 +674,7 @@
   },
   {
     "id": 37,
-    "url": null,
+    "cloudinarySlug": "46537869204_c25eb986af_o_2",
     "flickr": "46537869204",
     "species": "macaria-aemulataria",
     "annotations": {
@@ -693,7 +693,7 @@
   },
   {
     "id": 38,
-    "url": null,
+    "cloudinarySlug": "33385676018_76e6cdd252_o",
     "flickr": "33385676018",
     "species": "macaria-aemulataria",
     "annotations": {
@@ -712,7 +712,7 @@
   },
   {
     "id": 39,
-    "url": null,
+    "cloudinarySlug": "47381395361_c15c31a191_o",
     "flickr": "47381395361",
     "species": "macaria-transitaria",
     "annotations": {
@@ -731,7 +731,7 @@
   },
   {
     "id": 40,
-    "url": null,
+    "cloudinarySlug": "46439653675_e933a18684_o",
     "flickr": "46439653675",
     "species": "macaria-transitaria",
     "annotations": {
@@ -750,7 +750,7 @@
   },
   {
     "id": 41,
-    "url": null,
+    "cloudinarySlug": "46439652565_bcfa9187cf_o",
     "flickr": "46439652565",
     "species": "macaria-transitaria",
     "annotations": {
@@ -769,7 +769,7 @@
   },
   {
     "id": 42,
-    "url": null,
+    "cloudinarySlug": "39836886153_936fd53dff_o",
     "flickr": "39836886153",
     "species": "iridopsis-defectaria",
     "annotations": {
@@ -788,7 +788,7 @@
   },
   {
     "id": 43,
-    "url": null,
+    "cloudinarySlug": "46077277294_c9caca6762_o",
     "flickr": "46077277294",
     "species": "iridopsis-defectaria",
     "annotations": {
@@ -807,7 +807,7 @@
   },
   {
     "id": 44,
-    "url": null,
+    "cloudinarySlug": "46802355961_db4fafce14_o",
     "flickr": "46802355961",
     "species": "iridopsis-defectaria",
     "annotations": {
@@ -826,7 +826,7 @@
   },
   {
     "id": 45,
-    "url": null,
+    "cloudinarySlug": "33124694668_cf79932fa5_o",
     "flickr": "33124694668",
     "species": "ilexia-intractata",
     "annotations": {
@@ -845,7 +845,7 @@
   },
   {
     "id": 46,
-    "url": null,
+    "cloudinarySlug": "46276008544_3405dc1dc0_o",
     "flickr": "46276008544",
     "species": "ilexia-intractata",
     "annotations": {
@@ -864,7 +864,7 @@
   },
   {
     "id": 47,
-    "url": null,
+    "cloudinarySlug": "40035494623_d83cc443ab_o",
     "flickr": "40035494623",
     "species": "ilexia-intractata",
     "annotations": {
@@ -883,7 +883,7 @@
   },
   {
     "id": 48,
-    "url": null,
+    "cloudinarySlug": "46086335285_f63ac249cd_o",
     "flickr": "46086335285",
     "species": "ilexia-intractata",
     "annotations": {
@@ -902,7 +902,7 @@
   },
   {
     "id": 49,
-    "url": null,
+    "cloudinarySlug": "46008860055_f9960a4fa3_o",
     "flickr": "46008860055",
     "species": "ilexia-intractata",
     "annotations": {
@@ -921,7 +921,7 @@
   },
   {
     "id": 50,
-    "url": null,
+    "cloudinarySlug": "31925505017_52030784eb_o",
     "flickr": "31925505017",
     "species": "phigalia-denticulata",
     "annotations": {
@@ -940,7 +940,7 @@
   },
   {
     "id": 51,
-    "url": null,
+    "cloudinarySlug": "46866792651_9147e3f656_o",
     "flickr": "46866792651",
     "species": "phigalia-denticulata",
     "annotations": {
@@ -959,7 +959,7 @@
   },
   {
     "id": 52,
-    "url": null,
+    "cloudinarySlug": "46519458474_a3e36e0bc1_o",
     "flickr": "46519458474",
     "species": "phigalia-strigataria",
     "annotations": {
@@ -979,7 +979,7 @@
   },
   {
     "id": 53,
-    "url": null,
+    "cloudinarySlug": "40389707963_bbd987012d_o",
     "flickr": "40389707963",
     "species": "hypena-baltimoralis",
     "annotations": {
@@ -998,7 +998,7 @@
   },
   {
     "id": 54,
-    "url": null,
+    "cloudinarySlug": "46631801004_ce4b013803_o",
     "flickr": "46631801004",
     "species": "hypena-baltimoralis",
     "annotations": {
@@ -1017,7 +1017,7 @@
   },
   {
     "id": 55,
-    "url": null,
+    "cloudinarySlug": "47000148781_0ddbc5a9a0_o",
     "flickr": "47000148781",
     "species": "hypena-scabra",
     "annotations": {
@@ -1036,7 +1036,7 @@
   },
   {
     "id": 56,
-    "url": null,
+    "cloudinarySlug": "47355008251_a33cd708a5_o",
     "flickr": "47355008251",
     "species": "phoberia-atomaris",
     "annotations": {
@@ -1055,7 +1055,7 @@
   },
   {
     "id": 57,
-    "url": null,
+    "cloudinarySlug": "46440088355_3ab556f25c_o_1",
     "flickr": "46440088355",
     "species": "phoberia-atomaris",
     "annotations": {
@@ -1074,7 +1074,7 @@
   },
   {
     "id": 58,
-    "url": null,
+    "cloudinarySlug": "40389704803_4224bb9f50_o",
     "flickr": "40389704803",
     "species": "phoberia-atomaris",
     "annotations": {
@@ -1093,7 +1093,7 @@
   },
   {
     "id": 59,
-    "url": null,
+    "cloudinarySlug": "33468255188_1de52f00b8_o",
     "flickr": "33468255188",
     "species": "nycteola-metaspilella",
     "annotations": {
@@ -1113,7 +1113,7 @@
   },
   {
     "id": 60,
-    "url": null,
+    "cloudinarySlug": "46429393465_4322a7d84b_o",
     "flickr": "46429393465",
     "species": "nycteola-metaspilella",
     "annotations": {
@@ -1133,7 +1133,7 @@
   },
   {
     "id": 61,
-    "url": null,
+    "cloudinarySlug": "46621033934_fc62145976_o",
     "flickr": "46621033934",
     "species": "nycteola-metaspilella",
     "annotations": {
@@ -1153,7 +1153,7 @@
   },
   {
     "id": 62,
-    "url": null,
+    "cloudinarySlug": "32319610667_7643d5860c_o",
     "flickr": "32319610667",
     "species": "nycteola-metaspilella",
     "annotations": {
@@ -1173,7 +1173,7 @@
   },
   {
     "id": 62,
-    "url": null,
+    "cloudinarySlug": "47331426062_02a3d2d2b9_o",
     "flickr": "47331426062",
     "species": "lithophane-signosa",
     "annotations": {
@@ -1193,7 +1193,7 @@
   },
   {
     "id": 63,
-    "url": null,
+    "cloudinarySlug": "47384279111_8c574971b1_o_2",
     "flickr": "47384279111",
     "species": "lithophane-signosa",
     "annotations": {
@@ -1213,7 +1213,7 @@
   },
   {
     "id": 64,
-    "url": null,
+    "cloudinarySlug": "32319590327_ea6844fbe6_o",
     "flickr": "32319590327",
     "species": "mythimna-unipuncta",
     "annotations": {
@@ -1232,7 +1232,7 @@
   },
   {
     "id": 65,
-    "url": null,
+    "cloudinarySlug": "46537843544_a0ea182ae9_o",
     "flickr": "46537843544",
     "species": "mythimna-unipuncta",
     "annotations": {
@@ -1251,7 +1251,7 @@
   },
   {
     "id": 66,
-    "url": null,
+    "cloudinarySlug": "40296727993_43a2f59c15_o",
     "flickr": "40296727993",
     "species": "mythimna-unipuncta",
     "annotations": {
@@ -1270,7 +1270,7 @@
   },
   {
     "id": 67,
-    "url": null,
+    "cloudinarySlug": "47451569881_d91179af9f_o_1",
     "flickr": "47451569881",
     "species": "amphion-foridensis",
     "annotations": {
@@ -1285,6 +1285,258 @@
       "city": "Atlanta",
       "county": "Fulton",
       "date": "2019-03-23"
+    }
+  },
+  {
+    "id": 68,
+    "cloudinarySlug": "ailanthus-webworm-moth",
+    "species": "atteva-aurea",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-07-07"
+    }
+  },
+  {
+    "id": 69,
+    "cloudinarySlug": "hypsopygia-olinalis",
+    "species": "hypsopygia-olinalis",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-08-13"
+    }
+  },
+  {
+    "id": 70,
+    "cloudinarySlug": "palpita-freemanalis",
+    "species": "palpita-freemanalis",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-09-15"
+    }
+  },
+  {
+    "id": 71,
+    "cloudinarySlug": "malacosoma-americanum",
+    "species": "malacosoma-americanum",
+    "annotations": {
+      "stage": "larva",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "",
+      "location": "Constitution Lakes",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2018-04-14"
+    }
+  },
+  {
+    "id": 72,
+    "cloudinarySlug": "xylophanes-tersa",
+    "species": "xylophanes-tersa",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2017-09-26"
+    }
+  },
+  {
+    "id": 73,
+    "cloudinarySlug": "pleuroprucha-insulsaria",
+    "species": "pleuroprucha-insulsaria",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-07-26"
+    }
+  },
+  {
+    "id": 74,
+    "cloudinarySlug": "nadata-gibbosa",
+    "species": "nadata-gibbosa",
+    "annotations": {
+      "stage": "larva",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "",
+      "location": "Fernbank Forest",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2018-09-16"
+    }
+  },
+  {
+    "id": 75,
+    "cloudinarySlug": "schizura-ipomaeae",
+    "species": "schizura-ipomaeae",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-09-07"
+    }
+  },
+  {
+    "id": 76,
+    "cloudinarySlug": "44675958765_fd7259bd9e_o",
+    "species": "halysidota-tessellaris",
+    "annotations": {
+      "stage": "larva",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "",
+      "location": "Big Trees Forest Preserve",
+      "city": "Sandy Springs",
+      "county": "Fulton",
+      "date": "2018-10-27"
+    }
+  },
+  {
+    "id": 77,
+    "cloudinarySlug": "lacinipolia-laudabilis",
+    "species": "lacinipolia-laudabilis",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-09-15"
+    }
+  },
+  {
+    "id": 78,
+    "cloudinarySlug": "choephora-fungorum",
+    "species": "choephora-fungorum",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-11-04"
+    }
+  },
+  {
+    "id": 79,
+    "cloudinarySlug": "47381397721_a237df547b_o",
+    "species": "melanolophia-signataria",
+    "annotations": {
+      "stage": "adult",
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-14"
+    }
+  },
+  {
+    "id": 80,
+    "cloudinarySlug": "32439788357_0d23fbc295_o",
+    "species": "melanolophia-signataria",
+    "annotations": {
+      "stage": "adult",
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-14"
+    }
+  },
+  {
+    "id": 81,
+    "cloudinarySlug": "hypagyrtis-unipunctata",
+    "species": "hypagyrtis-unipunctata",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-09-07"
     }
   }
 ]

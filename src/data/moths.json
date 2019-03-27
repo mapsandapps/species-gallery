@@ -12,8 +12,8 @@
     "commonName": "Ailanthus Webworm Moth",
     "scientificName": "Atteva aurea",
     "subgallery": "f337e8bc-71ac-4e37-8c39-f60780c81e16",
-    "featuredPhoto": null,
-    "photos": []
+    "featuredPhoto": 68,
+    "photos": [68]
   },
   {
     "id": "argyrotaenia-velutinana",
@@ -68,8 +68,8 @@
     "commonName": "Yellow-fringed Dolichomia",
     "scientificName": "Hypsopygia olinalis",
     "subgallery": "b5c8e656-7fd0-458d-8b07-df50add83aed",
-    "featuredPhoto": null,
-    "photos": []
+    "featuredPhoto": 69,
+    "photos": [69]
   },
   {
     "id": "palpita-arsaltealis",
@@ -84,16 +84,16 @@
     "commonName": "Freeman's Palpita",
     "scientificName": "Palpita freemanalis",
     "subgallery": "0dbcab98-d302-4a4c-a4a8-b77fdfaf56ca",
-    "featuredPhoto": null,
-    "photos": []
+    "featuredPhoto": 70,
+    "photos": [70]
   },
   {
     "id": "malacosoma-americanum",
     "commonName": "Eastern Tent Caterpillar Moth",
     "scientificName": "Malacosoma americanum",
     "subgallery": "52b1c8f7-ca3b-4a25-aca8-be3266d0e8d0",
-    "featuredPhoto": null,
-    "photos": []
+    "featuredPhoto": 71,
+    "photos": [71]
   },
   {
     "id": "anisota-peigleri",
@@ -108,8 +108,8 @@
     "commonName": "Tersa Sphinx",
     "scientificName": "Xylophanes tersa",
     "subgallery": "dcf4ebd6-b173-45a1-8048-70543c7c5e17",
-    "featuredPhoto": null,
-    "photos": []
+    "featuredPhoto": 72,
+    "photos": [72]
   },
   {
     "id": "orthonama-obstipata",
@@ -140,8 +140,8 @@
     "commonName": "Common Tan Wave",
     "scientificName": "Pleuroprucha insulsaria",
     "subgallery": "179453b6-cb92-4bc5-a57b-83e590b5350b",
-    "featuredPhoto": null,
-    "photos": []
+    "featuredPhoto": 73,
+    "photos": [73]
   },
   {
     "id": "alsophila-pometaria",
@@ -204,24 +204,24 @@
     "commonName": "White-dotted Prominent",
     "scientificName": "Nadata gibbosa",
     "subgallery": "ff28ff05-edf6-44de-9928-45fd4b6ac765",
-    "featuredPhoto": null,
-    "photos": []
+    "featuredPhoto": 74,
+    "photos": [74]
   },
   {
     "id": "schizura-ipomaeae",
     "commonName": "Morning-glory Prominent",
     "scientificName": "Schizura ipomaeae",
     "subgallery": "ff28ff05-edf6-44de-9928-45fd4b6ac765",
-    "featuredPhoto": null,
-    "photos": []
+    "featuredPhoto": 75,
+    "photos": [75]
   },
   {
     "id": "halysidota-tessellaris",
     "commonName": "Banded Tussock Moth",
     "scientificName": "Halysidota tessellaris",
     "subgallery": "f7e21bb9-991c-4685-8da7-88a1f5b68c5b",
-    "featuredPhoto": null,
-    "photos": []
+    "featuredPhoto": 76,
+    "photos": [76]
   },
   {
     "id": "hypena-baltimoralis",
@@ -276,15 +276,39 @@
     "commonName": "Laudable Arches",
     "scientificName": "Lacinipolia laudabilis",
     "subgallery": "72e77a42-0dc9-4bdf-b88d-cca96d1e9751",
-    "featuredPhoto": null,
-    "photos": []
+    "featuredPhoto": 77,
+    "photos": [77]
   },
   {
     "id": "choephora-fungorum",
     "commonName": "Bent-line Dart",
     "scientificName": "Choephora fungorum",
     "subgallery": "0892c2b9-36dc-464f-9669-6da9dd7f03a8",
-    "featuredPhoto": null,
-    "photos": []
+    "featuredPhoto": 78,
+    "photos": [78]
+  },
+  {
+    "id": "amphion-floridensis",
+    "commonName": "Nessus Sphinx",
+    "scientificName": "Amphion floridensis",
+    "subgallery": "dcf4ebd6-b173-45a1-8048-70543c7c5e17",
+    "featuredPhoto": 67,
+    "photos": [67]
+  },
+  {
+    "id": "melanolophia-signataria",
+    "commonName": "Signate Melanolophia",
+    "scientificName": "Melanolophia signataria",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 79,
+    "photos": [79, 80]
+  },
+  {
+    "id": "hypagyrtis-unipunctata",
+    "commonName": "One-spotted Variant Moth",
+    "scientificName": "Hypagyrtis unipunctata",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 81,
+    "photos": [81]
   }
 ]
