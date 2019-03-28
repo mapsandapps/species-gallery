@@ -276,7 +276,7 @@
   {
     "id": 16,
     "cloudinarySlug": "42612821364_5daec24246_o",
-    "flickrID": "42612821364",
+    "flickr": "42612821364",
     "species": "papilio-glaucus",
     "annotations": {
       "stage": null,
@@ -1537,6 +1537,63 @@
       "city": "Atlanta",
       "county": "Fulton",
       "date": "2018-09-07"
+    }
+  },
+  {
+    "id": 82,
+    "cloudinarySlug": "40479840773_c9ce25a13b_o",
+    "flickr": "40479840773",
+    "species": "elaphria-versicolor",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted via UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-22"
+    }
+  },
+  {
+    "id": 83,
+    "cloudinarySlug": "47445613891_e57f10b331_o",
+    "flickr": "47445613891",
+    "species": "elaphria-versicolor",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted via UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-22"
+    }
+  },
+  {
+    "id": 84,
+    "cloudinarySlug": "46544639935_8045d57a08_o_1",
+    "flickr": "46544639935",
+    "species": "clepsis-peritana",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was attracted via UV light, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-24"
     }
   }
 ]

@@ -310,5 +310,21 @@
     "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
     "featuredPhoto": 81,
     "photos": [81]
+  },
+  {
+    "id": "elaphria-versicolor",
+    "commonName": "Variegated Midget",
+    "scientificName": "Elaphria versicolor",
+    "subgallery": "1b1ff378-a9d7-4c19-9b93-4565e96a7322",
+    "featuredPhoto": 82,
+    "photos": [82, 83]
+  },
+  {
+    "id": "clepsis-peritana",
+    "commonName": "Garden Tortrix",
+    "scientificName": "Clepsis peritana",
+    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
+    "featuredPhoto": 84,
+    "photos": [84]
   }
 ]
