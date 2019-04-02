@@ -1,20 +1,26 @@
 <template>
-  <Layout>
-    <h1>{{ $page.gallery.name }}</h1>
+  <Layout class="gallery">
+    <h1>{{ $page.speciesGalleryGallery.name }}</h1>
     <div
-      v-for="subgallery in $page.gallery.belongsTo.edges"
+      v-for="subgallery in $page.speciesGalleryGallery.belongsTo.edges"
       :key="subgallery.node.id">
       <h2 v-if="subgallery.node.belongsTo.edges.length > 0">
-        <Breadcrumbs :breadcrumbs="subgallery.node.names" />
+        <!-- <Breadcrumbs :breadcrumbs="subgallery.node.names" /> -->
+        {{ split(last(subgallery.node.names), ' (')[0] }}
       </h2>
-      <SpeciesGalleryEntry v-for="species in subgallery.node.belongsTo.edges" :key="species.node.id" :species="species.node" />
+      <div class="subgallery-photos">
+        <SpeciesGalleryEntry
+          v-for="species in subgallery.node.belongsTo.edges"
+          :key="species.node.id"
+          :species="species.node" />
+      </div>
     </div>
   </Layout>
 </template>
 
 <page-query>
-query Gallery ($id: String!) {
-  gallery (id: $id) {
+query SpeciesGalleryGallery ($id: String!) {
+  speciesGalleryGallery (id: $id) {
     id
     name
     belongsTo(sortBy: "ASC", perPage: 120) {
@@ -47,6 +53,8 @@ query Gallery ($id: String!) {
 </page-query>
 
 <script>
+import _ from 'lodash'
+
 import Breadcrumbs from '~/components/Breadcrumbs'
 import SpeciesGalleryEntry from '~/components/SpeciesGalleryEntry'
 
@@ -55,6 +63,10 @@ export default {
     Breadcrumbs,
     SpeciesGalleryEntry
   },
+  methods: {
+    last: _.last,
+    split: _.split
+  },
   metaInfo() {
     this.$route.meta.breadcrumbs = [
       {
@@ -62,16 +74,29 @@ export default {
         link: '/'
       },
       {
-        name: this.$page.gallery.name,
+        name: 'Species',
+        link: '/species-gallery'
+      },
+      {
+        name: this.$page.speciesGalleryGallery.name,
         link: this.$route.path
       }
     ]
     return {
-      title: this.$page.gallery.name
+      title: this.$page.speciesGalleryGallery.name
     }
   }
 }
 </script>
 
 <style lang="scss" scoped>
+.gallery {
+  text-align: center;
+  .subgallery-photos {
+    justify-content: center;
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(auto-fill, minmax(50px, 332px));
+  }
+}
 </style>

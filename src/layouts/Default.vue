@@ -9,7 +9,9 @@
         <g-link class="nav__link" to="/about">About</g-link>
       </nav>
     </header>
-    <div v-if="this.breadcrumbs">
+    <div
+      v-if="this.breadcrumbs"
+      class="breadcrumbs">
       <span
         v-for="(crumb, index) in this.allButLast"
         :key="index">
@@ -59,7 +61,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
 body {
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   margin:0;
@@ -68,10 +70,19 @@ body {
 }
 
 .layout {
-  max-width: 760px;
-  margin: 0 auto;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+a {
+  color: #4b2075;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+h1, h2, h3 {
+  color: #4b2075;
 }
 
 .header {
@@ -80,6 +91,10 @@ body {
   align-items: center;
   margin-bottom: 20px;
   height: 80px;
+}
+
+.breadcrumbs {
+  text-align: left;
 }
 
 .nav__link {

@@ -326,5 +326,21 @@
     "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
     "featuredPhoto": 84,
     "photos": [84]
+  },
+  {
+    "id": "achatia-distincta",
+    "commonName": "Distinct Quaker",
+    "scientificName": "Achatia distincta",
+    "subgallery": "7c9eba4f-d7d5-4f31-bb26-729f3a39bc7e",
+    "featuredPhoto": 85,
+    "photos": [85]
+  },
+  {
+    "id": "cissusa-spadix",
+    "commonName": "Black-dotted Brown",
+    "scientificName": "Cissusa spadix",
+    "subgallery": "136552e3-0b00-4003-b88b-29cad85ab1e8",
+    "featuredPhoto": 86,
+    "photos": [86, 87]
   }
 ]

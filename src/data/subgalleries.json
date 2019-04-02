@@ -8,7 +8,7 @@
     "createdAt": "2019-03-07T00:43:12.969Z",
     "updatedAt": "2019-03-07T00:50:26.122Z",
     "featuredPhoto": null,
-    "galleries": ["butterflies"]
+    "speciesGalleries": ["butterflies"]
   },
   {
     "id": "5ae3717f-3673-4ac5-920f-9e39639c4869",
@@ -16,7 +16,7 @@
       "Swallowtails"
     ],
     "featuredPhoto": 16,
-    "galleries": ["butterflies"]
+    "speciesGalleries": ["butterflies"]
   },
   {
     "id": "188544d9-bc4c-46c5-b2ad-bf2be49b93ff",
@@ -25,7 +25,7 @@
       "Whites"
     ],
     "featuredPhoto": 17,
-    "galleries": ["butterflies"]
+    "speciesGalleries": ["butterflies"]
   },
   {
     "id": "150ec397-5856-4720-995b-77b4d3cbfd23",
@@ -33,14 +33,14 @@
       "Woodpeckers"
     ],
     "featuredPhoto": 6,
-    "galleries": ["birds"]
+    "speciesGalleries": ["birds"]
   },{
     "id": "c92452b2-4ddd-49a0-9290-cc8fa84b40f3",
     "names": [
       "Moss-Eaters and Leaf-Miners (Families Micropterigidae and Eriocraniidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "4e74fbf5-fa7d-4de9-8449-737e186ee707",
@@ -48,7 +48,7 @@
       "Ghost Moths (Family Hepialidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "306f595a-c59f-439e-a561-33b0f9a1cfcb",
@@ -56,7 +56,7 @@
       "Fringed Miner Moths (Families Nepticulidae, Opostegidae, Tischeriidae, Incurvariidae, and Prodoxidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "c6ce9db7-0976-41cf-8851-9726b2f4ba64",
@@ -64,7 +64,7 @@
       "Fairy (Longhorn) Moths (Family Adelidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "71c09ad8-38c2-424e-a0a2-6ab346727dea",
@@ -72,7 +72,7 @@
       "Bagworm Moths (Family Psychidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "4a2185ea-51cc-42f5-a233-09c9b4adf3b0",
@@ -80,7 +80,7 @@
       "Fungus and Tube Moths (Families Tineidae and Acrolophidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "d35c08cb-64b3-41e7-b94e-9ca2e3f12461",
@@ -89,7 +89,7 @@
       "Ribbed Cocoon-making Moths (Bucculatricidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "a85b34d4-57dd-49cd-a946-2866c07e6ef7",
@@ -98,7 +98,7 @@
       "Leaf Blotch Miner Moths (Gracillariidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "6b7ac324-110b-4efe-9de9-9c92e6e6674d",
@@ -107,7 +107,7 @@
       "Ermine Moths (Yponomeutidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "eb6de9c6-334e-4393-8d41-f4733cc132c4",
@@ -116,7 +116,7 @@
       "Sedge, Diamondback, and False Diamondback Moths (Plutellidae and Glyphipterigidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "f337e8bc-71ac-4e37-8c39-f60780c81e16",
@@ -125,7 +125,7 @@
       "Needleminer Moths (Argyresthiidae and Lyonetiidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "19e57696-39a8-4516-bd57-51f64cd7778b",
@@ -134,7 +134,7 @@
       "Concealer and Scavenger Moths (Autostichidae, Lecithoceridae, and Oechophoridae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "e7ff20f1-6225-4500-8e65-249006496f8f",
@@ -143,7 +143,7 @@
       "Grass Miner Moths (Depressariidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "fcd2dbf1-96c6-4fdf-b371-614767852d80",
@@ -152,7 +152,7 @@
       "Cosmet Moths (Cosmopterigidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "4995e714-ecb6-4968-94d4-a62305c26713",
@@ -161,7 +161,7 @@
       "Twirler Moths (Gelechiidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "468e9211-9ba6-40fd-bdff-17ca88a6b416",
@@ -170,7 +170,7 @@
       "Casebearer Moths and allies (Coleophoridae, Batrachedridae, Scythrididae, Blastobasidae, Stathmopodidae, and Momphidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "6471ad87-a2f3-4040-b139-4bd5bdf0d6ea",
@@ -179,7 +179,7 @@
       "Many-plumed Moths (Alucitidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "7bce7c77-084f-4a80-af23-e5191cb20e5e",
@@ -188,7 +188,7 @@
       "Plume Moths (Pterophoridae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "dc5fb0c1-3862-489a-a384-89c3bdacd6be",
@@ -197,7 +197,7 @@
       "Fruitworm Moths (Carposinidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "b56f8a10-bf36-4b93-ba6e-c8b896fc95c4",
@@ -206,7 +206,7 @@
       "False Burnet Moths (Urodidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "582f5966-02dc-4b07-8f09-bbd1e099924b",
@@ -215,7 +215,7 @@
       "Metalmark Moths (Choreutidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "540dfdb5-7561-48c1-b3eb-6a1527bcd440",
@@ -224,7 +224,7 @@
       "Mimosa Webworm (Galacticidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "a17d7fcd-a6f5-445e-a442-93cbe781bed6",
@@ -233,7 +233,7 @@
       "Tortrix Leafrollers (Tortricidae, Subfamily Tortricinae, Tribes Tortricini and Cnephasiini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "5e0503ec-c351-4c44-bb34-da86c4c72ce8",
@@ -242,7 +242,7 @@
       "Cochylid Moths (Tortricidae, Subfamily Tortricinae, Tribe Cochylini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
@@ -251,7 +251,7 @@
       "Archips Leafrollers (Tortricidae, Subfamily Tortricinae, Tribe Archipini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "37664b69-06d5-4aef-96db-b35784c51bf9",
@@ -260,7 +260,7 @@
       "Sparganothid Leafrollers (Tortricidae, Subfamily Tortricinae, Tribe Sparganothini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
@@ -269,7 +269,7 @@
       "Olethreutine Moths (Tortricidae, Subfamily Olethreutinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "64425e62-a686-40d6-b3d3-c90ef8d5abfe",
@@ -278,7 +278,7 @@
       "Psychadelic Leafrollers (Tortricidae, Subfamily Chlidanotinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "68ce6ed7-8bc0-470d-b802-97b5ac155947",
@@ -287,7 +287,7 @@
       "Carpenterworm Moths (Cossidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "479e59fb-6e7e-461b-a09e-1c696bcbf3cf",
@@ -296,7 +296,7 @@
       "Clearwing Borers (Sesiidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "a7f873f8-b83c-443f-9f6a-e93b1c8ed4a3",
@@ -305,7 +305,7 @@
       "Planthopper Parasite Moth (Epipyropidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "98e74f51-428d-4677-a561-af65e6fbf02a",
@@ -314,7 +314,7 @@
       "Tropical Burnet Moths (Lacturidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "466ea38d-5eb8-42a1-b070-e7b2cce0ae0d",
@@ -323,7 +323,7 @@
       "Slug Moths (Limacodidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "a8b7cffd-9674-4b94-8c8b-29c748367889",
@@ -332,7 +332,7 @@
       "Flannel Moths (Megalopygidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "5642d956-4b11-427d-9a8e-ea6a22a64602",
@@ -341,7 +341,7 @@
       "Leaf Skeletonizers (Zygaenidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "a3317d62-b18a-438e-9769-7ac6e8f277b7",
@@ -350,7 +350,7 @@
       "Window-Winged Moths (Thyrididae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "b5c8e656-7fd0-458d-8b07-df50add83aed",
@@ -359,7 +359,7 @@
       "Assorted Pyralids (Pyralidae, Subfamilies Galleriinae, Pyralinae, and Epipaschiinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "e49504f1-5348-4bd3-a1cc-1476e811f622",
@@ -368,7 +368,7 @@
       "Phycitinine Moths (Pyralidae, Subfamily Phycitinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "842c060e-cf18-4675-95de-0b8525081ab0",
@@ -377,7 +377,7 @@
       "Donacaulas and allies (Crambidae, Subfamily Schoenobiinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "bf8a2f97-659e-4dc9-8666-7a0c171ddaf0",
@@ -386,7 +386,7 @@
       "Aquatic Crambids (Crambidae, Subfamily Acentropinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "d83e905a-0d36-4ca6-95c6-3f35fd44620b",
@@ -395,7 +395,7 @@
       "Grass-Veneers (Crambidae, Subfamily Crambinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "3f080f67-2b80-415e-98af-25b3deb7957e",
@@ -404,7 +404,7 @@
       "Moss-Eating Crambids (Crambidae, Subfamily Scopariinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "bdb35d9b-6431-43ce-aa80-da7280ee8c8a",
@@ -413,7 +413,7 @@
       "Fern Borers (Crambidae, Subfamily Musotiminae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "0eeb96d1-ff40-4162-9d8a-268082c8c9d0",
@@ -422,7 +422,7 @@
       "Assorted Crambids (Crambidae, Subfamilies Glaphyriinae and Odontiinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "0dbcab98-d302-4a4c-a4a8-b77fdfaf56ca",
@@ -431,7 +431,7 @@
       "Spilomeline Moths (Crambidae, Subfamily Spilomelinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "42436c83-624e-4c33-ac34-31d147b00bbe",
@@ -440,7 +440,7 @@
       "Pyraustine Moths (Crambidae, Subfamily Pyraustinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "1b64f4cc-c5c0-4d92-961f-5a6f4eb34dfd",
@@ -449,7 +449,7 @@
       "Sack-Bearers (Mimallonidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "8659798b-c915-4e70-b38b-101b13e98a50",
@@ -458,7 +458,7 @@
       "Thyatirids and Hooktips (Drepanidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "52b1c8f7-ca3b-4a25-aca8-be3266d0e8d0",
@@ -467,7 +467,7 @@
       "Tent Caterpillar and Lappet Moths (Lasiocampidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "c7088b79-3e1a-4fae-9a7d-ea9370bb2832",
@@ -476,7 +476,7 @@
       "Apatelodid Moths (Apatelodidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "a77b8125-4ddb-4724-a5c9-d2918c56c3a7",
@@ -485,7 +485,7 @@
       "Royal Silkworm Moths (Saturniidae, Subfamily Ceratocampinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "8cb45e57-659d-4d4d-bb57-c9c05a0633ab",
@@ -494,7 +494,7 @@
       "Silkworm Moths (Saturniidae, Subfamily Hemileucinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "755a71a2-98ac-4c81-bee3-4092eb739d5c",
@@ -503,7 +503,7 @@
       "Silkworm Moths (Saturniidae, Subfamily Saturniinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "cae795cb-c066-41d2-9532-311abb18ea7a",
@@ -512,7 +512,7 @@
       "Large Sphinx Moths (Sphingidae, Subfamily Sphinginae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "0962140f-5b8e-4135-91a0-4a896634eb1f",
@@ -521,7 +521,7 @@
       "Eyed Sphinx Moths (Sphingidae, Subfamily Smerinthinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "dcf4ebd6-b173-45a1-8048-70543c7c5e17",
@@ -530,7 +530,7 @@
       "Small Sphinx Moths (Sphingidae, Subfamily Macroglossinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "3e6152b5-8f21-4614-8795-5c53961f1ee5",
@@ -539,7 +539,7 @@
       "Scoopwings (Uraniidae, Subfamily Epipleminae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "0f6d34e7-9cce-45ec-82b9-6f142bbbcfbf",
@@ -548,7 +548,7 @@
       "Swallowtail Moths (Uraniidae, Subfamily Uraniinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "27f653f7-2a34-4024-a617-2a5d555c74f0",
@@ -557,7 +557,7 @@
       "Carpets and Pugs (Geometridae, Subfamily Larentiinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "179453b6-cb92-4bc5-a57b-83e590b5350b",
@@ -566,7 +566,7 @@
       "Waves (Geometridae, Subfamily Sterrhinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "1e0093d3-c398-45a6-84a3-1013d6f9b1a5",
@@ -575,7 +575,7 @@
       "Emeralds (Geometridae, Subfamily Geometrinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
@@ -584,7 +584,7 @@
       "Typical Geometers (Geometridae, Subfamilies Alsophilinae and Ennominae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "ff28ff05-edf6-44de-9928-45fd4b6ac765",
@@ -593,7 +593,7 @@
       "Prominents (Notodontidae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "f1198b43-cfda-43e2-8c57-aafba3589422",
@@ -602,7 +602,7 @@
       "Tussock Moths (Erebidae, Subfamily Lymantriinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "a36f1b91-6689-4ddc-b3a8-e3bf80c90097",
@@ -611,7 +611,7 @@
       "Lichen Moths (Erebidae, Subfamily Arctiinae, Tribe Lithosiini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "f7e21bb9-991c-4685-8da7-88a1f5b68c5b",
@@ -620,7 +620,7 @@
       "Tiger Moths (Erebidae, Subfamily Arctiinae, Tribe Arctiini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "1089c9b2-4aa4-4c07-a67f-9f9f8b7c168c",
@@ -629,7 +629,7 @@
       "Litter Moths (Erebidae, Subfamily Herminiinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "d4997bb1-f71d-4cbd-8eac-1f660977adb6",
@@ -638,7 +638,7 @@
       "Pangraptine Owlets (Erebidae, Subfamily Pangraptinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "5def0e08-61d3-448b-9012-28758b825af0",
@@ -647,7 +647,7 @@
       "Snouts and allies (Erebidae, Subfamily Hypeninae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "170dbbf6-d756-4ffa-a165-67a819a4b1b3",
@@ -656,7 +656,7 @@
       "Assorted Owlets (Erebidae, Subfamilies Rivulinae, Scoliopteryginae, Calpinae, Hypocalinae, Scolecocampinae, Hypenodinae, Boletobiinae, Eublemminae, Aventiinae, and Phytometrinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "136552e3-0b00-4003-b88b-29cad85ab1e8",
@@ -665,7 +665,7 @@
       "Underwings, Zales, and related Owlets (Erebidae, Subfamily Erebinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "63a2e8d2-c671-41c7-be32-3f761266d382",
@@ -674,7 +674,7 @@
       "Eulepidotine Owlets (Erebidae, Subfamily Eulepidotinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "f8d2f046-298d-4f4d-a56f-2f1d65786cd8",
@@ -683,7 +683,7 @@
       "Marathyssas and Paectes (Euteliidae, Subfamily Euteliinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "641c8638-a44d-49f7-9102-fdc000a3dce5",
@@ -692,7 +692,7 @@
       "Hieroglythic Moth (Nolidae, Subfamily Diphtherinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "73e6cb2c-0ccc-46e0-84c2-e26e54037e75",
@@ -701,7 +701,7 @@
       "Nolas (Nolidae, Subfamily Nolinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "a1b0d895-02fe-4f17-936d-fbb6070606c1",
@@ -710,7 +710,7 @@
       "Baileyas, Nycteolas, and allies (Nolidae, Subfamilies Chloephorinae, Risobinae, Collomeninae, and Afridinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "31519c04-4963-4b1d-ac11-0b1c5b5f1c1a",
@@ -719,7 +719,7 @@
       "Palm Borers (Noctuidae, Subfamily Dyopsinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "fab7d5b9-df0c-4982-ab87-d9c86a71ee7b",
@@ -728,7 +728,7 @@
       "Loopers (Noctuidae, Subfamily Plusiinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "a61e7532-3af8-43d5-9d7a-42c321527b01",
@@ -737,7 +737,7 @@
       "Glyphs (Noctuidae, Subfamilies Bagisarinae, Cydosiinae, and Eustrotiinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "178ba876-07d2-471a-8348-e57be7ae20e7",
@@ -746,7 +746,7 @@
       "Bird-Dropping Moths (Noctuidae, Subfamily Acontiinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "cfd8d845-c442-4919-a238-05bc5a6c1c53",
@@ -755,7 +755,7 @@
       "Pantheas and Yellowhorns (Noctuidae, Subfamily Pantheinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "fabf2cae-55ce-4ee8-9f0d-639286263c2c",
@@ -764,7 +764,7 @@
       "Brothers (Noctuidae, Subfamily Raphiinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "b2eb544c-cc58-43f3-a387-0278ed68d2ad",
@@ -773,7 +773,7 @@
       "Balsas (Noctuidae, Subfamily Balsinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "2726a7b1-aa30-4c8a-816c-970977a6ae5a",
@@ -782,7 +782,7 @@
       "Daggers (Noctuidae, Subfamily Acronictinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "f3d4514f-f10d-4826-99c2-39704d04e47f",
@@ -791,7 +791,7 @@
       "Hooded Owlets (Noctuidae, Subfamily Cuculliinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "58cb1573-228e-4909-94a2-611bb72ac800",
@@ -800,7 +800,7 @@
       "Amphipyrine Sallows (Noctuidae, Subfamily Amphipyrinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "6c3bae1d-aec5-4ebc-9ab8-6b73b2e8268c",
@@ -809,7 +809,7 @@
       "Oncocnemidine Sallows (Noctuidae, Subfamily Oncocnemidinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "fd865cc3-1583-40e3-9863-98c810e545aa",
@@ -818,7 +818,7 @@
       "Wood-Nymphs and Foresters (Noctuidae, Subfamily Agaristinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "9ca1226c-f1b7-4ccf-98d8-20882122a3f8",
@@ -827,7 +827,7 @@
       "Groundlings (Noctuidae, Subfamily Condicinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "b82881fa-ad3e-46c9-bdd4-e47df1884310",
@@ -836,7 +836,7 @@
       "Flower Moths (Noctuidae, Subfamily Heliothinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "69ccfad0-4dba-4302-b33b-4a5e9ff626b8",
@@ -845,7 +845,7 @@
       "Fern Moths (Noctuidae, Subfamily Eriopinae)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "03f9e8e1-35cb-49a9-8797-6dd82e40e5d0",
@@ -854,7 +854,7 @@
       "Phosphilas and Armyworms (Noctuidae, Subfamily Noctuinae, Tribes Pseudeustrotiini, Phosphilini, and Prodeniini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "1b1ff378-a9d7-4c19-9b93-4565e96a7322",
@@ -863,7 +863,7 @@
       "Midgets (Noctuidae, Subfamily Noctuinae, Tribe Elaphriini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "248b88ab-7028-4016-9803-4d69ecc501ae",
@@ -872,7 +872,7 @@
       "Assorted Noctuids (Noctuidae, Subfamily Noctuinae, Tribes Caradrinini, Dypterygiini, and Actinotiini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "af595e43-f613-446c-991e-ab2c1cae9d62",
@@ -881,7 +881,7 @@
       "Angle Shades (Noctuidae, Subfamily Noctuinae, Tribe Phlogophorini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "d72c679f-ef35-4197-ab1b-8829efe5ddc2",
@@ -890,7 +890,7 @@
       "Apameas, Brocades, and Borers (Noctuidae, Subfamily Noctuinae, Tribes Apameini and Arzamini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "9b6b26e1-8ebf-431c-9069-d37614201a31",
@@ -899,7 +899,7 @@
       "Pinions and Xyleninine Sallows (Noctuidae, Subfamily Noctuinae, Tribe Xylenini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "7c9eba4f-d7d5-4f31-bb26-729f3a39bc7e",
@@ -908,7 +908,7 @@
       "Spring Quakers, Woodlings, and Woodgrains (Noctuidae, Subfamily Noctuinae, Tribe Orthosiini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "af525e6f-36e5-4d2a-bd65-74b7f1788436",
@@ -917,7 +917,7 @@
       "Large Arches (Noctuidae, Subfamily Noctuinae, Tribes Tholerini and Hadenini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "d394a8b7-0f35-4438-9fe4-d27d249d8d2c",
@@ -926,7 +926,7 @@
       "Wainscots (Noctuidae, Subfamily Noctuinae, Tribe Leucaniini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "72e77a42-0dc9-4bdf-b88d-cca96d1e9751",
@@ -935,7 +935,7 @@
       "Small Arches and Summer Quakers (Noctuidae, Subfamily Noctuinae, Tribe Eriopygini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "37a4f9bc-0b32-4e6b-89e3-200a201d1f3d",
@@ -944,7 +944,7 @@
       "Spanish Moth(Noctuidae, Subfamily Noctuinae, Tribe Glottulini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   },
   {
     "id": "0892c2b9-36dc-464f-9669-6da9dd7f03a8",
@@ -953,6 +953,6 @@
       "Darts (Noctuidae, Subfamily Noctuinae, Tribe Noctuini)"
     ],
     "featuredPhoto": null,
-    "galleries": ["moths"]
+    "speciesGalleries": ["moths"]
   }
 ]

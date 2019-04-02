@@ -1,20 +1,26 @@
 <template>
 <g-link
-  :to="`/species/${species.id}`">
-  <PhotoWithCaption :photo="species.featuredPhoto" size="t_400">
-    {{ species.commonName }}<br>
-    {{ species.scientificName}}
-  </PhotoWithCaption>
+  :to="`/species-gallery/species/${species.id}`">
+  <figure class="species-gallery-entry">
+    <Photo
+      v-if="species.featuredPhoto"
+      :photo="species.featuredPhoto"
+      size="t_400" />
+    <figcaption>
+      {{ species.commonName }}<br>
+      {{ species.scientificName}}
+    </figcaption>
+  </figure>
 </g-link>
 </template>
 
 <script>
-import PhotoWithCaption from './PhotoWithCaption'
+import Photo from './Photo'
 
 export default {
   name: 'SpeciesGalleryEntry',
   components: {
-    PhotoWithCaption
+    Photo
   },
   props: {
     species: {
@@ -25,5 +31,21 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
+.species-gallery-entry {
+  max-width: 300px;
+  display: inline-block;
+  padding: 16px;
+  margin: 0px;
+  &:hover {
+    background-color: #f5f0fa;
+    figcaption {
+      text-decoration: underline;
+    }
+  }
+  img {
+    max-width: 300px;
+    max-height: 300px;
+  }
+}
 </style>

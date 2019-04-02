@@ -1,53 +1,56 @@
 <template>
   <Layout>
-    <div
-      v-for="gallery in $page.allGallery.edges"
-      :key="gallery.node.id">
-      <g-link
-        v-if="gallery.node.public || displayPrivateGalleries"
-        :to="`${gallery.node.id}`">
-        <PhotoWithCaption :photo="gallery.node.featuredPhoto" size="t_400">
-          {{ gallery.node.name }}
-        </PhotoWithCaption>
-      </g-link>
-    </div>
+    <g-link
+      to="/species-gallery">
+      <figure>
+        <Photo
+          :photo="$page.photo"
+          size="t_400" />
+        <figcaption>
+          Species
+        </figcaption>
+      </figure>
+    </g-link>
+    <g-link
+      to="/portfolio">
+      <figure>
+        <Photo
+          :photo="$page.photo"
+          size="t_400" />
+        <figcaption>
+          Portfolio
+        </figcaption>
+      </figure>
+    </g-link>
+    <g-link
+      to="/travel">
+      <figure>
+        <Photo
+          :photo="$page.photo"
+          size="t_400" />
+        <figcaption>
+          Travel
+        </figcaption>
+      </figure>
+    </g-link>
   </Layout>
 </template>
 
 <page-query>
 query {
-  allGallery(order: ASC) {
-    edges {
-      node {
-        id
-        name
-        featuredPhoto {
-          id
-          cloudinarySlug
-        }
-        public
-        belongsTo {
-          edges {
-            node {
-              ... on Subgallery {
-                id
-                names
-              }
-            }
-          }
-        }
-      }
-    }
+  photo(id: "16") {
+    id
+    cloudinarySlug
   }
 }
 </page-query>
 
 <script>
-import PhotoWithCaption from '~/components/PhotoWithCaption'
+import Photo from '~/components/Photo'
 
 export default {
   components: {
-    PhotoWithCaption
+    Photo
   },
   metaInfo() {
     title: '',

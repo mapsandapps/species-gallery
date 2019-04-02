@@ -2,13 +2,17 @@
 <Layout>
   <h1>{{ $page.species.commonName }}</h1>
   <h2>{{ $page.species.scientificName }}</h2>
-  <PhotoWithCaption
+  <figure
     v-for="photo in $page.species.photos"
-    v-bind:key="photo.id"
-    :photo="photo"
-    size="t_400">
-    {{ photo.annotations.sex }} {{ photo.annotations.stage }} {{ $page.species.commonName }} at {{ photo.captureInfo.location }}, {{ photo.captureInfo.date }}
-  </PhotoWithCaption>
+    v-bind:key="photo.id">
+    <Photo
+      v-if="photo"
+      :photo="photo"
+      size="t_400" />
+    <figcaption>
+      {{ photo.annotations.sex }} {{ photo.annotations.stage }} {{ $page.species.commonName }} at {{ photo.captureInfo.location }}, {{ photo.captureInfo.date }}
+    </figcaption>
+  </figure>
 </Layout>
 </template>
 
@@ -16,7 +20,7 @@
 query Species($id: String!) {
   species(id: $id) {
     id
-    gallery
+    speciesGallery
     commonName
     scientificName
     photos {
@@ -43,11 +47,11 @@ query Species($id: String!) {
 <script>
 import _ from 'lodash'
 
-import PhotoWithCaption from '~/components/PhotoWithCaption'
+import Photo from '~/components/Photo'
 
 export default {
   components: {
-    PhotoWithCaption
+    Photo
   },
   metaInfo() {
     this.$route.meta.breadcrumbs = [
@@ -56,8 +60,12 @@ export default {
         link: '/'
       },
       {
-        name: `${_.capitalize(this.$page.species.gallery)}`,
-        link: `/${this.$page.species.gallery}`
+        name: 'Species',
+        link: '/species-gallery'
+      },
+      {
+        name: `${_.capitalize(this.$page.species.speciesGallery)}`,
+        link: `/species-gallery/${this.$page.species.speciesGallery}`
       },
       {
         name: this.$page.species.commonName,

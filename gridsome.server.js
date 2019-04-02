@@ -2,7 +2,7 @@
 // on server-side and add custom data to the GraphQL data layer.
 // Learn more: https://gridsome.org/docs/server-api
 
-var galleriesData = require('./src/data/galleries.json')
+var speciesGalleriesData = require('./src/data/species-galleries.json')
 var photosData = require('./src/data/photos.json')
 var subgalleriesData = require('./src/data/subgalleries.json')
 
@@ -17,22 +17,22 @@ module.exports = function (api) {
   api.loadSource(store => {
     // Use the Data store API here: https://gridsome.org/docs/data-store-api
 
-    const galleries = store.addContentType({
-      typeName: 'Gallery',
-      route: '/:id'
+    const speciesGalleries = store.addContentType({
+      typeName: 'SpeciesGalleryGallery',
+      route: '/species-gallery/:id'
     })
     const photos = store.addContentType('Photo')
     const subgalleries = store.addContentType('Subgallery')
     const species = store.addContentType({
       typeName: 'Species',
-      route: '/species/:id'
+      route: '/species-gallery/species/:id'
     })
 
     photos.addReference('species', 'Species')
     species.addReference('featuredPhoto', 'Photo')
-    galleries.addReference('featuredPhoto', 'Photo')
+    speciesGalleries.addReference('featuredPhoto', 'Photo')
     species.addReference('photos', 'Photo')
-    subgalleries.addReference('galleries', 'Gallery')
+    subgalleries.addReference('speciesGalleries', 'SpeciesGalleryGallery')
     species.addReference('subgallery', 'Subgallery')
 
     for (const item of photosData) {
@@ -48,7 +48,7 @@ module.exports = function (api) {
       species.addNode({
         id: item.id,
         fields: {
-          gallery: 'birds',
+          speciesGallery: 'birds',
           ...item
         }
       })
@@ -58,7 +58,7 @@ module.exports = function (api) {
       species.addNode({
         id: item.id,
         fields: {
-          gallery: 'butterflies',
+          speciesGallery: 'butterflies',
           ...item
         }
       })
@@ -68,14 +68,14 @@ module.exports = function (api) {
       species.addNode({
         id: item.id,
         fields: {
-          gallery: 'moths',
+          speciesGallery: 'moths',
           ...item
         }
       })
     }
 
-    for (const item of galleriesData) {
-      galleries.addNode({
+    for (const item of speciesGalleriesData) {
+      speciesGalleries.addNode({
         id: item.id,
         fields: {
           ...item
