@@ -26,7 +26,7 @@ query Species($id: String!) {
     photos {
       id
       url
-      cloudinarySlug
+      filename
       caption
       annotations {
         stage

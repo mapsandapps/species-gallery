@@ -5,7 +5,7 @@
     <Photo
       v-if="species.featuredPhoto"
       :photo="species.featuredPhoto"
-      size="t_400" />
+      size=300 />
     <figcaption>
       {{ species.commonName }}<br>
       {{ species.scientificName}}

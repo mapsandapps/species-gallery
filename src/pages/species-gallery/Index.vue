@@ -10,7 +10,7 @@
           <Photo
             v-if="gallery.node.featuredPhoto"
             :photo="gallery.node.featuredPhoto"
-            size="t_400" />
+            size=300 />
           <figcaption>
             {{ gallery.node.name }}
           </figcaption>
@@ -29,7 +29,7 @@ query {
         name
         featuredPhoto {
           id
-          cloudinarySlug
+          filename
         }
         public
       }

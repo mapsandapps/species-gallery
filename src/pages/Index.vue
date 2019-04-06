@@ -40,7 +40,7 @@
 query {
   photo(id: "16") {
     id
-    cloudinarySlug
+    filename
   }
 }
 </page-query>

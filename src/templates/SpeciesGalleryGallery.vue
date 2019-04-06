@@ -38,7 +38,7 @@ query SpeciesGalleryGallery ($id: String!) {
                     scientificName
                     featuredPhoto {
                       id
-                      cloudinarySlug
+                      filename
                     }
                   }
                 }
