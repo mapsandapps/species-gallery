@@ -85,7 +85,7 @@
     "scientificName": "Palpita freemanalis",
     "subgallery": "0dbcab98-d302-4a4c-a4a8-b77fdfaf56ca",
     "featuredPhoto": 70,
-    "photos": [70]
+    "photos": [70, 102]
   },
   {
     "id": "malacosoma-americanum",
@@ -125,7 +125,7 @@
     "scientificName": "Costaconvexa centrostrigaria",
     "subgallery": "27f653f7-2a34-4024-a617-2a5d555c74f0",
     "featuredPhoto": 31,
-    "photos": [31]
+    "photos": [31, 94]
   },
   {
     "id": "eupithecia-miserulata",
@@ -141,7 +141,7 @@
     "scientificName": "Pleuroprucha insulsaria",
     "subgallery": "179453b6-cb92-4bc5-a57b-83e590b5350b",
     "featuredPhoto": 73,
-    "photos": [73]
+    "photos": [73, 105]
   },
   {
     "id": "alsophila-pometaria",
@@ -309,7 +309,7 @@
     "scientificName": "Hypagyrtis unipunctata",
     "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
     "featuredPhoto": 81,
-    "photos": [81]
+    "photos": [81, 109]
   },
   {
     "id": "elaphria-versicolor",
@@ -342,5 +342,109 @@
     "subgallery": "136552e3-0b00-4003-b88b-29cad85ab1e8",
     "featuredPhoto": 86,
     "photos": [86, 87]
+  },
+  {
+    "id": "chionodes-mediofuscella",
+    "commonName": "Black-smudged Chionodes",
+    "scientificName": "Chionodes mediofuscella",
+    "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
+    "featuredPhoto": 88,
+    "photos": [88]
+  },
+  {
+    "id": "zale-lunata",
+    "commonName": "Lunate Zale",
+    "scientificName": "Zale lunata",
+    "subgallery": "136552e3-0b00-4003-b88b-29cad85ab1e8",
+    "featuredPhoto": 90,
+    "photos": [90, 91]
+  },
+  {
+    "id": "udea-rubigalis",
+    "commonName": "Celery Leaftier",
+    "scientificName": "Udea rubigalis",
+    "subgallery": "0dbcab98-d302-4a4c-a4a8-b77fdfaf56ca",
+    "featuredPhoto": 92,
+    "photos": [92, 93]
+  },
+  {
+    "id": "megalographa-biloba",
+    "commonName": "Bilobed Looper",
+    "scientificName": "Megalographa Biloba",
+    "subgallery": "fab7d5b9-df0c-4982-ab87-d9c86a71ee7b",
+    "featuredPhoto": 95,
+    "photos": [95]
+  },
+  {
+    "id": "ancylis-muricana",
+    "commonName": "Red-headed Ancylis Moth",
+    "scientificName": "Ancylis muricana",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 96,
+    "photos": [96]
+  },
+  {
+    "id": "cisseps-fulvicollis",
+    "commonName": "Yellow-collared Scape Moth",
+    "scientificName": "Cisseps fulvicollis",
+    "subgallery": "f7e21bb9-991c-4685-8da7-88a1f5b68c5b",
+    "featuredPhoto": 97,
+    "photos": [97]
+  },
+  {
+    "id": "filatima-biminimaculella",
+    "commonName": "Small-spotted Filatima",
+    "scientificName": "Filatima biminimaculella",
+    "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
+    "featuredPhoto": 98,
+    "photos": [98]
+  },
+  {
+    "id": "platynota-idaeusalis",
+    "commonName": "Tufted Apple Bud Moth",
+    "scientificName": "Platynota idaeusalis",
+    "subgallery": "37664b69-06d5-4aef-96db-b35784c51bf9",
+    "featuredPhoto": 99,
+    "photos": [99, 100]
+  },
+  {
+    "id": "monopis-pavlovskii",
+    "commonName": "Pavlovski's Monopis",
+    "scientificName": "Monopis pavlovskii",
+    "subgallery": "4a2185ea-51cc-42f5-a233-09c9b4adf3b0",
+    "featuredPhoto": 101,
+    "photos": [101]
+  },
+  {
+    "id": "Melanolophia canadaria",
+    "commonName": "Canadian Melanolophia",
+    "scientificName": "Melanolophia canadaria",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 103,
+    "photos": [103]
+  },
+  {
+    "id": "cydia-caryana",
+    "commonName": "Hickory Shuckworm Moth",
+    "scientificName": "Cydia caryana",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 104,
+    "photos": [104]
+  },
+  {
+    "id": "battaristis-vittella",
+    "commonName": "Orange Stripe-backed Moth",
+    "scientificName": "Battaristis vittella",
+    "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
+    "featuredPhoto": 107,
+    "photos": [106, 107]
+  },
+  {
+    "id": "protoboarmia-porcelaria",
+    "commonName": "Porcelain Gray",
+    "scientificName": "protoboarmia-porcelaria",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 108,
+    "photos": [108]
   }
 ]

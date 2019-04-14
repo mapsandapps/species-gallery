@@ -8,7 +8,7 @@
     <Photo
       v-if="photo"
       :photo="photo"
-      size="t_400" />
+      size=800 />
     <figcaption>
       {{ photo.annotations.sex }} {{ photo.annotations.stage }} {{ $page.species.commonName }} at {{ photo.captureInfo.location }}, {{ photo.captureInfo.date }}
     </figcaption>

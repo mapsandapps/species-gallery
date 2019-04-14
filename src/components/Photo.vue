@@ -30,7 +30,4 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-img {
-  max-width: 400px;
-}
 </style>
