@@ -23,7 +23,7 @@ query SpeciesGalleryGallery ($id: String!) {
   speciesGalleryGallery (id: $id) {
     id
     name
-    belongsTo(sortBy: "ASC", perPage: 120) {
+    belongsTo(order: ASC, perPage: 120) {
       edges {
         node {
           ...on Subgallery {

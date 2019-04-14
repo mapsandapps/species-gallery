@@ -1,42 +1,5 @@
 [
   {
-    "id": "epargyreus-clarus",
-    "commonName": "Silver-spotted Skipper",
-    "scientificName": "Epargyreus clarus",
-    "subgallery": "efe08484-e368-4dc4-be09-543121547afc",
-    "featuredPhoto": 1,
-    "photos": [1]
-  },
-  {
-    "id": "urbanus-proteus",
-    "commonName": "Long-tailed Skipper",
-    "scientificName": "Urbanus proteus",
-    "subgallery": "efe08484-e368-4dc4-be09-543121547afc",
-    "photos": []
-  },
-  {
-    "id": "lerema-accius",
-    "commonName": "Clouded Skipper",
-    "scientificName": "Lerema accius",
-    "subgallery": "efe08484-e368-4dc4-be09-543121547afc",
-    "photos": []
-  },
-  {
-    "id": "pyrgus-communis",
-    "commonName": "Common Checkered-skipper",
-    "scientificName": "Pyrgus communis",
-    "subgallery": "efe08484-e368-4dc4-be09-543121547afc",
-    "featuredPhoto": 2,
-    "photos": [2]
-  },
-  {
-    "id": "erynnis-horatius",
-    "commonName": "Horace's Duskywing",
-    "scientificName": "Erynnis horatius",
-    "subgallery": "efe08484-e368-4dc4-be09-543121547afc",
-    "photos": []
-  },
-  {
     "id": "papilio-glaucus",
     "commonName": "Eastern Tiger Swallowtail",
     "scientificName": "Papilio glaucus",
@@ -45,11 +8,133 @@
     "photos": [16]
   },
   {
-    "id": "pontia-protodice",
-    "commonName": "Checkered White",
-    "scientificName": "Pontia protodice",
+    "id": "pieris-rapae",
+    "commonName": "Cabbage White",
+    "scientificName": "Pieris rapae",
+    "commonality": "Common",
     "subgallery": "188544d9-bc4c-46c5-b2ad-bf2be49b93ff",
-    "featuredPhoto": 17,
-    "photos": [17]
+    "featuredPhoto": 120,
+    "photos": [120]
+  },
+  {
+    "id": "phoebis-sennae",
+    "commonName": "Cloudless Sulphur",
+    "scientificName": "Phoebis sennae",
+    "commonality": "Abundant",
+    "subgallery": "47e097fa-771d-4691-aee0-842b32ceb974",
+    "featuredPhoto": 113,
+    "photos": [113]
+  },
+  {
+    "id": "everes-comyntas",
+    "commonName": "Eastern Tailed-blue",
+    "scientificName": "Everes comyntas",
+    "commonality": "Common",
+    "subgallery": "d7f9f212-b404-4731-ab21-d949d0febc84",
+    "featuredPhoto": 123,
+    "photos": [123, 119]
+  },
+  {
+    "id": "libytheana-carinenta",
+    "commonName": "American Snout",
+    "scientificName": "Libytheana carinenta",
+    "commonality": "Uncommon",
+    "subgallery": "f430c39d-5a5d-453e-87ab-d83ab69364d6",
+    "featuredPhoto": 127,
+    "photos": [127, 128]
+  },
+  {
+    "id": "phyciodes-tharos",
+    "commonName": "Pearl Crescent",
+    "scientificName": "Phyciodes tharos",
+    "commonality": "Common",
+    "subgallery": "98d59eb8-aeb1-4689-b0dd-859e40df27a7",
+    "featuredPhoto": 122,
+    "photos": [122, 118]
+  },
+  {
+    "id": "polygonia-interrogationis",
+    "commonName": "Question Mark",
+    "scientificName": "Polygonia interrogationis",
+    "commonality": "Uncommon",
+    "subgallery": "98d59eb8-aeb1-4689-b0dd-859e40df27a7",
+    "featuredPhoto": 129,
+    "photos": [129]
+  },
+  {
+    "id": "vanessa-virginiensis",
+    "commonName": "American Lady",
+    "scientificName": "Vanessa virginiensis",
+    "commonality": "Common",
+    "subgallery": "98d59eb8-aeb1-4689-b0dd-859e40df27a7",
+    "featuredPhoto": 121,
+    "photos": [121]
+  },
+  {
+    "id": "junonia-coenia",
+    "commonName": "Common Buckeye",
+    "scientificName": "Junonia coenia",
+    "commonality": "Abundant",
+    "subgallery": "98d59eb8-aeb1-4689-b0dd-859e40df27a7",
+    "featuredPhoto": 117,
+    "photos": [117]
+  },
+  {
+    "id": "danaus-plexippus",
+    "commonName": "Monarch",
+    "scientificName": "Danaus plexippus",
+    "commonality": "Abundant",
+    "subgallery": "07c1d2e0-b1e0-478d-9b5e-3d5738cc06d8",
+    "featuredPhoto": 126,
+    "photos": [126]
+  },
+  {
+    "id": "epargyreus-clarus",
+    "commonName": "Silver-spotted Skipper",
+    "scientificName": "Epargyreus clarus",
+    "subgallery": "efe08484-e368-4dc4-be09-543121547afc",
+    "featuredPhoto": 116,
+    "photos": [116, 117]
+  },
+  {
+    "id": "urbanus-proteus",
+    "commonName": "Long-tailed Skipper",
+    "scientificName": "Urbanus proteus",
+    "subgallery": "efe08484-e368-4dc4-be09-543121547afc",
+    "featuredPhoto": 112,
+    "photos": [112]
+  },
+  {
+    "id": "erynnis-horatius",
+    "commonName": "Horace's Duskywing",
+    "scientificName": "Erynnis horatius",
+    "subgallery": "efe08484-e368-4dc4-be09-543121547afc",
+    "featuredPhoto": 111,
+    "photos": [111]
+  },
+  {
+    "id": "pyrgus-communis",
+    "commonName": "Common Checkered-skipper",
+    "scientificName": "Pyrgus communis",
+    "subgallery": "efe08484-e368-4dc4-be09-543121547afc",
+    "featuredPhoto": 125,
+    "photos": [125, 114, 2]
+  },
+  {
+    "id": "lerema-accius",
+    "commonName": "Clouded Skipper",
+    "scientificName": "Lerema accius",
+    "subgallery": "efe08484-e368-4dc4-be09-543121547afc",
+    "featuredPhoto": 110,
+    "photos": [110]
+  },
+  {
+    "id": "hylephila-phyleus",
+    "commonName": "Fiery Skipper",
+    "scientificName": "Hylephila phyleus",
+    "commonality": "Abundant",
+    "subgallery": "4f1f477a-91e8-450c-8798-2290d156307d",
+    "featuredPhoto": 115,
+    "photos": [115]
   }
 ]

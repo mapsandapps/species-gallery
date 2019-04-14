@@ -1,26 +1,7 @@
 [
   {
-    "id": 1,
-    "url": "/butterfly-photos/silver-spotted skipper.jpg",
-    "species": "epargyreus-clarus",
-    "createdAt": "2019-03-07T00:31:28.432Z",
-    "updatedAt": "2019-03-09T00:50:39.227Z",
-    "annotations": {
-      "stage": "adult",
-      "sex": null
-    },
-    "captureInfo": {
-      "photographer": "Shawn Taylor",
-      "copyright": null,
-      "location": "Piedmont Park",
-      "city": "Atlanta",
-      "county": "Fulton",
-      "date": "2018-07-24"
-    }
-  },
-  {
     "id": 2,
-    "url": "/butterfly-photos/common checkered-skipper.jpg",
+    "filename": "common checkered-skipper.jpg",
     "species": "pyrgus-communis",
     "createdAt": "2019-03-07T00:31:38.962Z",
     "updatedAt": "2019-03-09T00:50:43.446Z",
@@ -2033,6 +2014,406 @@
       "city": "Atlanta",
       "county": "Fulton",
       "date": "2019-04-13"
+    }
+  },
+  {
+    "id": 110,
+    "filename": "clouded skipper.jpeg",
+    "flickr": "",
+    "species": "lerema-accius",
+    "caption": null,
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-09-09"
+    }
+  },
+  {
+    "id": 111,
+    "filename": "horace's duskywing.jpg",
+    "flickr": "",
+    "species": "erynnis-horatius",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-07-24"
+    }
+  },
+  {
+    "id": 112,
+    "filename": "long-tailed skipper.jpg",
+    "flickr": "",
+    "species": "urbanus-proteus",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-07-07"
+    }
+  },
+  {
+    "id": 113,
+    "filename": "544A4889.jpg",
+    "flickr": "",
+    "species": "phoebis-sennae",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-13"
+    }
+  },
+  {
+    "id": 114,
+    "filename": "544A4947.jpg",
+    "flickr": "",
+    "species": "pyrgus-communis",
+    "caption": null,
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-13"
+    }
+  },
+  {
+    "id": 115,
+    "filename": "544A5107.jpg",
+    "flickr": "",
+    "species": "hylephila-phyleus",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-13"
+    }
+  },
+  {
+    "id": 116,
+    "filename": "544A5186.jpg",
+    "flickr": "",
+    "species": "epargyreus-clarus",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-13"
+    }
+  },
+  {
+    "id": 116,
+    "filename": "544A5174.jpg",
+    "flickr": "",
+    "species": "epargyreus-clarus",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-13"
+    }
+  },
+  {
+    "id": 117,
+    "filename": "544A5272.jpg",
+    "flickr": "",
+    "species": "junonia-coenia",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-13"
+    }
+  },
+  {
+    "id": 118,
+    "filename": "544A4572.jpg",
+    "flickr": "",
+    "species": "phyciodes-tharos",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-10"
+    }
+  },
+  {
+    "id": 119,
+    "filename": "544A4783.jpg",
+    "flickr": "",
+    "species": "everes-comyntas",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-10"
+    }
+  },
+  {
+    "id": 120,
+    "filename": "544A4018.jpg",
+    "flickr": "",
+    "species": "pieris-rapae",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-07"
+    }
+  },
+  {
+    "id": 121,
+    "filename": "544A4024.jpg",
+    "flickr": "",
+    "species": "vanessa-virginiensis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-07"
+    }
+  },
+  {
+    "id": 122,
+    "filename": "544A4265.jpg",
+    "flickr": "",
+    "species": "phyciodes-tharos",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-07"
+    }
+  },
+  {
+    "id": 123,
+    "filename": "IMG_2798.jpg",
+    "flickr": "",
+    "species": "everes-comyntas",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-07"
+    }
+  },
+  {
+    "id": 125,
+    "filename": "IMG_2807.jpg",
+    "flickr": "",
+    "species": "pyrgus-communis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-07"
+    }
+  },
+  {
+    "id": 126,
+    "filename": "544A3307.jpg",
+    "flickr": "",
+    "species": "danaus-plexippus",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-30"
+    }
+  },
+  {
+    "id": 127,
+    "filename": "544A0964.jpg",
+    "flickr": "",
+    "species": "libytheana-carinenta",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Zonolite Park",
+      "county": "DeKalb",
+      "date": "2019-03-09"
+    }
+  },
+  {
+    "id": 128,
+    "filename": "544A0994.jpg",
+    "flickr": "",
+    "species": "libytheana-carinenta",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Zonolite Park",
+      "county": "DeKalb",
+      "date": "2019-03-09"
+    }
+  },
+  {
+    "id": 129,
+    "filename": "544A1231.jpg",
+    "flickr": "",
+    "species": "polygonia-interrogationis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-09"
     }
   }
 ]

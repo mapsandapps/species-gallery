@@ -1,16 +1,5 @@
 [
   {
-    "id": "efe08484-e368-4dc4-be09-543121547afc",
-    "names": [
-      "Skippers",
-      "Spread-wing Skippers"
-    ],
-    "createdAt": "2019-03-07T00:43:12.969Z",
-    "updatedAt": "2019-03-07T00:50:26.122Z",
-    "featuredPhoto": null,
-    "speciesGalleries": ["butterflies"]
-  },
-  {
     "id": "5ae3717f-3673-4ac5-920f-9e39639c4869",
     "names": [
       "Swallowtails"
@@ -25,6 +14,131 @@
       "Whites"
     ],
     "featuredPhoto": 17,
+    "speciesGalleries": ["butterflies"]
+  },
+  {
+    "id": "47e097fa-771d-4691-aee0-842b32ceb974",
+    "names": [
+      "Whites and Sulphurs",
+      "Sulphurs"
+    ],
+    "featurePhoto": 113,
+    "speciesGalleries": ["butterflies"]
+  },
+  {
+    "id": "2ed76ac6-f630-44b5-a757-6ee2a664eb08",
+    "names": [
+      "Gossamer-wing Butterflies",
+      "Harvesters"
+    ],
+    "speciesGalleries": ["butterflies"]
+  },
+  {
+    "id": "93db6298-eb91-4f09-a403-15eae7746bea",
+    "names": [
+      "Gossamer-wing Butterflies",
+      "Hairstreaks"
+    ],
+    "speciesGalleries": ["butterflies"]
+  },
+  {
+    "id": "d7f9f212-b404-4731-ab21-d949d0febc84",
+    "names": [
+      "Gossamer-wing Butterflies",
+      "Blues"
+    ],
+    "speciesGalleries": ["butterflies"]
+  },
+  {
+    "id": "f430c39d-5a5d-453e-87ab-d83ab69364d6",
+    "names": [
+      "Brush-footed Butterflies",
+      "Snouts"
+    ],
+    "speciesGalleries": ["butterflies"]
+  },
+  {
+    "id": "99c64708-3596-4696-aba3-bc37842b1aad",
+    "names": [
+      "Brush-footed Butterflies",
+      "Heliconians and Fritillaries"
+    ],
+    "speciesGalleries": ["butterflies"]
+  },
+  {
+    "id": "98d59eb8-aeb1-4689-b0dd-859e40df27a7",
+    "names": [
+      "Brush-footed Butterflies",
+      "True Brush-foots"
+    ],
+    "speciesGalleries": ["butterflies"]
+  },
+  {
+    "id": "2b67e5d7-5fb5-46d6-9052-3524ce66de05",
+    "names": [
+      "Brush-footed Butterflies",
+      "Admirals and Relatives"
+    ],
+    "speciesGalleries": ["butterflies"]
+  },
+  {
+    "id": "fa93211f-efd2-4ab4-88e7-9f840d174556",
+    "names": [
+      "Brush-footed Butterflies",
+      "Leafwings"
+    ],
+    "speciesGalleries": ["butterflies"]
+  },
+  {
+    "id": "85826afd-4e00-4815-8a2d-a40f9e788d5b",
+    "names": [
+      "Brush-footed Butterflies",
+      "Emperors"
+    ],
+    "speciesGalleries": ["butterflies"]
+  },
+  {
+    "id": "6224b962-af28-4149-a233-6314cc77b50a",
+    "names": [
+      "Brush-footed Butterflies",
+      "Satyrs"
+    ],
+    "speciesGalleries": ["butterflies"]
+  },
+  {
+    "id": "07c1d2e0-b1e0-478d-9b5e-3d5738cc06d8",
+    "names": [
+      "Brush-footed Butterflies",
+      "Monarchs"
+    ],
+    "speciesGalleries": ["butterflies"]
+  },
+  {
+    "id": "efe08484-e368-4dc4-be09-543121547afc",
+    "names": [
+      "Skippers",
+      "Spread-wing Skippers"
+    ],
+    "createdAt": "2019-03-07T00:43:12.969Z",
+    "updatedAt": "2019-03-07T00:50:26.122Z",
+    "featuredPhoto": null,
+    "speciesGalleries": ["butterflies"]
+  },
+  {
+    "id": "4f1f477a-91e8-450c-8798-2290d156307d",
+    "names": [
+      "Skippers",
+      "Grass Skippers"
+    ],
+    "featurePhoto": 114,
+    "speciesGalleries": ["butterflies"]
+  },
+  {
+    "id": "ecc56b84-d4e3-44f0-9e63-a1b1ca80ab80",
+    "names": [
+      "Skippers",
+      "Giant-Skippers"
+    ],
     "speciesGalleries": ["butterflies"]
   },
   {
