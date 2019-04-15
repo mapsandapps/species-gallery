@@ -442,9 +442,17 @@
   {
     "id": "protoboarmia-porcelaria",
     "commonName": "Porcelain Gray",
-    "scientificName": "protoboarmia-porcelaria",
+    "scientificName": "Protoboarmia porcelaria",
     "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
     "featuredPhoto": 108,
     "photos": [108]
+  },
+  {
+    "id": "blastobasis-glandulella",
+    "commonName": "Acorn Moth",
+    "scientificName": "Blastobasis glandulella",
+    "subgallery": "468e9211-9ba6-40fd-bdff-17ca88a6b416",
+    "featuredPhoto": 130,
+    "photos": [130]
   }
 ]

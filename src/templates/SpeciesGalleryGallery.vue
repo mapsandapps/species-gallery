@@ -4,15 +4,19 @@
     <div
       v-for="subgallery in $page.speciesGalleryGallery.belongsTo.edges"
       :key="subgallery.node.id">
-      <h2 v-if="subgallery.node.belongsTo.edges.length > 0">
-        <!-- <Breadcrumbs :breadcrumbs="subgallery.node.names" /> -->
-        {{ split(last(subgallery.node.names), ' (')[0] }}
-      </h2>
-      <div class="subgallery-photos">
-        <SpeciesGalleryEntry
-          v-for="species in subgallery.node.belongsTo.edges"
-          :key="species.node.id"
-          :species="species.node" />
+      <div
+        v-if="subgallery.node.belongsTo.edges.length > 0"
+        class="subgallery">
+        <h2>
+          <!-- <Breadcrumbs :breadcrumbs="subgallery.node.names" /> -->
+          {{ split(last(subgallery.node.names), ' (')[0] }}
+        </h2>
+        <div class="subgallery-photos">
+          <SpeciesGalleryEntry
+            v-for="species in subgallery.node.belongsTo.edges"
+            :key="species.node.id"
+            :species="species.node" />
+        </div>
       </div>
     </div>
   </Layout>
@@ -92,6 +96,10 @@ export default {
 <style lang="scss" scoped>
 .gallery {
   text-align: center;
+  padding-bottom: 100px;
+  .subgallery {
+    margin-bottom: 64px;
+  }
   .subgallery-photos {
     justify-content: center;
     display: grid;

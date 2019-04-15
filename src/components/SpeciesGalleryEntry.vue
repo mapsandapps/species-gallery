@@ -7,8 +7,14 @@
       :photo="species.featuredPhoto"
       size=300 />
     <figcaption>
-      {{ species.commonName }}<br>
-      {{ species.scientificName}}
+      <div
+        v-if="species.commonName"
+        class="common-name">
+        {{ species.commonName }}
+      </div>
+      <div class="scientific-name">
+        {{ species.scientificName}}
+      </div>
     </figcaption>
   </figure>
 </g-link>
@@ -32,13 +38,15 @@ export default {
 </script>
 
 <style lang="scss">
+@import '../styles/variables';
+
 .species-gallery-entry {
   max-width: 300px;
   display: inline-block;
   padding: 16px;
   margin: 0px;
   &:hover {
-    background-color: #f5f0fa;
+    background-color: $purple-20;
     figcaption {
       text-decoration: underline;
     }
@@ -46,6 +54,15 @@ export default {
   img {
     max-width: 300px;
     max-height: 300px;
+    box-shadow: 0px 2px 4px 0px rgba($purple-90, 0.2);
+  }
+  .common-name {
+    font-weight: $book-weight;
+    font-size: 30px;
+  }
+  .scientific-name {
+    font-weight: $book-weight;
+    font-size: 24px;
   }
 }
 </style>

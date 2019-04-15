@@ -2415,5 +2415,25 @@
       "county": "Fulton",
       "date": "2019-03-09"
     }
+  },
+  {
+    "id": 130,
+    "filename": "32653412317_15203c8790_o.jpg",
+    "flickr": "32653412317",
+    "species": "blastobasis-glandulella",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-10"
+    }
   }
 ]
