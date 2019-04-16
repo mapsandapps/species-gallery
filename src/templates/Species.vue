@@ -1,18 +1,23 @@
 <template>
 <Layout>
-  <h1>{{ $page.species.commonName }}</h1>
-  <h2>{{ $page.species.scientificName }}</h2>
-  <figure
-    v-for="photo in $page.species.photos"
-    v-bind:key="photo.id">
-    <Photo
-      v-if="photo"
-      :photo="photo"
-      size=800 />
-    <figcaption>
-      {{ photo.annotations.sex }} {{ photo.annotations.stage }} {{ $page.species.commonName }} at {{ photo.captureInfo.location }}, {{ photo.captureInfo.date }}
-    </figcaption>
-  </figure>
+  <div class="species">
+    <div v-if="$page.species.commonName">
+      <h1>{{ $page.species.commonName }}</h1>
+      <h2>({{ $page.species.scientificName }})</h2>
+    </div>
+    <h1 v-else>{{ $page.species.scientificName }}</h1>
+    <figure
+      v-for="photo in $page.species.photos"
+      v-bind:key="photo.id">
+      <Photo
+        v-if="photo"
+        :photo="photo"
+        size=800 />
+      <figcaption>
+        {{ photo.annotations.sex }} {{ photo.annotations.stage }}, {{ photo.captureInfo.city }}, {{ photo.captureInfo.state }}, {{ photo.captureInfo.date }}
+      </figcaption>
+    </figure>
+  </div>
 </Layout>
 </template>
 
@@ -80,4 +85,14 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import '../styles/variables';
+
+.species {
+  text-align: center;
+  figcaption {
+    font-weight: $book-weight;
+    font-size: 30px;
+    color: $purple-100;
+  }
+}
 </style>

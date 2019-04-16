@@ -1,49 +1,58 @@
 <template>
   <Layout>
-    <g-link
-      to="/species-gallery">
-      <figure>
-        <Photo
-          :photo="$page.photo"
-          size="t_400" />
-        <figcaption>
-          Species
-        </figcaption>
-      </figure>
-    </g-link>
-    <g-link
-      to="/portfolio">
-      <figure>
-        <Photo
-          :photo="$page.photo"
-          size="t_400" />
-        <figcaption>
-          Portfolio
-        </figcaption>
-      </figure>
-    </g-link>
-    <g-link
-      to="/travel">
-      <figure>
-        <Photo
-          :photo="$page.photo"
-          size="t_400" />
-        <figcaption>
-          Travel
-        </figcaption>
-      </figure>
-    </g-link>
+    <div class="main-page">
+      <!-- TODO: replace following with LargeImageLink component -->
+      <g-link
+        to="/species-gallery">
+        <figure>
+          <Photo
+            :photo="$static.photo"
+            size=800 />
+          <figcaption>
+            <h1>
+              Species
+            </h1>
+          </figcaption>
+        </figure>
+      </g-link>
+      <g-link
+        to="/portfolio">
+        <figure>
+          <Photo
+            :photo="$static.photo"
+            size="t_400" />
+          <figcaption>
+            <h1>
+              Portfolio
+            </h1>
+          </figcaption>
+        </figure>
+      </g-link>
+      <g-link
+        to="/travel">
+        <figure>
+          <Photo
+            :photo="$static.photo"
+            size="t_400" />
+          <figcaption>
+            <h1>
+              Travel
+            </h1>
+          </figcaption>
+        </figure>
+      </g-link>
+    </div>
   </Layout>
 </template>
 
-<page-query>
+<static-query>
 query {
-  photo(id: "16") {
+  photo(id: "95") {
     id
     filename
   }
 }
-</page-query>
+</static-query>
 
 <script>
 import Photo from '~/components/Photo'
@@ -70,4 +79,30 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import '../styles/variables';
+
+.main-page {
+  text-align: center;
+  h1 {
+    margin-top: 0px;
+    margin-bottom: 32px;
+    font-size: 48px;
+  }
+  figure {
+    padding: 32px;
+    margin: 16px 0px;
+    &:hover {
+      background-color: $purple-20;
+    }
+  }
+}
+</style>
+
+<style lang="scss">
+.main-page { // replace with .large-image-link
+  img {
+    width: 800px;
+    max-width: calc(100vw - 64px - 32px);
+  }
+}
 </style>

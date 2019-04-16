@@ -58,11 +58,11 @@ export default {
   }
   .common-name {
     font-weight: $book-weight;
-    font-size: 30px;
+    font-size: 24px;
   }
   .scientific-name {
     font-weight: $book-weight;
-    font-size: 24px;
+    font-size: 18px;
   }
 }
 </style>

@@ -11,7 +11,7 @@
     </header>
     <div class="body">
       <div
-        v-if="this.breadcrumbs"
+        v-if="this.breadcrumbs && this.breadcrumbs.length > 1"
         class="breadcrumbs">
         <span
           v-for="(crumb, index) in this.allButLast"
@@ -76,6 +76,7 @@ body {
 
 a {
   color: #4b2075;
+  text-decoration: none;
   &:hover {
     text-decoration: underline;
   }
@@ -86,14 +87,15 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 72px;
+  font-size: 60px;
   font-weight: $bold-weight;
   margin-top: 32px;
   margin-bottom: 0px;
+  text-shadow: 0px 2px 4px rgba($purple-90, 0.2);
 }
 
 h2 {
-  font-size: 48px;
+  font-size: 40px;
   font-weight: $medium-weight;
   margin-top: 32px;
   margin-bottom: 32px;

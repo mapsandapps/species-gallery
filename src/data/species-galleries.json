@@ -2,13 +2,13 @@
   {
     "id": "butterflies",
     "name": "Butterflies",
-    "featuredPhoto": 1,
-    "public": true
+    "featuredPhoto": 125,
+    "public": false
   },
   {
     "id": "moths",
     "name": "Moths",
-    "featuredPhoto": 67,
+    "featuredPhoto": 95,
     "public": true
   },
   {
