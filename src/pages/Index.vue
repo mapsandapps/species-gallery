@@ -85,12 +85,12 @@ export default {
   text-align: center;
   h1 {
     margin-top: 0px;
-    margin-bottom: 32px;
+    margin-bottom: 0px;
     font-size: 48px;
   }
   figure {
     padding: 32px;
-    margin: 16px 0px;
+    margin: 16px 0px 32px;
     &:hover {
       background-color: $purple-20;
     }

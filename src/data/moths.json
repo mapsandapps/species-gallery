@@ -32,14 +32,6 @@
     "photos": [20]
   },
   {
-    "id": "pseudexentera",
-    "commonName": null,
-    "scientificName": "Pseudexentera sp.",
-    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
-    "featuredPhoto": 21,
-    "photos": [21]
-  },
-  {
     "id": "proteoteras-aesculana",
     "commonName": "Maple Twig Borer",
     "scientificName": "Proteoteras aesculana",
@@ -454,5 +446,61 @@
     "subgallery": "468e9211-9ba6-40fd-bdff-17ca88a6b416",
     "featuredPhoto": 130,
     "photos": [130]
+  },
+  {
+    "id": "antaeotricha-schlaegeri",
+    "commonName": "Schlaeger's Fruitworm Moth",
+    "scientificName": "Antaeotricha schlaegeri",
+    "subgallery": "e7ff20f1-6225-4500-8e65-249006496f8f",
+    "featuredPhoto": 131,
+    "photos": [131]
+  },
+  {
+    "id": "agrotis-ipsilon",
+    "commonName": "Ipsilon Dart",
+    "scientificName": "Agrotis ipsilon",
+    "subgallery": "0892c2b9-36dc-464f-9669-6da9dd7f03a8",
+    "featuredPhoto": 133,
+    "photos": [133, 134]
+  },
+  {
+    "id": "choristoneura-rosaceana",
+    "commonName": "Oblique-banded Leafroller Moth",
+    "scientificName": "Choristoneura rosaceana",
+    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
+    "featuredPhoto": 135,
+    "photos": [135, 136]
+  },
+  {
+    "id": "cydia-marita",
+    "commonName": null,
+    "scientificName": "Cydia marita",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 137,
+    "photos": [137]
+  },
+  {
+    "id": "manduca-sexta",
+    "commonName": "Carolina Sphinx",
+    "scientificName": "Manduca sexta",
+    "subgallery": "cae795cb-c066-41d2-9532-311abb18ea7a",
+    "featuredPhoto": 138,
+    "photos": [138]
+  },
+  {
+    "id": "pseudexentera-spoliana",
+    "commonName": "Bare-patched Leafroller",
+    "scientificName": "Pseudexentera spoliana",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 139,
+    "photos": [139]
+  },
+  {
+    "id": "argyrotaenia-kimballi",
+    "commonName": "Kimball's Leafroller",
+    "scientificName": "Argyrotaenia kimballi",
+    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
+    "featuredPhoto": 140,
+    "photos": [140]
   }
 ]
