@@ -3,7 +3,7 @@
     "id": "butterflies",
     "name": "Butterflies",
     "featuredPhoto": 125,
-    "public": false
+    "public": true
   },
   {
     "id": "moths",
@@ -16,11 +16,5 @@
     "name": "Birds",
     "featuredPhoto": 6,
     "public": true
-  },
-  {
-    "id": "other-insects",
-    "name": "Other Insects",
-    "featuredPhoto": null,
-    "public": false
   }
 ]
