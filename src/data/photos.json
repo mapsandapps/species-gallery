@@ -1398,7 +1398,7 @@
     "captureInfo": {
       "photographer": "Shawn Taylor",
       "copyright": null,
-      "truthInCaptioning": "",
+      "truthInCaptioning": "In situ",
       "location": "Virginia Highland",
       "city": "Atlanta",
       "county": "Fulton",
@@ -2615,6 +2615,666 @@
       "city": "Atlanta",
       "county": "Fulton",
       "date": "2019-03-24"
+    }
+  },
+  {
+    "id": 141,
+    "filename": "IMG_3959.jpg",
+    "flickr": "",
+    "species": "lacinipolia-laudabilis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-26"
+    }
+  },
+  {
+    "id": 142,
+    "filename": "IMG_3965.jpg",
+    "flickr": "",
+    "species": "lacinipolia-laudabilis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-26"
+    }
+  },
+  {
+    "id": 143,
+    "filename": "544A7684.jpg",
+    "flickr": "",
+    "species": "desmia-funeralis-or-maculalis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Arabia Mountain",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-04-29"
+    }
+  },
+  {
+    "id": 144,
+    "filename": "544A7689.jpg",
+    "flickr": "",
+    "species": "dichomeris-ligulella",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Arabia Mountain",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-04-29"
+    }
+  },
+  {
+    "id": 145,
+    "filename": "544A7896.jpg",
+    "flickr": "",
+    "species": "probole-amicaria",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Arabia Mountain",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-04-29"
+    }
+  },
+  {
+    "id": 146,
+    "filename": "IMG_3989.jpg",
+    "flickr": "",
+    "species": "eugnosta-erigeronana",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-26"
+    }
+  },
+  {
+    "id": 147,
+    "filename": "IMG_4018.jpg",
+    "flickr": "",
+    "species": "platynota-semiustana",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-26"
+    }
+  },
+  {
+    "id": 148,
+    "filename": "IMG_4154.jpg",
+    "flickr": "",
+    "species": "gymnandrosoma-punctidiscanum",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-28"
+    }
+  },
+  {
+    "id": 149,
+    "filename": "IMG_4173.jpg",
+    "flickr": "",
+    "species": "acronicta-betulae",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-28"
+    }
+  },
+  {
+    "id": 150,
+    "filename": "IMG_4260.jpg",
+    "flickr": "",
+    "species": "monochroa-quinquepunctella",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Arabia Mountain",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-04-29"
+    }
+  },
+  {
+    "id": 151,
+    "filename": "IMG_4300.jpg",
+    "flickr": "",
+    "species": "probole-amicaria",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Arabia Mountain",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-04-29"
+    }
+  },
+  {
+    "id": 152,
+    "filename": "IMG_4307.jpg",
+    "flickr": "",
+    "species": "pseudothyris-sepulchralis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Arabia Mountain",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-04-29"
+    }
+  },
+  {
+    "id": 153,
+    "filename": "IMG_4340.jpg",
+    "flickr": "",
+    "species": "sciota-uvinella",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-29"
+    }
+  },
+  {
+    "id": 154,
+    "filename": "IMG_4381.jpg",
+    "flickr": "",
+    "species": "nemoria-lixaria",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-29"
+    }
+  },
+  {
+    "id": 155,
+    "filename": "IMG_4409.jpg",
+    "flickr": "",
+    "species": "epiblema-scudderiana",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-03"
+    }
+  },
+  {
+    "id": 156,
+    "filename": "IMG_4408.jpg",
+    "flickr": "",
+    "species": "epiblema-scudderiana",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-03"
+    }
+  },
+  {
+    "id": 157,
+    "filename": "IMG_4424.jpg",
+    "flickr": "",
+    "species": "promalactis-suzukiella",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-03"
+    }
+  },
+  {
+    "id": 158,
+    "filename": "IMG_4451.jpg",
+    "flickr": "",
+    "species": "acleris-semipurpurana",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-03"
+    }
+  },
+  {
+    "id": 159,
+    "filename": "IMG_4485.jpg",
+    "flickr": "",
+    "species": "acleris-semipurpurana",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-03"
+    }
+  },
+  {
+    "id": 160,
+    "filename": "IMG_4468.jpg",
+    "flickr": "",
+    "species": "pandemis-limitata",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-03"
+    }
+  },
+  {
+    "id": 161,
+    "filename": "IMG_4461.jpg",
+    "flickr": "",
+    "species": "pandemis-limitata",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-03"
+    }
+  },
+  {
+    "id": 162,
+    "filename": "IMG_4475.jpg",
+    "flickr": "",
+    "species": "archips-argyrospila",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-03"
+    }
+  },
+  {
+    "id": 163,
+    "filename": "IMG_4476.jpg",
+    "flickr": "",
+    "species": "archips-argyrospila",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-03"
+    }
+  },
+  {
+    "id": 164,
+    "filename": "IMG_4491.jpg",
+    "flickr": "",
+    "species": "battaristis-vittella",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-03"
+    }
+  },
+  {
+    "id": 165,
+    "filename": "IMG_4293.jpg",
+    "flickr": "",
+    "species": "eurytides-marcellus",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": null,
+      "location": "Arabia Mountain",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-04-29"
+    }
+  },
+  {
+    "id": 166,
+    "filename": "544A6823.jpg",
+    "flickr": "",
+    "species": "libytheana-carinenta",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Lullwater",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-04-27"
+    }
+  },
+  {
+    "id": 167,
+    "filename": "544A7717.jpg",
+    "flickr": "",
+    "species": "cyllopsis-gemma",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Arabia Mountain",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-04-29"
+    }
+  },
+  {
+    "id": 168,
+    "filename": "544A7799.jpg",
+    "flickr": "",
+    "species": "eurytides-marcellus",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Arabia Mountain",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-04-29"
+    }
+  },
+  {
+    "id": 169,
+    "filename": "544A7877.jpg",
+    "flickr": "",
+    "species": "limenitis-arthemis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Arabia Mountain",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-04-29"
+    }
+  },
+  {
+    "id": 170,
+    "filename": "544A7881.jpg",
+    "flickr": "",
+    "species": "limenitis-arthemis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Arabia Mountain",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-04-29"
+    }
+  },
+  {
+    "id": 171,
+    "filename": "544A8042.jpg",
+    "flickr": "",
+    "species": "enodia-anthedon",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Uncommon",
+      "location": "Arabia Mountain",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-04-29"
+    }
+  },
+  {
+    "id": 172,
+    "filename": "544A8066.jpg",
+    "flickr": "",
+    "species": "hermeuptychia-sosybius",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Arabia Mountain",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-04-29"
+    }
+  },
+  {
+    "id": 173,
+    "filename": "544A7863.jpg",
+    "flickr": "",
+    "species": "celastrina-sp",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Arabia Mountain",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-04-29"
     }
   }
 ]

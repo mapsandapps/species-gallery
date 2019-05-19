@@ -5,7 +5,6 @@
         <g-link to="/" class="title">{{ $static.metaData.siteName }}</g-link>
       </strong>
       <nav class="nav">
-        <g-link class="nav__link" to="/">Home</g-link>
         <g-link class="nav__link" to="/about">About</g-link>
       </nav>
     </header>
@@ -67,7 +66,7 @@ export default {
 @import '../styles/variables';
 
 body {
-  background-color: $purple-10;
+  background-color: white;
   font-family: Jost, Futura, Arial, sans-serif;
   margin:0;
   padding:0;
@@ -75,10 +74,19 @@ body {
 }
 
 a {
-  color: #4b2075;
+  color: $purple-80;
   text-decoration: none;
   &:hover {
     text-decoration: underline;
+  }
+}
+
+figure {
+  &:hover {
+    background-color: $purple-10;
+    figcaption {
+      text-decoration: underline;
+    }
   }
 }
 

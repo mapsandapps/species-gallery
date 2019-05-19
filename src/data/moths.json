@@ -268,8 +268,8 @@
     "commonName": "Laudable Arches",
     "scientificName": "Lacinipolia laudabilis",
     "subgallery": "72e77a42-0dc9-4bdf-b88d-cca96d1e9751",
-    "featuredPhoto": 77,
-    "photos": [77]
+    "featuredPhoto": 142,
+    "photos": [142, 141, 77]
   },
   {
     "id": "choephora-fungorum",
@@ -429,7 +429,7 @@
     "scientificName": "Battaristis vittella",
     "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
     "featuredPhoto": 107,
-    "photos": [106, 107]
+    "photos": [106, 107, 164]
   },
   {
     "id": "protoboarmia-porcelaria",
@@ -502,5 +502,133 @@
     "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
     "featuredPhoto": 140,
     "photos": [140]
+  },
+  {
+    "id": "desmia-funeralis-or-maculalis",
+    "commonName": "",
+    "scientificName": "Desmia funeralis or maculalis",
+    "subgallery": "0dbcab98-d302-4a4c-a4a8-b77fdfaf56ca",
+    "featuredPhoto": 143,
+    "photos": [143]
+  },
+  {
+    "id": "dichomeris-ligulella",
+    "commonName": "Palmerworm Moth",
+    "scientificName": "Dichomeris ligulella",
+    "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
+    "featuredPhoto": 144,
+    "photos": [144]
+  },
+  {
+    "id": "probole-amicaria",
+    "commonName": "Friendly Probole",
+    "scientificName": "Probole amicaria",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 145,
+    "photos": [145, 151]
+  },
+  {
+    "id": "eugnosta-erigeronana",
+    "commonName": "Fleabana Cochylid",
+    "scientificName": "Eugnosta erigeronana",
+    "subgallery": "5e0503ec-c351-4c44-bb34-da86c4c72ce8",
+    "featuredPhoto": 146,
+    "photos": [146]
+  },
+  {
+    "id": "platynota-semiustana",
+    "commonName": "Singed Platynota",
+    "scientificName": "Platynota semiustana",
+    "subgallery": "37664b69-06d5-4aef-96db-b35784c51bf9",
+    "featuredPhoto": 147,
+    "photos": [147]
+  },
+  {
+    "id": "gymnandrosoma-punctidiscanum",
+    "commonName": "Dotted Gymnast",
+    "scientificName": "Gymnandrosoma punctidiscanum",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 148,
+    "photos": [148]
+  },
+  {
+    "id": "acronicta-betulae",
+    "commonName": "Birch Dagger",
+    "scientificName": "Acronicta betulae",
+    "subgallery": "2726a7b1-aa30-4c8a-816c-970977a6ae5a",
+    "featuredPhoto": 149,
+    "photos": [149]
+  },
+  {
+    "id": "monochroa-quinquepunctella",
+    "commonName": "Five-spotted Twirler",
+    "scientificName": "Monochroa quinquepunctella",
+    "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
+    "featuredPhoto": 150,
+    "photos": [150]
+  },
+  {
+    "id": "pseudothyris-sepulchralis",
+    "commonName": "Mournful Thyris",
+    "scientificName": "Pseudothyris sepulchralis",
+    "subgallery": "a3317d62-b18a-438e-9769-7ac6e8f277b7",
+    "featuredPhoto": 152,
+    "photos": [152]
+  },
+  {
+    "id": "sciota-uvinella",
+    "commonName": "Sweetgum Leafroller",
+    "scientificName": "Sciota uvinella",
+    "subgallery": "e49504f1-5348-4bd3-a1cc-1476e811f622",
+    "featuredPhoto": 153,
+    "photos": [153]
+  },
+  {
+    "id": "nemoria-lixaria",
+    "commonName": "Red-bordered Emerald",
+    "scientificName": "Nemoria lixaria",
+    "subgallery": "1e0093d3-c398-45a6-84a3-1013d6f9b1a5",
+    "featuredPhoto": 154,
+    "photos": [154]
+  },
+  {
+    "id": "epiblema-scudderiana",
+    "commonName": "Scudder's Epiblema",
+    "scientificName": "Epiblema scudderiana",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 155,
+    "photos": [155, 156]
+  },
+  {
+    "id": "promalactis-suzukiella",
+    "commonName": "Suzuki's Promalactis Moth",
+    "scientificName": "Promalactis suzukiella",
+    "subgallery": "19e57696-39a8-4516-bd57-51f64cd7778b",
+    "featuredPhoto": 157,
+    "photos": [157]
+  },
+  {
+    "id": "acleris-semipurpurana",
+    "commonName": "Oak Leafshredder",
+    "scientificName": "Acleris semipurpurana",
+    "subgallery": "a17d7fcd-a6f5-445e-a442-93cbe781bed6",
+    "featuredPhoto": 158,
+    "photos": [158, 159]
+  },
+  {
+    "id": "pandemis-limitata",
+    "commonName": "Three-lined Leafroller",
+    "scientificName": "Pandemis limitata",
+    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
+    "featuredPhoto": 160,
+    "photos": [160, 161]
+  },
+  {
+    "id": "archips-argyrospila",
+    "commonName": "Fruit-tree Leafroller",
+    "scientificName": "Archips argyrospila",
+    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
+    "featuredPhoto": 162,
+    "photos": [162, 163]
   }
 ]

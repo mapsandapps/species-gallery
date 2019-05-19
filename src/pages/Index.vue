@@ -15,12 +15,11 @@
           </figcaption>
         </figure>
       </g-link>
+      <br>
       <g-link
         to="/portfolio">
         <figure>
-          <Photo
-            :photo="$static.photo"
-            size="t_400" />
+          <img src="/underconstruction.gif" class="construction" />
           <figcaption>
             <h1>
               Portfolio
@@ -31,9 +30,7 @@
       <g-link
         to="/travel">
         <figure>
-          <Photo
-            :photo="$static.photo"
-            size="t_400" />
+          <img src="/underconstruction.gif" class="construction" />
           <figcaption>
             <h1>
               Travel
@@ -88,21 +85,29 @@ export default {
     margin-bottom: 0px;
     font-size: 48px;
   }
+  a {
+    display: block;
+    max-width: 864px;
+    margin: 0px auto;
+    clear: both;
+  }
   figure {
     padding: 32px;
     margin: 16px 0px 32px;
-    &:hover {
-      background-color: $purple-20;
-    }
   }
 }
 </style>
 
 <style lang="scss">
+@import '../styles/variables';
+
 .main-page { // replace with .large-image-link
   img {
     width: 800px;
     max-width: calc(100vw - 64px - 32px);
+    &.construction {
+      width: 76px;
+    }
   }
 }
 </style>

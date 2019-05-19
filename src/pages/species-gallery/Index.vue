@@ -1,21 +1,25 @@
 <template>
   <Layout>
-    <div
-      v-for="gallery in $page.allSpeciesGalleryGallery.edges"
-      :key="gallery.node.id">
-      <g-link
-        v-if="gallery.node.public || displayPrivateGalleries"
-        :to="`/species-gallery/${gallery.node.id}`">
-        <figure>
-          <Photo
-            v-if="gallery.node.featuredPhoto"
-            :photo="gallery.node.featuredPhoto"
-            size=300 />
-          <figcaption>
-            {{ gallery.node.name }}
-          </figcaption>
-        </figure>
-      </g-link>
+    <div class="species-gallery-container">
+      <div
+        v-for="gallery in $page.allSpeciesGalleryGallery.edges"
+        :key="gallery.node.id">
+        <g-link
+          v-if="gallery.node.public || displayPrivateGalleries"
+          :to="`/species-gallery/${gallery.node.id}`">
+          <figure class="species-gallery">
+            <Photo
+              v-if="gallery.node.featuredPhoto"
+              :photo="gallery.node.featuredPhoto"
+              size=450 />
+            <figcaption>
+              <h2>
+                {{ gallery.node.name }}
+              </h2>
+            </figcaption>
+          </figure>
+        </g-link>
+      </div>
     </div>
   </Layout>
 </template>
@@ -67,4 +71,15 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.species-gallery-container {
+  text-align: center;
+  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(50px, 482px));
+  .species-gallery {
+    max-width: 450px;
+    display: inline-block;
+    padding: 16px;
+  }
+}
 </style>

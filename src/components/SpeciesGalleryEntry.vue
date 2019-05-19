@@ -45,12 +45,6 @@ export default {
   display: inline-block;
   padding: 16px;
   margin: 0px;
-  &:hover {
-    background-color: $purple-20;
-    figcaption {
-      text-decoration: underline;
-    }
-  }
   img {
     max-width: 300px;
     max-height: 300px;
