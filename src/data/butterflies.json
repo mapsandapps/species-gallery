@@ -1,5 +1,23 @@
 [
   {
+    "id": "battus-philenor",
+    "commonName": "Pipevine Swallowtail",
+    "scientificName": "Battus philenor",
+    "commonality": "Common",
+    "subgallery": "5ae3717f-3673-4ac5-920f-9e39639c4869",
+    "featuredPhoto": 175,
+    "photos": [175]
+  },
+  {
+    "id": "eurytides-marcellus",
+    "commonName": "Zebra Swallowtail",
+    "scientificName": "Eurytides marcellus",
+    "commonality": "Uncommon",
+    "subgallery": "5ae3717f-3673-4ac5-920f-9e39639c4869",
+    "featuredPhoto": 165,
+    "photos": [165, 168]
+  },
+  {
     "id": "papilio-glaucus",
     "commonName": "Eastern Tiger Swallowtail",
     "scientificName": "Papilio glaucus",
@@ -35,6 +53,15 @@
     "photos": [123, 119]
   },
   {
+    "id": "celastrina-sp",
+    "commonName": "Spring Azure complex",
+    "scientificName": "Celastrina sp.",
+    "commonality": "Uncommon",
+    "subgallery": "d7f9f212-b404-4731-ab21-d949d0febc84",
+    "featuredPhoto": 173,
+    "photos": [173]
+  },
+  {
     "id": "libytheana-carinenta",
     "commonName": "American Snout",
     "scientificName": "Libytheana carinenta",
@@ -42,6 +69,15 @@
     "subgallery": "f430c39d-5a5d-453e-87ab-d83ab69364d6",
     "featuredPhoto": 127,
     "photos": [127, 128, 166]
+  },
+  {
+    "id": "euptoieta-claudia",
+    "commonName": "Variegated Fritillary",
+    "scientificName": "Euptoieta claudia",
+    "commonality": "Common",
+    "subgallery": "99c64708-3596-4696-aba3-bc37842b1aad",
+    "featuredPhoto": 174,
+    "photos": [174]
   },
   {
     "id": "phyciodes-tharos",
@@ -80,6 +116,42 @@
     "photos": [117]
   },
   {
+    "id": "limenitis-arthemis",
+    "commonName": "Red-spotted Purple",
+    "scientificName": "Limenitis arthemis",
+    "commonality": "Abundant",
+    "subgallery": "2b67e5d7-5fb5-46d6-9052-3524ce66de05",
+    "featuredPhoto": 169,
+    "photos": [169, 170]
+  },
+  {
+    "id": "enodia-anthedon",
+    "commonName": "Northern Pearly-eye",
+    "scientificName": "Enodia anthedon",
+    "commonality": "Uncommon",
+    "subgallery": "6224b962-af28-4149-a233-6314cc77b50a",
+    "featuredPhoto": 171,
+    "photos": [171]
+  },
+  {
+    "id": "cyllopsis-gemma",
+    "commonName": "Gemmed Satyr",
+    "scientificName": "Cyllopsis gemma",
+    "commonality": "Uncommon",
+    "subgallery": "6224b962-af28-4149-a233-6314cc77b50a",
+    "featuredPhoto": 167,
+    "photos": [167]
+  },
+  {
+    "id": "hermeuptychia-sosybius",
+    "commonName": "Carolina Satyr",
+    "scientificName": "Hermeuptychia sosybius",
+    "commonality": "Common",
+    "subgallery": "6224b962-af28-4149-a233-6314cc77b50a",
+    "featuredPhoto": 172,
+    "photos": [172]
+  },
+  {
     "id": "danaus-plexippus",
     "commonName": "Monarch",
     "scientificName": "Danaus plexippus",
@@ -94,7 +166,7 @@
     "scientificName": "Epargyreus clarus",
     "subgallery": "efe08484-e368-4dc4-be09-543121547afc",
     "featuredPhoto": 116,
-    "photos": [116, 117]
+    "photos": [116, 179]
   },
   {
     "id": "urbanus-proteus",
@@ -138,57 +210,21 @@
     "photos": [115]
   },
   {
-    "id": "eurytides-marcellus",
-    "commonName": "Zebra Swallowtail",
-    "scientificName": "Eurytides marcellus",
+    "id": "atalopedes-campestris",
+    "commonName": "Sachem",
+    "scientificName": "Atalopedes campestris",
     "commonality": "Uncommon",
-    "subgallery": "5ae3717f-3673-4ac5-920f-9e39639c4869",
-    "featuredPhoto": 165,
-    "photos": [165, 168]
+    "subgallery": "4f1f477a-91e8-450c-8798-2290d156307d",
+    "featuredPhoto": 176,
+    "photos": [176]
   },
   {
-    "id": "cyllopsis-gemma",
-    "commonName": "Gemmed Satyr",
-    "scientificName": "Cyllopsis gemma",
-    "commonality": "Uncommon",
-    "subgallery": "6224b962-af28-4149-a233-6314cc77b50a",
-    "featuredPhoto": 167,
-    "photos": [167]
-  },
-  {
-    "id": "celastrina-sp",
-    "commonName": "Spring Azure complex",
-    "scientificName": "Celastrina sp.",
-    "commonality": "Uncommon",
-    "subgallery": "d7f9f212-b404-4731-ab21-d949d0febc84",
-    "featuredPhoto": 173,
-    "photos": [173]
-  },
-  {
-    "id": "limenitis-arthemis",
-    "commonName": "Red-spotted Purple",
-    "scientificName": "Limenitis arthemis",
-    "commonality": "Abundant",
-    "subgallery": "2b67e5d7-5fb5-46d6-9052-3524ce66de05",
-    "featuredPhoto": 169,
-    "photos": [169, 170]
-  },
-  {
-    "id": "enodia-anthedon",
-    "commonName": "Northern Pearly-eye",
-    "scientificName": "Enodia anthedon",
-    "commonality": "Uncommon",
-    "subgallery": "6224b962-af28-4149-a233-6314cc77b50a",
-    "featuredPhoto": 171,
-    "photos": [171]
-  },
-  {
-    "id": "hermeuptychia-sosybius",
-    "commonName": "Carolina Satyr",
-    "scientificName": "Hermeuptychia sosybius",
+    "id": "poanes-zabulon",
+    "commonName": "Zabulon Skipper",
+    "scientificName": "Poanes zabulon",
     "commonality": "Common",
-    "subgallery": "6224b962-af28-4149-a233-6314cc77b50a",
-    "featuredPhoto": 172,
-    "photos": [172]
+    "subgallery": "4f1f477a-91e8-450c-8798-2290d156307d",
+    "featuredPhoto": 177,
+    "photos": [177]
   }
 ]

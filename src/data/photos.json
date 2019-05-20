@@ -1112,25 +1112,6 @@
     }
   },
   {
-    "id": 62,
-    "filename": "47331426062_02a3d2d2b9_o.jpg",
-    "flickr": "47331426062",
-    "species": "lithophane-signosa",
-    "annotations": {
-      "stage": null,
-      "sex": null
-    },
-    "captureInfo": {
-      "photographer": "Shawn Taylor",
-      "copyright": null,
-      "truthInCaptioning": "Moth was captured, photographed, and released",
-      "location": "Virginia Highland",
-      "city": "Atlanta",
-      "county": "Fulton",
-      "date": "2019-03-15"
-    }
-  },
-  {
     "id": 63,
     "filename": "47384279111_8c574971b1_o%20(2).jpg",
     "flickr": "47384279111",
@@ -2122,26 +2103,6 @@
   {
     "id": 116,
     "filename": "544A5186.jpg",
-    "flickr": "",
-    "species": "epargyreus-clarus",
-    "caption": null,
-    "annotations": {
-      "stage": "adult",
-      "sex": null
-    },
-    "captureInfo": {
-      "photographer": "Shawn Taylor",
-      "copyright": null,
-      "truthInCaptioning": "In situ",
-      "location": "Piedmont Park",
-      "city": "Atlanta",
-      "county": "Fulton",
-      "date": "2019-04-13"
-    }
-  },
-  {
-    "id": 116,
-    "filename": "544A5174.jpg",
     "flickr": "",
     "species": "epargyreus-clarus",
     "caption": null,
@@ -3275,6 +3236,128 @@
       "city": null,
       "county": "DeKalb",
       "date": "2019-04-29"
+    }
+  },
+  {
+    "id": 174,
+    "filename": "47877948501_ce8d0a5791_o",
+    "flickr": "",
+    "species": "euptoieta-claudia",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Chattahoochee Nature Center",
+      "city": "Roswell",
+      "county": "Fulton",
+      "date": "2019-05-18"
+    }
+  },
+  {
+    "id": 175,
+    "filename": "46961654575_e31cc310db_o",
+    "flickr": "46961654575",
+    "species": "battus-philenor",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Chattahoochee Nature Center",
+      "city": "Roswell",
+      "county": "Fulton",
+      "date": "2019-05-18"
+    }
+  },
+  {
+    "id": 176,
+    "filename": "47692445811_a023b5d28b_o",
+    "flickr": "47692445811",
+    "species": "atalopedes-campestris",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-22"
+    }
+  },
+  {
+    "id": 177,
+    "filename": "46851486295_e8d2b3cffa_o",
+    "flickr": "",
+    "species": "poanes-zabulon",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Lullwater Preserve",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2019-04-27"
+    }
+  },
+  {
+    "id": 178,
+    "filename": "47331426062_02a3d2d2b9_o.jpg",
+    "flickr": "47331426062",
+    "species": "lithophane-signosa",
+    "annotations": {
+      "stage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Moth was captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-03-15"
+    }
+  },
+  {
+    "id": 179,
+    "filename": "544A5174.jpg",
+    "flickr": "",
+    "species": "epargyreus-clarus",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-13"
     }
   }
 ]
