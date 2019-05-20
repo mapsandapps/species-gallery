@@ -1979,27 +1979,6 @@
     }
   },
   {
-    "id": 110,
-    "filename": "clouded skipper.jpeg",
-    "flickr": "",
-    "species": "lerema-accius",
-    "caption": null,
-    "annotations": {
-      "stage": null,
-      "plumage": null,
-      "sex": null
-    },
-    "captureInfo": {
-      "photographer": "Shawn Taylor",
-      "copyright": null,
-      "truthInCaptioning": "In situ",
-      "location": "Piedmont Park",
-      "city": "Atlanta",
-      "county": "Fulton",
-      "date": "2018-09-09"
-    }
-  },
-  {
     "id": 111,
     "filename": "horace's duskywing.jpg",
     "flickr": "",
@@ -3240,7 +3219,7 @@
   },
   {
     "id": 174,
-    "filename": "47877948501_ce8d0a5791_o",
+    "filename.jpg": "47877948501_ce8d0a5791_o",
     "flickr": "",
     "species": "euptoieta-claudia",
     "caption": null,
@@ -3261,7 +3240,7 @@
   },
   {
     "id": 175,
-    "filename": "46961654575_e31cc310db_o",
+    "filename": "46961654575_e31cc310db_o.jpg",
     "flickr": "46961654575",
     "species": "battus-philenor",
     "caption": null,
@@ -3282,7 +3261,7 @@
   },
   {
     "id": 176,
-    "filename": "47692445811_a023b5d28b_o",
+    "filename": "47692445811_a023b5d28b_o.jpg",
     "flickr": "47692445811",
     "species": "atalopedes-campestris",
     "caption": null,
@@ -3302,7 +3281,7 @@
   },
   {
     "id": 177,
-    "filename": "46851486295_e8d2b3cffa_o",
+    "filename": "46851486295_e8d2b3cffa_o.jpg",
     "flickr": "",
     "species": "poanes-zabulon",
     "caption": null,
@@ -3358,6 +3337,384 @@
       "city": "Atlanta",
       "county": "Fulton",
       "date": "2019-04-13"
+    }
+  },
+  {
+    "id": 180,
+    "filename": "34000692148_49c01a3a0b_o.jpg",
+    "flickr": "",
+    "species": "lerema-accius",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Chattahoochee Nature Center",
+      "city": "Roswell",
+      "county": "Fulton",
+      "date": "2019-05-18"
+    }
+  },
+  {
+    "id": 181,
+    "filename": "46978755074_524cd4c335_o.jpg",
+    "flickr": "",
+    "species": "autosticha-kyotensis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-28"
+    }
+  },
+  {
+    "id": 182,
+    "filename": "47025226674_52b4525554_o (1).jpg",
+    "flickr": "",
+    "species": "antheraea-polyphemus",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Midtown",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-09"
+    }
+  },
+  {
+    "id": 183,
+    "filename": "40848250663_667edc2cdc_o.jpg",
+    "flickr": "",
+    "species": "antheraea-polyphemus",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Midtown",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-09"
+    }
+  },
+  {
+    "id": 184,
+    "filename": "40848237003_363f9b313d_o.jpg",
+    "flickr": "",
+    "species": "antheraea-polyphemus",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Midtown",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-09"
+    }
+  },
+  {
+    "id": 185,
+    "filename": "33937551778_48ae807807_o (1).jpg",
+    "flickr": "",
+    "species": "polygrammate-hebraeicum",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-09"
+    }
+  },
+  {
+    "id": 186,
+    "filename": "32870890297_8a97589fd9_o.jpg",
+    "flickr": "",
+    "species": "microcrambus-elegans",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-09"
+    }
+  },
+  {
+    "id": 187,
+    "filename": "32933693687_b5608fe12a_o.jpg",
+    "flickr": "",
+    "species": "microcrambus-elegans",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-18"
+    }
+  },
+  {
+    "id": 188,
+    "filename": "32921839937_fbc12bc1b9_o.jpg",
+    "flickr": "",
+    "species": "phereoeca-uterella",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Captured, photographed, and released",
+      "location": "Midtown",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-13"
+    }
+  },
+  {
+    "id": 189,
+    "filename": "32921830527_606862ed42_o.jpg",
+    "flickr": "",
+    "species": "harrisina-americana",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-13"
+    }
+  },
+  {
+    "id": 190,
+    "filename": "32921830887_ae9fc377c9_o.jpg",
+    "flickr": "",
+    "species": "harrisina-americana",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-13"
+    }
+  },
+  {
+    "id": 191,
+    "filename": "47076488234_b4652171fe_o.jpg",
+    "flickr": "",
+    "species": "pyralis-farinalis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-12"
+    }
+  },
+  {
+    "id": 192,
+    "filename": "47813776382_e73df34233_o.jpg",
+    "flickr": "",
+    "species": "holcocera-immaculella",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-13"
+    }
+  },
+  {
+    "id": 193,
+    "filename": "47866024741_a3eaf5b442_o.jpg",
+    "flickr": "",
+    "species": "moodna-pallidostrinella",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-13"
+    }
+  },
+  {
+    "id": 194,
+    "filename": "47076534814_6aafc74fac_o.jpg",
+    "flickr": "",
+    "species": "niphonyx-segregata",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-14"
+    }
+  },
+  {
+    "id": 195,
+    "filename": "46949741635_19c3a05f2a_o.jpg",
+    "flickr": "",
+    "species": "lentiginos-moth",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-11"
+    }
+  },
+  {
+    "id": 196,
+    "filename": "33988491258_bbc80a6ff6_o.jpg",
+    "flickr": "",
+    "species": "pubitelphusa-latifasciella",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-16"
+    }
+  },
+  {
+    "id": 197,
+    "filename": "46949578395_bc1879aec7_o.jpg",
+    "species": "hypsopygia-olinalis",
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-16"
+    }
+  },
+  {
+    "id": 198,
+    "filename": "47088482444_128968bf66_o.jpg",
+    "flickr": "",
+    "species": "acrolophus-mycetophagus",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-18"
     }
   }
 ]

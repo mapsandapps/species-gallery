@@ -1,5 +1,29 @@
 [
   {
+    "id": "acrolophus-mycetophagus",
+    "commonName": "Frilly Grass Tubeworm",
+    "scientificName": "Acrolophus mycetophagus",
+    "subgallery": "4a2185ea-51cc-42f5-a233-09c9b4adf3b0",
+    "featuredPhoto": 198,
+    "photos": [198]
+  },
+  {
+    "id": "phereoeca-uterella",
+    "commonName": "Household Casebearer",
+    "scientificName": "Phereoeca uterella",
+    "subgallery": "4a2185ea-51cc-42f5-a233-09c9b4adf3b0",
+    "featuredPhoto": 188,
+    "photos": [188]
+  },
+  {
+    "id": "monopis-pavlovskii",
+    "commonName": "Pavlovski's Monopis",
+    "scientificName": "Monopis pavlovskii",
+    "subgallery": "4a2185ea-51cc-42f5-a233-09c9b4adf3b0",
+    "featuredPhoto": 101,
+    "photos": [101]
+  },
+  {
     "id": "plutella-xylostella",
     "commonName": "The Diamondback",
     "scientificName": "Plutella xylostella",
@@ -16,12 +40,188 @@
     "photos": [68]
   },
   {
+    "id": "autosticha-kyotensis",
+    "commonName": "Kyoto Moth",
+    "scientificName": "Autosticha kyotensis",
+    "subgallery": "19e57696-39a8-4516-bd57-51f64cd7778b",
+    "featuredPhoto": 181,
+    "photos": [181]
+  },
+  {
+    "id": "promalactis-suzukiella",
+    "commonName": "Suzuki's Promalactis Moth",
+    "scientificName": "Promalactis suzukiella",
+    "subgallery": "19e57696-39a8-4516-bd57-51f64cd7778b",
+    "featuredPhoto": 157,
+    "photos": [157]
+  },
+  {
+    "id": "antaeotricha-schlaegeri",
+    "commonName": "Schlaeger's Fruitworm Moth",
+    "scientificName": "Antaeotricha schlaegeri",
+    "subgallery": "e7ff20f1-6225-4500-8e65-249006496f8f",
+    "featuredPhoto": 131,
+    "photos": [131]
+  },
+  {
+    "id": "battaristis-vittella",
+    "commonName": "Orange Stripe-backed Moth",
+    "scientificName": "Battaristis vittella",
+    "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
+    "featuredPhoto": 107,
+    "photos": [106, 107, 164]
+  },
+  {
+    "id": "dichomeris-ligulella",
+    "commonName": "Palmerworm Moth",
+    "scientificName": "Dichomeris ligulella",
+    "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
+    "featuredPhoto": 144,
+    "photos": [144]
+  },
+  {
+    "id": "monochroa-quinquepunctella",
+    "commonName": "Five-spotted Twirler",
+    "scientificName": "Monochroa quinquepunctella",
+    "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
+    "featuredPhoto": 150,
+    "photos": [150]
+  },
+  {
+    "id": "pubitelphusa-latifasciella",
+    "commonName": "White-banded Telphusa Moth",
+    "scientificName": "Pubitelphusa latifasciella",
+    "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
+    "featuredPhoto": 196,
+    "photos": [196]
+  },
+  {
+    "id": "chionodes-mediofuscella",
+    "commonName": "Black-smudged Chionodes",
+    "scientificName": "Chionodes mediofuscella",
+    "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
+    "featuredPhoto": 88,
+    "photos": [88]
+  },
+  {
+    "id": "filatima-biminimaculella",
+    "commonName": "Small-spotted Filatima",
+    "scientificName": "Filatima biminimaculella",
+    "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
+    "featuredPhoto": 98,
+    "photos": [98]
+  },
+  {
+    "id": "blastobasis-glandulella",
+    "commonName": "Acorn Moth",
+    "scientificName": "Blastobasis glandulella",
+    "subgallery": "468e9211-9ba6-40fd-bdff-17ca88a6b416",
+    "featuredPhoto": 130,
+    "photos": [130]
+  },
+  {
+    "id": "holcocera-immaculella",
+    "commonName": null,
+    "scientificName": "Holcocera immaculella",
+    "subgallery": "468e9211-9ba6-40fd-bdff-17ca88a6b416",
+    "featuredPhoto": 192,
+    "photos": [192]
+  },
+  {
+    "id": "acleris-semipurpurana",
+    "commonName": "Oak Leafshredder",
+    "scientificName": "Acleris semipurpurana",
+    "subgallery": "a17d7fcd-a6f5-445e-a442-93cbe781bed6",
+    "featuredPhoto": 158,
+    "photos": [158, 159]
+  },
+  {
+    "id": "eugnosta-erigeronana",
+    "commonName": "Fleabana Cochylid",
+    "scientificName": "Eugnosta erigeronana",
+    "subgallery": "5e0503ec-c351-4c44-bb34-da86c4c72ce8",
+    "featuredPhoto": 146,
+    "photos": [146]
+  },
+  {
+    "id": "pandemis-limitata",
+    "commonName": "Three-lined Leafroller",
+    "scientificName": "Pandemis limitata",
+    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
+    "featuredPhoto": 160,
+    "photos": [160, 161]
+  },
+  {
     "id": "argyrotaenia-velutinana",
     "commonName": "Red-banded Leafroller Moth",
     "scientificName": "Argyrotaenia velutinana",
     "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
     "featuredPhoto": 19,
     "photos": [18, 19]
+  },
+  {
+    "id": "argyrotaenia-kimballi",
+    "commonName": "Kimball's Leafroller",
+    "scientificName": "Argyrotaenia kimballi",
+    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
+    "featuredPhoto": 140,
+    "photos": [140]
+  },
+  {
+    "id": "choristoneura-rosaceana",
+    "commonName": "Oblique-banded Leafroller Moth",
+    "scientificName": "Choristoneura rosaceana",
+    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
+    "featuredPhoto": 135,
+    "photos": [135, 136]
+  },
+  {
+    "id": "archips-argyrospila",
+    "commonName": "Fruit-tree Leafroller",
+    "scientificName": "Archips argyrospila",
+    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
+    "featuredPhoto": 162,
+    "photos": [162, 163]
+  },
+  {
+    "id": "clepsis-peritana",
+    "commonName": "Garden Tortrix",
+    "scientificName": "Clepsis peritana",
+    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
+    "featuredPhoto": 84,
+    "photos": [84]
+  },
+  {
+    "id": "sparganothoides-lentiginosana",
+    "commonName": "Lentiginos Moth",
+    "scientificName": "Sparganothoides lentiginosana",
+    "subgallery": "37664b69-06d5-4aef-96db-b35784c51bf9",
+    "featuredPhoto": 195,
+    "photos": [195]
+  },
+  {
+    "id": "platynota-idaeusalis",
+    "commonName": "Tufted Apple Bud Moth",
+    "scientificName": "Platynota idaeusalis",
+    "subgallery": "37664b69-06d5-4aef-96db-b35784c51bf9",
+    "featuredPhoto": 99,
+    "photos": [99, 100]
+  },
+  {
+    "id": "platynota-semiustana",
+    "commonName": "Singed Platynota",
+    "scientificName": "Platynota semiustana",
+    "subgallery": "37664b69-06d5-4aef-96db-b35784c51bf9",
+    "featuredPhoto": 147,
+    "photos": [147]
+  },
+  {
+    "id": "ancylis-muricana",
+    "commonName": "Red-headed Ancylis Moth",
+    "scientificName": "Ancylis muricana",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 96,
+    "photos": [96]
   },
   {
     "id": "rhyacionia-rigidana",
@@ -32,12 +232,28 @@
     "photos": [20]
   },
   {
+    "id": "epiblema-scudderiana",
+    "commonName": "Scudder's Epiblema",
+    "scientificName": "Epiblema scudderiana",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 155,
+    "photos": [155, 156]
+  },
+  {
     "id": "proteoteras-aesculana",
     "commonName": "Maple Twig Borer",
     "scientificName": "Proteoteras aesculana",
     "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
     "featuredPhoto": 22,
     "photos": [22]
+  },
+  {
+    "id": "pseudexentera-spoliana",
+    "commonName": "Bare-patched Leafroller",
+    "scientificName": "Pseudexentera spoliana",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 139,
+    "photos": [139]
   },
   {
     "id": "gretchena-bolliana",
@@ -56,12 +272,100 @@
     "photos": [25]
   },
   {
+    "id": "cydia-caryana",
+    "commonName": "Hickory Shuckworm Moth",
+    "scientificName": "Cydia caryana",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 104,
+    "photos": [104]
+  },
+  {
+    "id": "cydia-marita",
+    "commonName": null,
+    "scientificName": "Cydia marita",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 137,
+    "photos": [137]
+  },
+  {
+    "id": "gymnandrosoma-punctidiscanum",
+    "commonName": "Dotted Gymnast",
+    "scientificName": "Gymnandrosoma punctidiscanum",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 148,
+    "photos": [148]
+  },
+  {
+    "id": "harrisina-americana",
+    "commonName": "Grapeleaf Skeletonizer",
+    "scientificName": "Harrisina americana",
+    "subgallery": "5642d956-4b11-427d-9a8e-ea6a22a64602",
+    "featuredPhoto": 189,
+    "photos": [189, 190]
+  },
+  {
+    "id": "pseudothyris-sepulchralis",
+    "commonName": "Mournful Thyris",
+    "scientificName": "Pseudothyris sepulchralis",
+    "subgallery": "a3317d62-b18a-438e-9769-7ac6e8f277b7",
+    "featuredPhoto": 152,
+    "photos": [152]
+  },
+  {
+    "id": "pyralis-farinalis",
+    "commonName": "Meal Moth",
+    "scientificName": "Pyralis farinalis",
+    "subgallery": "b5c8e656-7fd0-458d-8b07-df50add83aed",
+    "featuredPhoto": 191,
+    "photos": [191]
+  },
+  {
     "id": "hypsopygia-olinalis",
     "commonName": "Yellow-fringed Dolichomia",
     "scientificName": "Hypsopygia olinalis",
     "subgallery": "b5c8e656-7fd0-458d-8b07-df50add83aed",
-    "featuredPhoto": 69,
-    "photos": [69]
+    "featuredPhoto": 197,
+    "photos": [69, 197]
+  },
+  {
+    "id": "moodna-pallidostrinella",
+    "commonName": "Paler Moodna",
+    "scientificName": "Moodna pallidostrinella",
+    "subgallery": "e49504f1-5348-4bd3-a1cc-1476e811f622",
+    "featuredPhoto": 193,
+    "photos": [193]
+  },
+  {
+    "id": "sciota-uvinella",
+    "commonName": "Sweetgum Leafroller",
+    "scientificName": "Sciota uvinella",
+    "subgallery": "e49504f1-5348-4bd3-a1cc-1476e811f622",
+    "featuredPhoto": 153,
+    "photos": [153]
+  },
+  {
+    "id": "microcrambus-elegans",
+    "commonName": "Elegant Grass-Veneer",
+    "scientificName": "Microcrambus elegans",
+    "subgallery": "d83e905a-0d36-4ca6-95c6-3f35fd44620b",
+    "featuredPhoto": 186,
+    "photos": [186, 187]
+  },
+  {
+    "id": "udea-rubigalis",
+    "commonName": "Celery Leaftier",
+    "scientificName": "Udea rubigalis",
+    "subgallery": "0dbcab98-d302-4a4c-a4a8-b77fdfaf56ca",
+    "featuredPhoto": 92,
+    "photos": [92, 93]
+  },
+  {
+    "id": "desmia-funeralis-or-maculalis",
+    "commonName": "",
+    "scientificName": "Desmia funeralis or maculalis",
+    "subgallery": "0dbcab98-d302-4a4c-a4a8-b77fdfaf56ca",
+    "featuredPhoto": 143,
+    "photos": [143]
   },
   {
     "id": "palpita-arsaltealis",
@@ -94,6 +398,30 @@
     "subgallery": "a77b8125-4ddb-4724-a5c9-d2918c56c3a7",
     "featuredPhoto": 27,
     "photos": [27]
+  },
+  {
+    "id": "antheraea-polyphemus",
+    "commonName": "Polyphemus Moth",
+    "scientificName": "Antheraea polyphemus",
+    "subgallery": "755a71a2-98ac-4c81-bee3-4092eb739d5c",
+    "featuredPhoto": 182,
+    "photos": [182, 183, 184]
+  },
+  {
+    "id": "manduca-sexta",
+    "commonName": "Carolina Sphinx",
+    "scientificName": "Manduca sexta",
+    "subgallery": "cae795cb-c066-41d2-9532-311abb18ea7a",
+    "featuredPhoto": 138,
+    "photos": [138]
+  },
+  {
+    "id": "amphion-floridensis",
+    "commonName": "Nessus Sphinx",
+    "scientificName": "Amphion floridensis",
+    "subgallery": "dcf4ebd6-b173-45a1-8048-70543c7c5e17",
+    "featuredPhoto": 67,
+    "photos": [67]
   },
   {
     "id": "xylophanes-tersa",
@@ -136,6 +464,14 @@
     "photos": [73, 105]
   },
   {
+    "id": "nemoria-lixaria",
+    "commonName": "Red-bordered Emerald",
+    "scientificName": "Nemoria lixaria",
+    "subgallery": "1e0093d3-c398-45a6-84a3-1013d6f9b1a5",
+    "featuredPhoto": 154,
+    "photos": [154]
+  },
+  {
     "id": "alsophila-pometaria",
     "commonName": "Fall Cankerworm Moth",
     "scientificName": "Alsophila pometaria",
@@ -168,12 +504,36 @@
     "photos": [42, 43, 44]
   },
   {
-    "id": "ilexia-intractata",
-    "commonName": "Black-dotted Ruddy",
-    "scientificName": "Ilexia intractata",
+    "id": "protoboarmia-porcelaria",
+    "commonName": "Porcelain Gray",
+    "scientificName": "Protoboarmia porcelaria",
     "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
-    "featuredPhoto": 46,
-    "photos": [45, 46, 47, 48, 49]
+    "featuredPhoto": 108,
+    "photos": [108]
+  },
+  {
+    "id": "Melanolophia canadaria",
+    "commonName": "Canadian Melanolophia",
+    "scientificName": "Melanolophia canadaria",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 103,
+    "photos": [103]
+  },
+  {
+    "id": "melanolophia-signataria",
+    "commonName": "Signate Melanolophia",
+    "scientificName": "Melanolophia signataria",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 79,
+    "photos": [79, 80]
+  },
+  {
+    "id": "hypagyrtis-unipunctata",
+    "commonName": "One-spotted Variant Moth",
+    "scientificName": "Hypagyrtis unipunctata",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 109,
+    "photos": [81, 109]
   },
   {
     "id": "phigalia-denticulata",
@@ -190,6 +550,30 @@
     "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
     "featuredPhoto": 52,
     "photos": [52]
+  },
+  {
+    "id": "ilexia-intractata",
+    "commonName": "Black-dotted Ruddy",
+    "scientificName": "Ilexia intractata",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 46,
+    "photos": [45, 46, 47, 48, 49]
+  },
+  {
+    "id": "probole-amicaria",
+    "commonName": "Friendly Probole",
+    "scientificName": "Probole amicaria",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 145,
+    "photos": [145, 151]
+  },
+  {
+    "id": "niphonyx-segregata",
+    "commonName": "Hops Angleshade",
+    "scientificName": "Niphonyx segregata",
+    "subgallery": "ff28ff05-edf6-44de-9928-45fd4b6ac765",
+    "featuredPhoto": 194,
+    "photos": [194]
   },
   {
     "id": "nadata-gibbosa",
@@ -216,6 +600,14 @@
     "photos": [76]
   },
   {
+    "id": "cisseps-fulvicollis",
+    "commonName": "Yellow-collared Scape Moth",
+    "scientificName": "Cisseps fulvicollis",
+    "subgallery": "f7e21bb9-991c-4685-8da7-88a1f5b68c5b",
+    "featuredPhoto": 97,
+    "photos": [97]
+  },
+  {
     "id": "hypena-baltimoralis",
     "commonName": "Baltimore Snout",
     "scientificName": "Hypena baltimoralis",
@@ -240,6 +632,22 @@
     "photos": [56, 57, 58]
   },
   {
+    "id": "cissusa-spadix",
+    "commonName": "Black-dotted Brown",
+    "scientificName": "Cissusa spadix",
+    "subgallery": "136552e3-0b00-4003-b88b-29cad85ab1e8",
+    "featuredPhoto": 86,
+    "photos": [86, 87]
+  },
+  {
+    "id": "zale-lunata",
+    "commonName": "Lunate Zale",
+    "scientificName": "Zale lunata",
+    "subgallery": "136552e3-0b00-4003-b88b-29cad85ab1e8",
+    "featuredPhoto": 90,
+    "photos": [90, 91]
+  },
+  {
     "id": "nycteola-metaspilella",
     "commonName": "Forgotten Frigid Owlet",
     "scientificName": "Nycteola metaspilella",
@@ -248,12 +656,52 @@
     "photos": [59, 60, 61, 62]
   },
   {
+    "id": "megalographa-biloba",
+    "commonName": "Bilobed Looper",
+    "scientificName": "Megalographa Biloba",
+    "subgallery": "fab7d5b9-df0c-4982-ab87-d9c86a71ee7b",
+    "featuredPhoto": 95,
+    "photos": [95]
+  },
+  {
+    "id": "acronicta-betulae",
+    "commonName": "Birch Dagger",
+    "scientificName": "Acronicta betulae",
+    "subgallery": "2726a7b1-aa30-4c8a-816c-970977a6ae5a",
+    "featuredPhoto": 149,
+    "photos": [149]
+  },
+  {
+    "id": "polygrammate-hebraeicum",
+    "commonName": "The Hebrew",
+    "scientificName": "Polygrammate hebraeicum",
+    "subgallery": "2726a7b1-aa30-4c8a-816c-970977a6ae5a",
+    "featuredPhoto": 185,
+    "photos": [185]
+  },
+  {
+    "id": "elaphria-versicolor",
+    "commonName": "Variegated Midget",
+    "scientificName": "Elaphria versicolor",
+    "subgallery": "1b1ff378-a9d7-4c19-9b93-4565e96a7322",
+    "featuredPhoto": 82,
+    "photos": [82, 83]
+  },
+  {
     "id": "lithophane-signosa",
     "commonName": "Sycamore Pinion Moth",
     "scientificName": "Lithophane signosa",
     "subgallery": "9b6b26e1-8ebf-431c-9069-d37614201a31",
     "featuredPhoto": 178,
     "photos": [178, 63]
+  },
+  {
+    "id": "achatia-distincta",
+    "commonName": "Distinct Quaker",
+    "scientificName": "Achatia distincta",
+    "subgallery": "7c9eba4f-d7d5-4f31-bb26-729f3a39bc7e",
+    "featuredPhoto": 85,
+    "photos": [85]
   },
   {
     "id": "mythimna-unipuncta",
@@ -272,190 +720,6 @@
     "photos": [142, 141, 77]
   },
   {
-    "id": "choephora-fungorum",
-    "commonName": "Bent-line Dart",
-    "scientificName": "Choephora fungorum",
-    "subgallery": "0892c2b9-36dc-464f-9669-6da9dd7f03a8",
-    "featuredPhoto": 78,
-    "photos": [78]
-  },
-  {
-    "id": "amphion-floridensis",
-    "commonName": "Nessus Sphinx",
-    "scientificName": "Amphion floridensis",
-    "subgallery": "dcf4ebd6-b173-45a1-8048-70543c7c5e17",
-    "featuredPhoto": 67,
-    "photos": [67]
-  },
-  {
-    "id": "melanolophia-signataria",
-    "commonName": "Signate Melanolophia",
-    "scientificName": "Melanolophia signataria",
-    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
-    "featuredPhoto": 79,
-    "photos": [79, 80]
-  },
-  {
-    "id": "hypagyrtis-unipunctata",
-    "commonName": "One-spotted Variant Moth",
-    "scientificName": "Hypagyrtis unipunctata",
-    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
-    "featuredPhoto": 81,
-    "photos": [81, 109]
-  },
-  {
-    "id": "elaphria-versicolor",
-    "commonName": "Variegated Midget",
-    "scientificName": "Elaphria versicolor",
-    "subgallery": "1b1ff378-a9d7-4c19-9b93-4565e96a7322",
-    "featuredPhoto": 82,
-    "photos": [82, 83]
-  },
-  {
-    "id": "clepsis-peritana",
-    "commonName": "Garden Tortrix",
-    "scientificName": "Clepsis peritana",
-    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
-    "featuredPhoto": 84,
-    "photos": [84]
-  },
-  {
-    "id": "achatia-distincta",
-    "commonName": "Distinct Quaker",
-    "scientificName": "Achatia distincta",
-    "subgallery": "7c9eba4f-d7d5-4f31-bb26-729f3a39bc7e",
-    "featuredPhoto": 85,
-    "photos": [85]
-  },
-  {
-    "id": "cissusa-spadix",
-    "commonName": "Black-dotted Brown",
-    "scientificName": "Cissusa spadix",
-    "subgallery": "136552e3-0b00-4003-b88b-29cad85ab1e8",
-    "featuredPhoto": 86,
-    "photos": [86, 87]
-  },
-  {
-    "id": "chionodes-mediofuscella",
-    "commonName": "Black-smudged Chionodes",
-    "scientificName": "Chionodes mediofuscella",
-    "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
-    "featuredPhoto": 88,
-    "photos": [88]
-  },
-  {
-    "id": "zale-lunata",
-    "commonName": "Lunate Zale",
-    "scientificName": "Zale lunata",
-    "subgallery": "136552e3-0b00-4003-b88b-29cad85ab1e8",
-    "featuredPhoto": 90,
-    "photos": [90, 91]
-  },
-  {
-    "id": "udea-rubigalis",
-    "commonName": "Celery Leaftier",
-    "scientificName": "Udea rubigalis",
-    "subgallery": "0dbcab98-d302-4a4c-a4a8-b77fdfaf56ca",
-    "featuredPhoto": 92,
-    "photos": [92, 93]
-  },
-  {
-    "id": "megalographa-biloba",
-    "commonName": "Bilobed Looper",
-    "scientificName": "Megalographa Biloba",
-    "subgallery": "fab7d5b9-df0c-4982-ab87-d9c86a71ee7b",
-    "featuredPhoto": 95,
-    "photos": [95]
-  },
-  {
-    "id": "ancylis-muricana",
-    "commonName": "Red-headed Ancylis Moth",
-    "scientificName": "Ancylis muricana",
-    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
-    "featuredPhoto": 96,
-    "photos": [96]
-  },
-  {
-    "id": "cisseps-fulvicollis",
-    "commonName": "Yellow-collared Scape Moth",
-    "scientificName": "Cisseps fulvicollis",
-    "subgallery": "f7e21bb9-991c-4685-8da7-88a1f5b68c5b",
-    "featuredPhoto": 97,
-    "photos": [97]
-  },
-  {
-    "id": "filatima-biminimaculella",
-    "commonName": "Small-spotted Filatima",
-    "scientificName": "Filatima biminimaculella",
-    "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
-    "featuredPhoto": 98,
-    "photos": [98]
-  },
-  {
-    "id": "platynota-idaeusalis",
-    "commonName": "Tufted Apple Bud Moth",
-    "scientificName": "Platynota idaeusalis",
-    "subgallery": "37664b69-06d5-4aef-96db-b35784c51bf9",
-    "featuredPhoto": 99,
-    "photos": [99, 100]
-  },
-  {
-    "id": "monopis-pavlovskii",
-    "commonName": "Pavlovski's Monopis",
-    "scientificName": "Monopis pavlovskii",
-    "subgallery": "4a2185ea-51cc-42f5-a233-09c9b4adf3b0",
-    "featuredPhoto": 101,
-    "photos": [101]
-  },
-  {
-    "id": "Melanolophia canadaria",
-    "commonName": "Canadian Melanolophia",
-    "scientificName": "Melanolophia canadaria",
-    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
-    "featuredPhoto": 103,
-    "photos": [103]
-  },
-  {
-    "id": "cydia-caryana",
-    "commonName": "Hickory Shuckworm Moth",
-    "scientificName": "Cydia caryana",
-    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
-    "featuredPhoto": 104,
-    "photos": [104]
-  },
-  {
-    "id": "battaristis-vittella",
-    "commonName": "Orange Stripe-backed Moth",
-    "scientificName": "Battaristis vittella",
-    "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
-    "featuredPhoto": 107,
-    "photos": [106, 107, 164]
-  },
-  {
-    "id": "protoboarmia-porcelaria",
-    "commonName": "Porcelain Gray",
-    "scientificName": "Protoboarmia porcelaria",
-    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
-    "featuredPhoto": 108,
-    "photos": [108]
-  },
-  {
-    "id": "blastobasis-glandulella",
-    "commonName": "Acorn Moth",
-    "scientificName": "Blastobasis glandulella",
-    "subgallery": "468e9211-9ba6-40fd-bdff-17ca88a6b416",
-    "featuredPhoto": 130,
-    "photos": [130]
-  },
-  {
-    "id": "antaeotricha-schlaegeri",
-    "commonName": "Schlaeger's Fruitworm Moth",
-    "scientificName": "Antaeotricha schlaegeri",
-    "subgallery": "e7ff20f1-6225-4500-8e65-249006496f8f",
-    "featuredPhoto": 131,
-    "photos": [131]
-  },
-  {
     "id": "agrotis-ipsilon",
     "commonName": "Ipsilon Dart",
     "scientificName": "Agrotis ipsilon",
@@ -464,171 +728,11 @@
     "photos": [133, 134]
   },
   {
-    "id": "choristoneura-rosaceana",
-    "commonName": "Oblique-banded Leafroller Moth",
-    "scientificName": "Choristoneura rosaceana",
-    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
-    "featuredPhoto": 135,
-    "photos": [135, 136]
-  },
-  {
-    "id": "cydia-marita",
-    "commonName": null,
-    "scientificName": "Cydia marita",
-    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
-    "featuredPhoto": 137,
-    "photos": [137]
-  },
-  {
-    "id": "manduca-sexta",
-    "commonName": "Carolina Sphinx",
-    "scientificName": "Manduca sexta",
-    "subgallery": "cae795cb-c066-41d2-9532-311abb18ea7a",
-    "featuredPhoto": 138,
-    "photos": [138]
-  },
-  {
-    "id": "pseudexentera-spoliana",
-    "commonName": "Bare-patched Leafroller",
-    "scientificName": "Pseudexentera spoliana",
-    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
-    "featuredPhoto": 139,
-    "photos": [139]
-  },
-  {
-    "id": "argyrotaenia-kimballi",
-    "commonName": "Kimball's Leafroller",
-    "scientificName": "Argyrotaenia kimballi",
-    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
-    "featuredPhoto": 140,
-    "photos": [140]
-  },
-  {
-    "id": "desmia-funeralis-or-maculalis",
-    "commonName": "",
-    "scientificName": "Desmia funeralis or maculalis",
-    "subgallery": "0dbcab98-d302-4a4c-a4a8-b77fdfaf56ca",
-    "featuredPhoto": 143,
-    "photos": [143]
-  },
-  {
-    "id": "dichomeris-ligulella",
-    "commonName": "Palmerworm Moth",
-    "scientificName": "Dichomeris ligulella",
-    "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
-    "featuredPhoto": 144,
-    "photos": [144]
-  },
-  {
-    "id": "probole-amicaria",
-    "commonName": "Friendly Probole",
-    "scientificName": "Probole amicaria",
-    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
-    "featuredPhoto": 145,
-    "photos": [145, 151]
-  },
-  {
-    "id": "eugnosta-erigeronana",
-    "commonName": "Fleabana Cochylid",
-    "scientificName": "Eugnosta erigeronana",
-    "subgallery": "5e0503ec-c351-4c44-bb34-da86c4c72ce8",
-    "featuredPhoto": 146,
-    "photos": [146]
-  },
-  {
-    "id": "platynota-semiustana",
-    "commonName": "Singed Platynota",
-    "scientificName": "Platynota semiustana",
-    "subgallery": "37664b69-06d5-4aef-96db-b35784c51bf9",
-    "featuredPhoto": 147,
-    "photos": [147]
-  },
-  {
-    "id": "gymnandrosoma-punctidiscanum",
-    "commonName": "Dotted Gymnast",
-    "scientificName": "Gymnandrosoma punctidiscanum",
-    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
-    "featuredPhoto": 148,
-    "photos": [148]
-  },
-  {
-    "id": "acronicta-betulae",
-    "commonName": "Birch Dagger",
-    "scientificName": "Acronicta betulae",
-    "subgallery": "2726a7b1-aa30-4c8a-816c-970977a6ae5a",
-    "featuredPhoto": 149,
-    "photos": [149]
-  },
-  {
-    "id": "monochroa-quinquepunctella",
-    "commonName": "Five-spotted Twirler",
-    "scientificName": "Monochroa quinquepunctella",
-    "subgallery": "4995e714-ecb6-4968-94d4-a62305c26713",
-    "featuredPhoto": 150,
-    "photos": [150]
-  },
-  {
-    "id": "pseudothyris-sepulchralis",
-    "commonName": "Mournful Thyris",
-    "scientificName": "Pseudothyris sepulchralis",
-    "subgallery": "a3317d62-b18a-438e-9769-7ac6e8f277b7",
-    "featuredPhoto": 152,
-    "photos": [152]
-  },
-  {
-    "id": "sciota-uvinella",
-    "commonName": "Sweetgum Leafroller",
-    "scientificName": "Sciota uvinella",
-    "subgallery": "e49504f1-5348-4bd3-a1cc-1476e811f622",
-    "featuredPhoto": 153,
-    "photos": [153]
-  },
-  {
-    "id": "nemoria-lixaria",
-    "commonName": "Red-bordered Emerald",
-    "scientificName": "Nemoria lixaria",
-    "subgallery": "1e0093d3-c398-45a6-84a3-1013d6f9b1a5",
-    "featuredPhoto": 154,
-    "photos": [154]
-  },
-  {
-    "id": "epiblema-scudderiana",
-    "commonName": "Scudder's Epiblema",
-    "scientificName": "Epiblema scudderiana",
-    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
-    "featuredPhoto": 155,
-    "photos": [155, 156]
-  },
-  {
-    "id": "promalactis-suzukiella",
-    "commonName": "Suzuki's Promalactis Moth",
-    "scientificName": "Promalactis suzukiella",
-    "subgallery": "19e57696-39a8-4516-bd57-51f64cd7778b",
-    "featuredPhoto": 157,
-    "photos": [157]
-  },
-  {
-    "id": "acleris-semipurpurana",
-    "commonName": "Oak Leafshredder",
-    "scientificName": "Acleris semipurpurana",
-    "subgallery": "a17d7fcd-a6f5-445e-a442-93cbe781bed6",
-    "featuredPhoto": 158,
-    "photos": [158, 159]
-  },
-  {
-    "id": "pandemis-limitata",
-    "commonName": "Three-lined Leafroller",
-    "scientificName": "Pandemis limitata",
-    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
-    "featuredPhoto": 160,
-    "photos": [160, 161]
-  },
-  {
-    "id": "archips-argyrospila",
-    "commonName": "Fruit-tree Leafroller",
-    "scientificName": "Archips argyrospila",
-    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
-    "featuredPhoto": 162,
-    "photos": [162, 163]
+    "id": "choephora-fungorum",
+    "commonName": "Bent-line Dart",
+    "scientificName": "Choephora fungorum",
+    "subgallery": "0892c2b9-36dc-464f-9669-6da9dd7f03a8",
+    "featuredPhoto": 78,
+    "photos": [78]
   }
 ]
