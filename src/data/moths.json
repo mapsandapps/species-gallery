@@ -48,6 +48,14 @@
     "photos": [181]
   },
   {
+    "id": "gerdana-caritella",
+    "commonName": "Gerdana Moth",
+    "scientificName": "Gerdana caritella",
+    "subgallery": "19e57696-39a8-4516-bd57-51f64cd7778b",
+    "featuredPhoto": 203,
+    "photos": [203]
+  },
+  {
     "id": "promalactis-suzukiella",
     "commonName": "Suzuki's Promalactis Moth",
     "scientificName": "Promalactis suzukiella",
@@ -606,6 +614,14 @@
     "subgallery": "f7e21bb9-991c-4685-8da7-88a1f5b68c5b",
     "featuredPhoto": 97,
     "photos": [97]
+  },
+  {
+    "id": "idia-aemulataria",
+    "commonName": "Common Idia",
+    "scientificName": "Idia aemulataria",
+    "subgallery": "1089c9b2-4aa4-4c07-a67f-9f9f8b7c168c",
+    "featuredPhoto": 204,
+    "photos": [204]
   },
   {
     "id": "hypena-baltimoralis",

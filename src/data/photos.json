@@ -3736,5 +3736,125 @@
       "county": "Fulton",
       "date": "2019-05-18"
     }
+  },
+  {
+    "id": 199,
+    "filename": "47975142302_74d5baa9a3_o.jpg",
+    "flickr": "",
+    "species": "phyciodes-tharos",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-29"
+    }
+  },
+  {
+    "id": 200,
+    "filename": "47975239586_3713e16b36_o.jpg",
+    "flickr": "",
+    "species": "vanessa-virginiensis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Atlanta Botanical Garden",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-29"
+    }
+  },
+  {
+    "id": 201,
+    "filename": "47975187707_5f6360a7c6_o.jpg",
+    "flickr": "",
+    "species": "vanessa-virginiensis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Atlanta Botanical Garden",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-29"
+    }
+  },
+  {
+    "id": 202,
+    "filename": "47877948501_ce8d0a5791_o.jpg",
+    "flickr": "",
+    "species": "junonia-coenia",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-29"
+    }
+  },
+  {
+    "id": 203,
+    "filename": "47799845181_f878cf8c1a_o.jpg",
+    "flickr": "",
+    "species": "gerdana-caritella",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-05"
+    }
+  },
+  {
+    "id": 204,
+    "filename": "46949574485_c209b11194_o.jpg",
+    "flickr": "",
+    "species": "idia-aemulataria",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-16"
+    }
   }
 ]

@@ -85,8 +85,8 @@
     "scientificName": "Phyciodes tharos",
     "commonality": "Common",
     "subgallery": "98d59eb8-aeb1-4689-b0dd-859e40df27a7",
-    "featuredPhoto": 122,
-    "photos": [122, 118]
+    "featuredPhoto": 199,
+    "photos": [122, 118, 199]
   },
   {
     "id": "polygonia-interrogationis",
@@ -103,8 +103,8 @@
     "scientificName": "Vanessa virginiensis",
     "commonality": "Common",
     "subgallery": "98d59eb8-aeb1-4689-b0dd-859e40df27a7",
-    "featuredPhoto": 121,
-    "photos": [121]
+    "featuredPhoto": 200,
+    "photos": [121, 200, 201]
   },
   {
     "id": "junonia-coenia",
@@ -113,7 +113,7 @@
     "commonality": "Abundant",
     "subgallery": "98d59eb8-aeb1-4689-b0dd-859e40df27a7",
     "featuredPhoto": 117,
-    "photos": [117]
+    "photos": [117, 202]
   },
   {
     "id": "limenitis-arthemis",
