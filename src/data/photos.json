@@ -1979,6 +1979,26 @@
     }
   },
   {
+    "id": 110,
+    "filename": "34000692148_49c01a3a0b_o.jpg",
+    "flickr": "",
+    "species": "lerema-accius",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Chattahoochee Nature Center",
+      "city": "Roswell",
+      "county": "Fulton",
+      "date": "2019-05-18"
+    }
+  },
+  {
     "id": 111,
     "filename": "horace's duskywing.jpg",
     "flickr": "",
@@ -3219,7 +3239,7 @@
   },
   {
     "id": 174,
-    "filename.jpg": "47877948501_ce8d0a5791_o",
+    "filename": "47877948501_ce8d0a5791_o.jpg",
     "flickr": "",
     "species": "euptoieta-claudia",
     "caption": null,

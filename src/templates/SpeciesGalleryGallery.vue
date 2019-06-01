@@ -1,6 +1,6 @@
 <template>
   <Layout class="gallery">
-    <h1>{{ $page.speciesGalleryGallery.name }}</h1>
+    <h1 class="gallery-title">{{ $page.speciesGalleryGallery.name }}</h1>
     <div
       v-for="subgallery in $page.speciesGalleryGallery.belongsTo.edges"
       :key="subgallery.node.id">
@@ -93,7 +93,7 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
 .gallery {
   text-align: center;
   padding-bottom: 100px;
@@ -103,8 +103,34 @@ export default {
   .subgallery-photos {
     justify-content: center;
     display: grid;
-    grid-gap: 5px;
+    grid-gap: 0px;
     grid-template-columns: repeat(auto-fill, minmax(50px, 332px));
+  }
+}
+
+@media (max-width: 440px) {
+  .gallery {
+    .gallery-title {
+      font-size: 40px;
+    }
+    .subgallery {
+      margin-bottom: 32px;
+      h2 {
+        font-size: 24px;
+        margin: 16px 0px;
+      }
+    }
+  }
+}
+
+@media (max-width: 702px) {
+  .gallery {
+    .subgallery-photos {
+      grid-template-columns: repeat(auto-fill, minmax(50px, calc(50vw - 16px)));
+      a {
+        max-width: calc(50vw - 16px);
+      }
+    }
   }
 }
 </style>

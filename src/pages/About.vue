@@ -19,3 +19,11 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+@media (max-width: 440px) {
+  h1 {
+    font-size: 48px;
+  }
+}
+</style>

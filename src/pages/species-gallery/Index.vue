@@ -70,16 +70,44 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
 .species-gallery-container {
   text-align: center;
   justify-content: center;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(50px, 482px));
+  grid-template-columns: repeat(auto-fill, minmax(50px, 562px));
   .species-gallery {
     max-width: 450px;
     display: inline-block;
     padding: 16px;
+  }
+}
+
+@media(max-width: 594px) {
+  .species-gallery-container {
+    grid-template-columns: repeat(auto-fill, minmax(50px, calc(100vw - 32px)));
+    .species-gallery {
+      max-width: calc(100vw - 32px);
+      margin: 16px 0px;
+      img {
+        width: calc(100vw - 64px);
+      }
+      h2 {
+        margin-top: 0px;
+        margin-bottom: 16px;
+      }
+    }
+  }
+}
+
+@media (max-width: 440px) {
+  .species-gallery-container {
+    .species-gallery {
+      h2 {
+        font-size: 32px;
+        margin-bottom: 0px;
+      }
+    }
   }
 }
 </style>

@@ -59,4 +59,23 @@ export default {
     font-size: 18px;
   }
 }
+
+@media (max-width: 702px) {
+  .species-gallery-entry {
+    img {
+      max-width: calc(50vw - 48px);
+    }
+  }
+}
+
+@media (max-width: 440px) {
+  .species-gallery-entry {
+    .common-name {
+      font-size: 18px;
+    }
+    .scientific-name {
+      font-size: 14px;
+    }
+  }
+}
 </style>

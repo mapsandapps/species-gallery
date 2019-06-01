@@ -14,7 +14,7 @@
         :photo="photo"
         size=800 />
       <figcaption>
-        {{ photo.annotations.sex }} {{ photo.annotations.stage }}, {{ photo.captureInfo.city }}, {{ photo.captureInfo.state }}, {{ photo.captureInfo.date }}
+        {{ photo.captureInfo.city }}, {{ moment(photo.captureInfo.date).format('YYYY') }}
       </figcaption>
     </figure>
   </div>
@@ -51,12 +51,16 @@ query Species($id: String!) {
 
 <script>
 import _ from 'lodash'
+import moment from 'moment'
 
 import Photo from '~/components/Photo'
 
 export default {
   components: {
     Photo
+  },
+  methods: {
+    moment
   },
   metaInfo() {
     this.$route.meta.breadcrumbs = [
@@ -89,10 +93,35 @@ export default {
 
 .species {
   text-align: center;
+  figure {
+    padding: 0px;
+    margin: 0px 0px 32px;
+    &:hover {
+      background-color: transparent;
+      figcaption {
+        text-decoration: none;
+      }
+    }
+  }
   figcaption {
     font-weight: $book-weight;
     font-size: 30px;
     color: $purple-100;
+  }
+}
+
+@media (max-width: 440px) {
+  .species {
+    h1 {
+      font-size: 40px
+    }
+    h2 {
+      margin: 16px 0px;
+      font-size: 24px;
+    }
+    figcaption {
+      font-size: 24px;
+    }
   }
 }
 </style>

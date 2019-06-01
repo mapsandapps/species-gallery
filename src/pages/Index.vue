@@ -75,7 +75,7 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
 @import '../styles/variables';
 
 .main-page {
@@ -94,6 +94,20 @@ export default {
   figure {
     padding: 32px;
     margin: 16px 0px 32px;
+  }
+}
+
+@media (max-width: 440px) {
+  .main-page {
+    figure {
+      padding: 16px;
+    }
+    h1 {
+      font-size: 32px;
+    }
+    img {
+      max-width: calc(100vw - 64px);
+    }
   }
 }
 </style>

@@ -7,7 +7,7 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "gridsome": "^0.6.1"
+    "gridsome": "^0.6.3"
   },
   "devDependencies": {
     "lodash": "^4.17.11",

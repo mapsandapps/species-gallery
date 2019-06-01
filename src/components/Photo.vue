@@ -1,6 +1,6 @@
 <template>
-<div>
-  <img :src="src" :class="size">
+<div :class="`size-${size}`">
+  <img :src="src">
 </div>
 </template>
 
@@ -29,5 +29,19 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
+@media (max-width: 440px) {
+  .size-800 {
+    max-width: calc(100vw - 64px);
+    img {
+      max-width: calc(100vw - 64px);
+    }
+    .species & {
+      max-width: calc(100vw - 32px);
+      img {
+        max-width: calc(100vw - 32px);
+      }
+    }
+  }
+}
 </style>

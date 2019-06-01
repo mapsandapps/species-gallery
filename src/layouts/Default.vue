@@ -41,6 +41,14 @@ query {
 import _ from 'lodash'
 
 export default {
+  metaInfo: {
+    meta: [
+      {
+        name: 'viewport',
+        content: 'width=device-width, initial-scale=1'
+      }
+    ]
+  },
   components: {
   },
   data() {
@@ -124,6 +132,14 @@ h2 {
   .title {
     text-decoration: none;
     font-size: 36px;
+  }
+}
+
+@media (max-width: 440px) {
+  .header {
+    .title {
+      font-size: 20px;
+    }
   }
 }
 
