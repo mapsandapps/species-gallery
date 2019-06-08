@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="67px" viewBox="0 0 50 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Species" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-3" transform="translate(-498.000000, -459.000000)" fill="#4B2075" fill-rule="nonzero">
+            <g id="Tooltip-Copy" transform="translate(440.000000, 401.000000)">
+                <path d="M83,58 C69.1852865,58 58,69.1997396 58,83 C58,92.260026 61.1238281,95.153776 77.6967448,121.727083 C80.1427083,125.648828 85.860026,125.644141 88.303125,121.727083 C104.884766,95.1398437 108,92.2582031 108,83 C108,69.1852865 96.8002604,58 83,58 Z M83,118.416667 C66.4083333,91.8132812 64.25,90.1338542 64.25,83 C64.25,72.6446615 72.6446615,64.25 83,64.25 C93.3553385,64.25 101.75,72.6446615 101.75,83 C101.75,90.1032552 99.7752604,91.5188802 83,118.416667 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

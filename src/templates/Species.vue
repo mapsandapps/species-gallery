@@ -12,9 +12,13 @@
       <Photo
         v-if="photo"
         :photo="photo"
+        :showingTooltip="tooltipShown(photo.id)"
         size=800 />
       <figcaption>
         {{ photo.captureInfo.city }}, {{ moment(photo.captureInfo.date).format('YYYY') }}
+        <img
+          v-on:click="toggleTooltip(photo)"
+          src="../../static/icons/info-circle.svg" />
       </figcaption>
     </figure>
   </div>
@@ -39,6 +43,7 @@ query Species($id: String!) {
       }
       captureInfo {
         photographer
+        truthInCaptioning
         location
         city
         county
@@ -59,8 +64,23 @@ export default {
   components: {
     Photo
   },
+  data() {
+    return {
+      showingTooltip: false
+    }
+  },
   methods: {
-    moment
+    moment,
+    tooltipShown(id) {
+      return this.showingTooltip === id
+    },
+    toggleTooltip(photo) {
+      if (this.showingTooltip) {
+        this.showingTooltip = false
+      } else {
+        this.showingTooltip = photo.id
+      }
+    }
   },
   metaInfo() {
     this.$route.meta.breadcrumbs = [
@@ -107,6 +127,25 @@ export default {
     font-weight: $book-weight;
     font-size: 30px;
     color: $purple-100;
+    width: 800px;
+    max-width: calc(100vw - 64px);
+    margin: 0 auto;
+    img {
+      cursor: pointer;
+      position: absolute;
+      margin-top: 7px;
+      right: calc((100vw - 800px) / 2);
+    }
+  }
+}
+
+@media (max-width: 864px) {
+  .species {
+    figcaption {
+      img {
+        right: 16px;
+      }
+    }
   }
 }
 
@@ -121,6 +160,10 @@ export default {
     }
     figcaption {
       font-size: 24px;
+      img {
+        height: 24px;
+        margin-top: 6px;
+      }
     }
   }
 }
