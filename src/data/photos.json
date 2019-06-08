@@ -752,8 +752,7 @@
   },
   {
     "id": 44,
-    "filename": "46802355961_db4fafce14_o.jpg",
-    "flickr": "46802355961",
+    "filename": "IMG_6271.jpg",
     "species": "iridopsis-defectaria",
     "annotations": {
       "stage": "adult",
@@ -766,7 +765,7 @@
       "location": "Virginia Highland",
       "city": "Atlanta",
       "county": "Fulton",
-      "date": "2019-01-18"
+      "date": "2019-06-07"
     }
   },
   {
@@ -3855,6 +3854,266 @@
       "city": "Atlanta",
       "county": "Fulton",
       "date": "2019-05-16"
+    }
+  },
+  {
+    "id": 205,
+    "filename": "47975248038_6c9f772b42_o.jpg",
+    "flickr": "",
+    "species": "hymenia-perspectalis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-29"
+    }
+  },
+  {
+    "id": 206,
+    "filename": "47975266536_e93d9fdd8e_o.jpg",
+    "flickr": "",
+    "species": "cydia-toreuta",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-31"
+    }
+  },
+  {
+    "id": 207,
+    "filename": "47982319208_f21285836b_o.jpg",
+    "flickr": "",
+    "species": "scopula-limboundata",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Chattahoochee River National Recreation Area: Island Ford unit",
+      "city": "Sandy Springs",
+      "county": "Fulton",
+      "date": "2019-06-01"
+    }
+  },
+  {
+    "id": 208,
+    "filename": "IMG_6204.jpg",
+    "flickr": "",
+    "species": "feltia-subterranea",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-06-03"
+    }
+  },
+  {
+    "id": 209,
+    "filename": "IMG_6214.jpg",
+    "flickr": "",
+    "species": "feltia-subterranea",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-06-03"
+    }
+  },
+  {
+    "id": 210,
+    "filename": "47975101117_da0c5861bc_o.jpg",
+    "flickr": "",
+    "species": "anomis-erosa",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-29"
+    }
+  },
+  {
+    "id": 211,
+    "filename": "47975095528_2db5b9d97e_o.jpg",
+    "flickr": "",
+    "species": "cosmia-calami",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-29"
+    }
+  },
+  {
+    "id": 212,
+    "filename": "47975136578_4aeccdbc66_o.jpg",
+    "flickr": "",
+    "species": "cosmia-calami",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-29"
+    }
+  },
+  {
+    "id": 213,
+    "filename": "47975138893_96a66258b4_o.jpg",
+    "flickr": "",
+    "species": "cosmia-calami",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-29"
+    }
+  },
+  {
+    "id": 214,
+    "filename": "patalene-olyzonaria.jpg",
+    "flickr": "",
+    "species": "patalene-olyzonaria",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Midtown",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-08"
+    }
+  },
+  {
+    "id": 215,
+    "filename": "33822999628_fae15324de_o.jpg",
+    "flickr": "",
+    "species": "clepsis-virescana",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-24"
+    }
+  },
+  {
+    "id": 216,
+    "filename": "33890836178_745d156212_o.jpg",
+    "flickr": "",
+    "species": "larisa-subsolana",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-04-24"
+    }
+  },
+  {
+    "id": 217,
+    "filename": "47975111527_007c363b6b_o.jpg",
+    "flickr": "",
+    "species": "cisseps-fulvicollis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
+      "location": "Virginia Highland",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-05-29"
     }
   }
 ]

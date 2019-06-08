@@ -200,6 +200,14 @@
     "photos": [84]
   },
   {
+    "id": "clepsis-virescana",
+    "commonName": "Greenish Apple Moth",
+    "scientificName": "Clepsis virescana",
+    "subgallery": "a01fab10-70ed-41d8-9e88-3cefc6a15b28",
+    "featuredPhoto": 215,
+    "photos": [215]
+  },
+  {
     "id": "sparganothoides-lentiginosana",
     "commonName": "Lentiginos Moth",
     "scientificName": "Sparganothoides lentiginosana",
@@ -280,12 +288,28 @@
     "photos": [25]
   },
   {
+    "id": "larisa-subsolana",
+    "commonName": "Dark-based Larisa",
+    "scientificName": "Larisa subsolana",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 216,
+    "photos": [216]
+  },
+  {
     "id": "cydia-caryana",
     "commonName": "Hickory Shuckworm Moth",
     "scientificName": "Cydia caryana",
     "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
     "featuredPhoto": 104,
     "photos": [104]
+  },
+  {
+    "id": "cydia-toreuta",
+    "commonName": "Eastern Pine Seedworm",
+    "scientificName": "Cydia toreuta",
+    "subgallery": "a63a8403-4de5-4aec-a9ba-29de07f7a3c9",
+    "featuredPhoto": 206,
+    "photos": [206]
   },
   {
     "id": "cydia-marita",
@@ -366,6 +390,14 @@
     "subgallery": "0dbcab98-d302-4a4c-a4a8-b77fdfaf56ca",
     "featuredPhoto": 92,
     "photos": [92, 93]
+  },
+  {
+    "id": "hymenia-perspectalis",
+    "commonName": "Spotted Beet Webworm",
+    "scientificName": "Hymenia perspectalis",
+    "subgallery": "0dbcab98-d302-4a4c-a4a8-b77fdfaf56ca",
+    "featuredPhoto": 205,
+    "photos": [105]
   },
   {
     "id": "desmia-funeralis-or-maculalis",
@@ -472,6 +504,14 @@
     "photos": [73, 105]
   },
   {
+    "id": "scopula-limboundata",
+    "commonName": "Large Lace-Border",
+    "scientificName": "Scopula limboundata",
+    "subgallery": "179453b6-cb92-4bc5-a57b-83e590b5350b",
+    "featuredPhoto": 207,
+    "photos": [207]
+  },
+  {
     "id": "nemoria-lixaria",
     "commonName": "Red-bordered Emerald",
     "scientificName": "Nemoria lixaria",
@@ -576,6 +616,14 @@
     "photos": [145, 151]
   },
   {
+    "id": "patalene-olyzonaria",
+    "commonName": "Juniper-twig Geometer",
+    "scientificName": "Patalene olyzonaria",
+    "subgallery": "0d2a94b4-222e-4c23-aaff-d340cf10ed18",
+    "featuredPhoto": 214,
+    "photos": [214]
+  },
+  {
     "id": "niphonyx-segregata",
     "commonName": "Hops Angleshade",
     "scientificName": "Niphonyx segregata",
@@ -613,7 +661,7 @@
     "scientificName": "Cisseps fulvicollis",
     "subgallery": "f7e21bb9-991c-4685-8da7-88a1f5b68c5b",
     "featuredPhoto": 97,
-    "photos": [97]
+    "photos": [97, 217]
   },
   {
     "id": "idia-aemulataria",
@@ -638,6 +686,14 @@
     "subgallery": "5def0e08-61d3-448b-9012-28758b825af0",
     "featuredPhoto": 55,
     "photos": [55]
+  },
+  {
+    "id": "anomis-erosa",
+    "commonName": "Yellow Scallop Moth",
+    "scientificName": "Anomis erosa",
+    "subgallery": "170dbbf6-d756-4ffa-a165-67a819a4b1b3",
+    "featuredPhoto": 210,
+    "photos": [210]
   },
   {
     "id": "phoberia-atomaris",
@@ -712,6 +768,14 @@
     "photos": [178, 63]
   },
   {
+    "id": "cosmia-calami",
+    "commonName": "American Dun-bar",
+    "scientificName": "Cosmia calami",
+    "subgallery": "9b6b26e1-8ebf-431c-9069-d37614201a31",
+    "featuredPhoto": 211,
+    "photos": [211, 212, 213]
+  },
+  {
     "id": "achatia-distincta",
     "commonName": "Distinct Quaker",
     "scientificName": "Achatia distincta",
@@ -734,6 +798,14 @@
     "subgallery": "72e77a42-0dc9-4bdf-b88d-cca96d1e9751",
     "featuredPhoto": 142,
     "photos": [142, 141, 77]
+  },
+  {
+    "id": "feltia-subterranea",
+    "commonName": "Subterranean Dart",
+    "scientificName": "Feltia subterranea",
+    "subgallery": "0892c2b9-36dc-464f-9669-6da9dd7f03a8",
+    "featuredPhoto": 209,
+    "photos": [208, 209]
   },
   {
     "id": "agrotis-ipsilon",
