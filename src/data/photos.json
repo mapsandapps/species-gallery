@@ -20,7 +20,7 @@
   },
   {
     "id": 3,
-    "url": "/bird-photos/Melanerpes-erythrocephalus.jpg",
+    "filename": "Melanerpes-erythrocephalus.jpg",
     "species": "melanerpes-erythrocephalus",
     "annotations": {
       "stage": "adult",
@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "url": "/bird-photos/Melanerpes-carolinus.jpg",
+    "filename": "Melanerpes-carolinus.jpg",
     "species": "melanerpes-carolinus",
     "annotations": {
       "stage": null,
@@ -54,7 +54,7 @@
   },
   {
     "id": 5,
-    "url": "/bird-photos/Melanerpes-carolinus-2.jpg",
+    "filename": "Melanerpes-carolinus-2.jpg",
     "species": "melanerpes-carolinus",
     "annotations": {
       "stage": null,
@@ -71,7 +71,7 @@
   },
   {
     "id": 6,
-    "url": "/bird-photos/Sphyrapicus-varius.jpg",
+    "filename": "Sphyrapicus-varius.jpg",
     "species": "sphyrapicus-varius",
     "annotations": {
       "stage": "adult",
@@ -88,7 +88,7 @@
   },
   {
     "id": 7,
-    "url": "/bird-photos/Sphyrapicus-varius-2.jpg",
+    "filename": "Sphyrapicus-varius-2.jpg",
     "species": "sphyrapicus-varius",
     "annotations": {
       "stage": "immature",
@@ -105,7 +105,7 @@
   },
   {
     "id": 8,
-    "url": "/bird-photos/Sphyrapicus-varius-3.jpg",
+    "filename": "Sphyrapicus-varius-3.jpg",
     "species": "sphyrapicus-varius",
     "annotations": {
       "stage": "immature",
@@ -122,7 +122,7 @@
   },
   {
     "id": 9,
-    "url": "/bird-photos/Picoides-pubescens.jpg",
+    "filename": "Picoides-pubescens.jpg",
     "species": "picoides-pubescens",
     "annotations": {
       "stage": null,
@@ -139,7 +139,7 @@
   },
   {
     "id": 10,
-    "url": "/bird-photos/Picoides-pubescens-2.jpg",
+    "filename": "Picoides-pubescens-2.jpg",
     "species": "picoides-pubescens",
     "annotations": {
       "stage": "adult",
@@ -156,7 +156,7 @@
   },
   {
     "id": 11,
-    "url": "/bird-photos/Picoides-villosus-2.jpg",
+    "filename": "Picoides-villosus-2.jpg",
     "species": "picoides-villosus",
     "annotations": {
       "stage": null,
@@ -173,7 +173,7 @@
   },
   {
     "id": 12,
-    "url": "/bird-photos/Picoides-villosus.jpg",
+    "filename": "Picoides-villosus.jpg",
     "species": "picoides-villosus",
     "annotations": {
       "stage": null,
@@ -190,7 +190,7 @@
   },
   {
     "id": 13,
-    "url": "/bird-photos/Colaptes-auratus.jpg",
+    "filename": "Colaptes-auratus.jpg",
     "species": "colaptes-auratus",
     "annotations": {
       "stage": null,
@@ -207,7 +207,7 @@
   },
   {
     "id": 14,
-    "url": "/bird-photos/Drycopus-pileatus.jpg",
+    "filename": "Drycopus-pileatus.jpg",
     "species": "drycopus-pileatus",
     "annotations": {
       "stage": null,
@@ -224,7 +224,7 @@
   },
   {
     "id": 15,
-    "url": "/bird-photos/Drycopus-pileatus-2.jpg",
+    "filename": "Drycopus-pileatus-2.jpg",
     "species": "drycopus-pileatus",
     "annotations": {
       "stage": null,
@@ -1893,7 +1893,7 @@
       "truthInCaptioning": "Attracted via UV lighting, captured, photographed, and released",
       "location": "Virginia Highland",
       "city": "Atlanta",
-      "county": "Fultoon",
+      "county": "Fulton",
       "date": "2019-04-13"
     }
   },
@@ -4114,6 +4114,699 @@
       "city": "Atlanta",
       "county": "Fulton",
       "date": "2019-05-29"
+    }
+  },
+  {
+    "id": 218,
+    "filename": "37795106794_afd98a2c23_o.jpg",
+    "flickr": "",
+    "species": "anser-rossii",
+    "caption": null,
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2017-11-17"
+    }
+  },
+  {
+    "id": 219,
+    "filename": "37795107904_6ba26dea06_o.jpg",
+    "flickr": "",
+    "species": "anser-rossii",
+    "caption": null,
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2017-11-17"
+    }
+  },
+  {
+    "id": 220,
+    "filename": "45622411844_654f364ee6_o.jpg",
+    "flickr": "",
+    "species": "branta-canadensis",
+    "caption": null,
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Shorty Howell Park",
+      "city": null,
+      "county": "Gwinnett",
+      "date": "2018-12-15"
+    }
+  },
+  {
+    "id": 221,
+    "filename": "37473651116_365cd59afb_o.jpg",
+    "flickr": "",
+    "species": "anser-albifrons",
+    "caption": null,
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Lullwater Preserve",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2017-04-09"
+    }
+  },
+  {
+    "id": 222,
+    "filename": "33950402211_bc669c6cab_o.jpg",
+    "flickr": "",
+    "species": "aix-sponsa",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": "breeding",
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Clyde Shepherd",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2017-04-16"
+    }
+  },
+  {
+    "id": 223,
+    "filename": "46851475015_7a816df3f2_o.jpg",
+    "flickr": "",
+    "species": "aix-sponsa",
+    "caption": "Female with ducklings",
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Clyde Shepherd",
+      "city": null,
+      "county": "DeKalb",
+      "date": "2017-04-16"
+    }
+  },
+  {
+    "id": 224,
+    "filename": "544A0550.jpg",
+    "flickr": null,
+    "species": "mareca-strepera",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Rogers Bridge Trail",
+      "city": "Johns Creek",
+      "county": "Fulton",
+      "date": "2018-12-29"
+    }
+  },
+  {
+    "id": 225,
+    "filename": "544A0683.jpg",
+    "flickr": null,
+    "species": "mareca-strepera",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Rogers Bridge Trail",
+      "city": "Johns Creek",
+      "county": "Fulton",
+      "date": "2018-12-29"
+    }
+  },
+  {
+    "id": 226,
+    "filename": "544A0476.jpg",
+    "flickr": "",
+    "species": "mareca-americana",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Rogers Bridge Trail",
+      "city": "Johns Creek",
+      "county": "Fulton",
+      "date": "2018-12-29"
+    }
+  },
+  {
+    "id": 227,
+    "filename": "32667928268_bf43c2e5f2_o.jpg",
+    "flickr": "",
+    "species": "mareca-americana",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Rogers Bridge Trail",
+      "city": "Johns Creek",
+      "county": "Fulton",
+      "date": "2018-12-29"
+    }
+  },
+  {
+    "id": 228,
+    "filename": "40249243113_6ca8198a20_o.jpg",
+    "flickr": "",
+    "species": "anas-platyrhynchos",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-24"
+    }
+  },
+  {
+    "id": 229,
+    "filename": "33338559568_02a9ce83a2_o.jpg",
+    "flickr": "",
+    "species": "anas-platyrhynchos",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-24"
+    }
+  },
+  {
+    "id": 230,
+    "filename": "27754364938_ae8266ee6d_o.jpg",
+    "flickr": "",
+    "species": "anas-platyrhynchos",
+    "caption": "Female with young",
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-04-20"
+    }
+  },
+  {
+    "id": 231,
+    "filename": "39137677754_1c812427db_o.jpg",
+    "flickr": "",
+    "species": "spatula-discors",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Pine Lake",
+      "city": "Pine Lake",
+      "county": "DeKalb",
+      "date": "2018-01-20"
+    }
+  },
+  {
+    "id": 232,
+    "filename": "40906327102_fc46e0b8ef_o.jpg",
+    "flickr": "",
+    "species": "spatula-discors",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-03-21"
+    }
+  },
+  {
+    "id": 233,
+    "filename": "44994011931_d956252dd1_o.jpg",
+    "flickr": "",
+    "species": "spatula-cypeata",
+    "caption": "Female or immature",
+    "annotations": {
+      "stage": null,
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-09-29"
+    }
+  },
+  {
+    "id": 234,
+    "filename": "37474220976_2e629253b1_o.jpg",
+    "flickr": "",
+    "species": "anas-acuta",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Morgan Falls River Park",
+      "city": "Sandy Springs",
+      "county": "Fulton",
+      "date": "2017-03-04"
+    }
+  },
+  {
+    "id": 235,
+    "filename": "47035475542_84129ff1a5_o (1).jpg",
+    "flickr": "",
+    "species": "athya-valisineria",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Former United Methodist Children's Home",
+      "city": "Decatur",
+      "county": "DeKalb",
+      "date": "2019-02-13"
+    }
+  },
+  {
+    "id": 236,
+    "filename": "40122871433_74e0b404c6_o (1).jpg",
+    "flickr": "",
+    "species": "athya-valisineria",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Former United Methodist Children's Home",
+      "city": "Decatur",
+      "county": "DeKalb",
+      "date": "2019-02-13"
+    }
+  },
+  {
+    "id": 237,
+    "filename": "39322792291_920d99885d_o.jpg",
+    "flickr": "",
+    "species": "athya-valisineria",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2017-12-26"
+    }
+  },
+  {
+    "id": 238,
+    "filename": "40239562444_861f6e849f_o.jpg",
+    "flickr": "",
+    "species": "aythya-americana",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2018-03-21"
+    }
+  },
+  {
+    "id": 239,
+    "filename": "544A0487.jpg",
+    "flickr": "",
+    "species": "aythya-americana",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Rogers Bridge Trail",
+      "city": "Johns Creek",
+      "county": "Fulton",
+      "date": "2018-12-29"
+    }
+  },
+  {
+    "id": 240,
+    "filename": "46964999951_12d2e79bdb_o.jpg",
+    "flickr": "",
+    "species": "aythya-collaris",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-02"
+    }
+  },
+  {
+    "id": 241,
+    "filename": "46913096612_bc11d9075d_o.jpg",
+    "flickr": "",
+    "species": "aythya-collaris",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-02"
+    }
+  },
+  {
+    "id": 242,
+    "filename": "40175434813_610d3c87c5_o.jpg",
+    "flickr": "",
+    "species": "aythya-affinis",
+    "caption": "Male and female",
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": null
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Rogers Bridge Trail",
+      "city": "Johns Creek",
+      "county": "Fulton",
+      "date": "2019-02-18"
+    }
+  },
+  {
+    "id": 243,
+    "filename": "32271861757_8380983d2a_o.jpg",
+    "flickr": "",
+    "species": "bucephala-albeola",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Piedmont Park",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "date": "2019-02-24"
+    }
+  },
+  {
+    "id": 244,
+    "filename": "544A0527.jpg",
+    "flickr": "",
+    "species": "bucephala-albeola",
+    "caption": "Females",
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Rogers Bridge Trail",
+      "city": "Johns Creek",
+      "county": "Fulton",
+      "date": "2018-12-29"
+    }
+  },
+  {
+    "id": 245,
+    "filename": "45368542335_3b4939d3fd_o.jpg",
+    "flickr": "",
+    "species": "lophodytes-cucullatus",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": null,
+      "city": "Dunwoody",
+      "county": "Fulton",
+      "date": "2018-12-11"
+    }
+  },
+  {
+    "id": 246,
+    "filename": "44464380090_05bf32e3ba_o.jpg",
+    "flickr": "",
+    "species": "lophodytes-cucullatus",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": null,
+      "city": "Dunwoody",
+      "county": "Fulton",
+      "date": "2018-12-11"
+    }
+  },
+  {
+    "id": 247,
+    "filename": "31406476607_623727a60c_o.jpg",
+    "flickr": "",
+    "species": "lophodytes-cucullatus",
+    "caption": "1st year male",
+    "annotations": {
+      "stage": "1st year",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Shorty Howell Park",
+      "city": null,
+      "county": "Gwinnett",
+      "date": "2018-12-15"
+    }
+  },
+  {
+    "id": 248,
+    "filename": "45622434144_23873ebce1_o.jpg",
+    "flickr": "",
+    "species": "lophodytes-cucullatus",
+    "caption": "Male courtship display",
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Shorty Howell Park",
+      "city": null,
+      "county": "Gwinnett",
+      "date": "2018-12-15"
+    }
+  },
+  {
+    "id": 249,
+    "filename": "37908711615_0a60b9f0d9_o.jpg",
+    "flickr": "",
+    "species": "oxyura-jamaicnsis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "female"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Murphey Candler Park",
+      "city": "Brookhaven",
+      "county": "DeKalb",
+      "date": "2017-12-02"
+    }
+  },
+  {
+    "id": 250,
+    "filename": "23930002297_165558390f_o.jpg",
+    "flickr": "",
+    "species": "oxyura-jamaicnsis",
+    "caption": null,
+    "annotations": {
+      "stage": "adult",
+      "plumage": null,
+      "sex": "male"
+    },
+    "captureInfo": {
+      "photographer": "Shawn Taylor",
+      "copyright": null,
+      "truthInCaptioning": "In situ",
+      "location": "Murphey Candler Park",
+      "city": "Brookhaven",
+      "county": "DeKalb",
+      "date": "2017-12-02"
     }
   }
 ]

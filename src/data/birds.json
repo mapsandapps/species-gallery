@@ -1,5 +1,158 @@
 [
   {
+    "id": "anser-rossii",
+    "commonName": "Ross's Goose",
+    "scientificName": "Anser rossii",
+    "commonality": "Accidental occurrence only",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 218,
+    "photos": [218, 219]
+  },
+  {
+    "id": "branta-canadensis",
+    "commonName": "Canada Goose",
+    "scientificName": "Branta canadensis",
+    "commonality": "Abundant year-round",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 220,
+    "photos": [220]
+  },
+  {
+    "id": "anser-albifrons",
+    "commonName": "Greater White-fronted Goose",
+    "scientificName": "Anser albifrons",
+    "commonality": "Rare in spring and winter; not present in summer and fall",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 221,
+    "photos": [221]
+  },
+  {
+    "id": "aix-sponsa",
+    "commonName": "Wood Duck",
+    "scientificName": "Aix sponsa",
+    "commonality": "Common spring, summer, and fall; uncommon in winter",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 223,
+    "photos": [222, 223]
+  },
+  {
+    "id": "mareca-strepera",
+    "commonName": "Gadwall",
+    "scientificName": "Mareca strepera",
+    "commonality": "Uncommon in fall, winter, and spring; not present in summer",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 224,
+    "photos": [224, 225]
+  },
+  {
+    "id": "mareca-americana",
+    "commonName": "American Wigeon",
+    "scientificName": "Mareca americana",
+    "commonality": "Rare in fall, winter, and spring; not present in summer",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 227,
+    "photos": [226, 227]
+  },
+  {
+    "id": "anas-platyrhynchos",
+    "commonName": "Mallard",
+    "scientificName": "Anas platyrhynchos",
+    "commonality": "Abundant year-round",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 228,
+    "photos": [228, 229, 230]
+  },
+  {
+    "id": "spatula-discors",
+    "commonName": "Blue-winged Teal",
+    "scientificName": "Spatula discors",
+    "commonality": "Uncommon in fall, winter, and spring; rare in summer",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 231,
+    "photos": [231, 232]
+  },
+  {
+    "id": "spatula-clypeata",
+    "commonName": "Northern Shoveler",
+    "scientificName": "Spatula clypeata",
+    "commonality": "Uncommon in fall, winter, and spring; rare in summer",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 233,
+    "photos": [233]
+  },
+  {
+    "id": "anas-acuta",
+    "commonName": "Northern Pintail",
+    "scientificName": "Anas acuta",
+    "commonality": "Rare in fall, winter, and spring; not present in summer",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 234,
+    "photos": [234]
+  },
+  {
+    "id": "athya-valisineria",
+    "commonName": "Canvasback",
+    "scientificName": "Athya valisineria",
+    "commonality": "Uncommon in winter; rare in fall; not present in summer and spring",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 235,
+    "photos": [235, 236, 237]
+  },
+  {
+    "id": "aythya-americana",
+    "commonName": "Redhead",
+    "scientificName": "Aythya americana",
+    "commonality": "Uncommon in winter; rare in spring and summer; not present in fall",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 238,
+    "photos": [238, 239]
+  },
+  {
+    "id": "aythya-collaris",
+    "commonName": "Ring-necked Duck",
+    "scientificName": "Aythya collaris",
+    "commonality": "Common in winter; uncommon in spring and fall, rare in summer",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 240,
+    "photos": [240, 241]
+  },
+  {
+    "id": "aythya-affinis",
+    "commonName": "Lesser Scaup",
+    "scientificName": "Aythya affinis",
+    "commonality": "Uncommon in winter and spring; rare in fall; not present in summer",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 242,
+    "photos": [242]
+  },
+  {
+    "id": "bucephala-albeola",
+    "commonName": "Bufflehead",
+    "scientificName": "Bucephala albeola",
+    "commonality": "Uncommon in winter and spring; rare in fall; not present in summer",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 243,
+    "photos": [243, 244]
+  },
+  {
+    "id": "lophodytes-cucullatus",
+    "commonName": "Hooded Merganser",
+    "scientificName": "Lophodytes cucullatus",
+    "commonality": "Common in winter; uncommon in spring; rare in summer and fall",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 245,
+    "photos": [245, 246, 247, 248]
+  },
+  {
+    "id": "oxyura-jamaicensis",
+    "commonName": "Ruddy Duck",
+    "scientificName": "Oxyura jamaicensis",
+    "commonality": "Uncommon in fall, winter, and spring; not present in summer",
+    "subgallery": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "featuredPhoto": 250,
+    "photos": [250, 249]
+  },
+  {
     "id": "melanerpes-erythrocephalus",
     "commonName": "Red-headed Woodpecker",
     "scientificName": "Melanerpes erythrocephalus",

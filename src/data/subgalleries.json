@@ -142,13 +142,6 @@
     "speciesGalleries": ["butterflies"]
   },
   {
-    "id": "150ec397-5856-4720-995b-77b4d3cbfd23",
-    "names": [
-      "Woodpeckers"
-    ],
-    "featuredPhoto": 6,
-    "speciesGalleries": ["birds"]
-  },{
     "id": "c92452b2-4ddd-49a0-9290-cc8fa84b40f3",
     "names": [
       "Moss-Eaters and Leaf-Miners (Families Micropterigidae and Eriocraniidae)"
@@ -1068,5 +1061,325 @@
     ],
     "featuredPhoto": null,
     "speciesGalleries": ["moths"]
+  },
+  {
+    "id": "e0a1c1e6-0796-44fe-a5cc-2c3582f3724f",
+    "names": [
+      "Ducks and Geese"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "f7db845d-a0ae-402d-8dc6-4b19772cd5f1",
+    "names": [
+      "Quail"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "680ca665-6151-46be-b13d-f8da98efaa7a",
+    "names": [
+      "Grebes"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "b382abc9-391e-4a50-9719-9cdc7d9a354b",
+    "names": [
+      "Pigeons and Doves"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "091de8c9-6de1-43a6-8ac1-e9d860879087",
+    "names": [
+      "Cuckoos"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "4d4c420c-eb1d-4c4a-a30b-7447bad04b04",
+    "names": [
+      "Goatsuckers and Nightjars"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "2b900e62-c6b7-47d1-b016-e4c823ec64e7",
+    "names": [
+      "Swifts and Hummingbirds"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "ddbf6bab-cf65-440c-9a27-24c19f3f48f3",
+    "names": [
+      "Cranes, Rails, and Coots"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "c62f1c09-1d14-4efb-912d-134072132d22",
+    "names": [
+      "Sandpipers and Applies"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "58238c42-baeb-412f-be22-e8d3c97917e8",
+    "names": [
+      "Gulls and Terns"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "abc80666-0a63-486e-bf16-c13e5b859d60",
+    "names": [
+      "Loons"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "68def50e-839d-4261-a171-54413b5d0c1d",
+    "names": [
+      "Storks"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "e0e87369-28a1-4247-9ffb-080a30b85fca",
+    "names": [
+      "Cormorants"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "462e46de-6b47-4e17-b72a-7d04f97e1129",
+    "names": [
+      "Herons and Egrets"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "19c89ba0-2188-4ecd-aa3e-b172f1efe185",
+    "names": [
+      "Vultures, Hawks, and Eagles"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "9fddadf2-e6c9-4cff-b27f-d05aad79b6f5",
+    "names": [
+      "Owls"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "c2fa3cbb-6d90-403a-a604-1465de11ad1d",
+    "names": [
+      "Kingfishers"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "150ec397-5856-4720-995b-77b4d3cbfd23",
+    "names": [
+      "Woodpeckers"
+    ],
+    "featuredPhoto": 6,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "3bdd0dcf-5018-4b45-98b3-6e72f1c1ca4c",
+    "names": [
+      "Falcons"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "f28b92bb-f4a4-4da4-b406-4cdfb4a3e22c",
+    "names": [
+      "Flycatchers"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "714afc33-c39b-458b-a097-caa1d11b4135",
+    "names": [
+      "Shrikes"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "6d2f1e5b-73ad-49b0-9629-9531564dcb42",
+    "names": [
+      "Vireos"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "9ae46ab5-1bfb-4385-a54e-50e3f4cf9ed0",
+    "names": [
+      "Jays and Crows"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "c227a624-b996-47da-b396-5c74afb3bac1",
+    "names": [
+      "Larks"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "7c95c68a-e680-4993-aefe-4797b357d0e5",
+    "names": [
+      "Martins and Swallows"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "7e99aff0-c7ce-4c05-b651-dec2d4b8cecd",
+    "names": [
+      "Chickadees and Titmice"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "ba9f74a9-97ea-4bf2-af81-fde8b7b62fdb",
+    "names": [
+      "Nuthatches and Creepers"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "ee4ee520-539f-433f-a396-e8d729090241",
+    "names": [
+      "Wrens"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "69fe08ae-1e3d-47ef-a684-cfdfe329245e",
+    "names": [
+      "Gnatcatchers and Kinglets"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "c2a42d4d-f72e-452d-aafa-e0673d345e34",
+    "names": [
+      "Thrushes"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "c3b6a647-0369-4020-8511-44dd498c3d31",
+    "names": [
+      "Thrashers"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "5308fc64-dbd9-4fc5-b566-c7d58658e347",
+    "names": [
+      "Starlings"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "30332cb4-1090-4c89-9ee9-4d08984c9e6d",
+    "names": [
+      "Waxwings and Pipits"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "97c3b5c1-7eed-4543-8c88-f6ef04f98671",
+    "names": [
+      "Old World Sparrows"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "d6f9b3ff-fe8c-46c2-a8fa-8878adf579e3",
+    "names": [
+      "Finches"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "7eb81046-a07b-4278-a86f-7713109a9a43",
+    "names": [
+      "Longspurs"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "8d135fbc-ea9d-46de-b7fa-a67cfed593e3",
+    "names": [
+      "Wood Warblers"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "0dd20397-2ef3-4a69-8da8-9ce70b6af5f7",
+    "names": [
+      "Towhees and Sparrows"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "8a33c552-f4db-4ef4-a03c-caf31723b61f",
+    "names": [
+      "Tanagers, Cardinals, Grosbeaks, and Buntings"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
+  },
+  {
+    "id": "c3b061ca-ff2a-4434-8296-fb78f2fcbf25",
+    "names": [
+      "Blackbirds"
+    ],
+    "featuredPhoto": null,
+    "speciesGalleries": ["birds"]
   }
 ]

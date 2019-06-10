@@ -34,7 +34,6 @@ query Species($id: String!) {
     scientificName
     photos {
       id
-      url
       filename
       caption
       annotations {

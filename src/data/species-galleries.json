@@ -10,5 +10,11 @@
     "name": "Moths",
     "featuredPhoto": 95,
     "public": true
+  },
+  {
+    "id": "birds",
+    "name": "Birds",
+    "featuredPhoto": 218,
+    "public": true
   }
 ]
